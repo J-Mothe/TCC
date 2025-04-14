@@ -1,0 +1,10 @@
+<div class="dashboard">
+    <h2>Dashboard de Dados</h2>
+    <ul>
+      <li *ngFor="let record of dataRecords">
+        {{ record.data }} - {{ record.texto }} - {{ record.sentimento }}
+      </li>
+    </ul>
+    <!-- Aqui você poderá integrar gráficos com bibliotecas como Chart.js, ngx-charts, etc. -->
+  </div>
+  

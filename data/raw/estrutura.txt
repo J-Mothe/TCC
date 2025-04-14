@@ -1,0 +1,44 @@
+Name
+– Nome da conta ou entidade que publicou o tweet.
+
+Handle
+– Identificador (handle) da conta no Twitter, geralmente precedido de “@”.
+
+Timestamp
+– Data e hora em que o tweet foi publicado, no formato ISO 8601 (por exemplo, 2025-04-09T12:55:16.000Z).
+
+Verified
+– Indicador booleano que informa se a conta é verificada (True ou False).
+
+Content
+– Texto do tweet, ou seja, o conteúdo da publicação.
+
+Comments
+– Número de comentários (respostas) que o tweet recebeu.
+
+Retweets
+– Número de retweets (compartilhamentos) que o tweet obteve.
+
+Likes
+– Número de curtidas que o tweet recebeu.
+
+Analytics
+– Pode representar um valor agregado ou métrica relacionada ao engajamento (neste exemplo, os valores são numéricos – por exemplo, “24”, “1.5K”, “275”, etc.).
+
+Tags
+– Lista de hashtags associadas ao tweet. Note que, quando não há hashtags, a coluna apresenta um array vazio ([]), e, quando há, aparecem entre aspas ou delimitadas por colchetes.
+
+Mentions
+– Lista de menções a outras contas, normalmente também apresentada em formato de array (por exemplo, ['@LulaOficial']).
+
+Emojis
+– Lista de emojis presentes no tweet. Em alguns casos, eles são representados por seus códigos Unicode (por exemplo, ['\\U0001f1e7\\U0001f1f7'] ou outros).
+
+Profile Image
+– URL da imagem de perfil da conta que publicou o tweet.
+
+Tweet Link
+– URL que leva ao tweet original na plataforma.
+
+Tweet ID
+– Identificador único do tweet, que pode ser usado para referenciação (por exemplo, “tweet_id:1909953257071325398”).
