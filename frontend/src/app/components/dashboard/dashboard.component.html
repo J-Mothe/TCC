@@ -1,24 +1,12 @@
-<p-card header="Dashboard de Dados">
-  <p-table [value]="dataRecords" responsiveLayout="scroll">
-    <ng-template pTemplate="header">
-      <tr>
-        <th>ID</th>
-        <th>Data</th>
-        <th>Conteúdo</th>
-        <th>Likes</th>
-        <th>Retweets</th>
-        <th>Analytics</th>
-      </tr>
-    </ng-template>
-    <ng-template pTemplate="body" let-record>
-      <tr>
-        <td>{{ record.tweet_id }}</td>
-        <td>{{ record.timestamp | date : "short" }}</td>
-        <td>{{ record.content }}</td>
-        <td>{{ record.likes }}</td>
-        <td>{{ record.retweets }}</td>
-        <td>{{ record.analytics }}</td>
-      </tr>
-    </ng-template>
-  </p-table>
-</p-card>
+<div class="dashboard">
+  <h2>Dashboard de Dados</h2>
+  <ul>
+    <li *ngFor="let record of dataRecords">
+      <strong>ID:</strong> {{ record.tweet_id }} | <strong>Data:</strong>
+      {{ record.timestamp | date : "short" }} | <strong>Conteúdo:</strong>
+      {{ record.content }} | <strong>Likes:</strong> {{ record.likes }} |
+      <strong>Retweets:</strong> {{ record.retweets }} |
+      <strong>Analytics:</strong> {{ record.analytics }}
+    </li>
+  </ul>
+</div>
