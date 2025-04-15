@@ -1,12 +1,14 @@
+import { CommonModule } from '@angular/common';
 import { Component, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
+import { RouterModule } from '@angular/router';
 import { Chart } from 'chart.js/auto';
 
 @Component({
   selector: 'app-graficos',
-  standalone: true,
-  imports: [],
   templateUrl: './graficos.component.html',
   styleUrls: ['./graficos.component.scss'],
+  standalone: true,
+  imports: [CommonModule, RouterModule],
 })
 export class GraficosComponent implements AfterViewInit {
   @ViewChild('pieChart') pieChart!: ElementRef<HTMLCanvasElement>;

@@ -1,0 +1,9 @@
+com\exemplo\meuprojeto\controller\TweetController.class
+com\exemplo\meuprojeto\service\TweetService.class
+com\exemplo\meuprojeto\model\TweetEntity.class
+com\exemplo\meuprojeto\repository\TweetRepository.class
+com\exemplo\meuprojeto\dto\TweetDTO$TweetDTOBuilder.class
+com\exemplo\meuprojeto\config\MongoConfig.class
+com\exemplo\meuprojeto\dto\TweetDTO.class
+com\exemplo\meuprojeto\MeuProjetoApplication.class
+com\exemplo\meuprojeto\model\TweetEntity$TweetEntityBuilder.class

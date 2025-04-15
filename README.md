@@ -92,3 +92,9 @@ Comando exemplo (usei o shell do windows):
 ```bash
 & "C:\MongoDB\Database Tools\bin\mongoimport.exe" --ssl --uri="mongodb+srv://joaomothe:senha@tcc-analise.uqhcvjn.mongodb.net/TCC-Analise?retryWrites=true&w=majority&appName=TCC-Analise" --collection twitter --file "C:\Faculdade\TCC-Analise\TCC\data\processed\brasilia_educação.json" --jsonArray
 ```
+# Rodando o backend
+
+Use o comando:
+```bash
+mvn spring-boot:run
+```
