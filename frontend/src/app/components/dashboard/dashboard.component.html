@@ -1,10 +1,11 @@
 <div class="dashboard">
-    <h2>Dashboard de Dados</h2>
-    <ul>
-      <li *ngFor="let record of dataRecords">
-        {{ record.data }} - {{ record.texto }} - {{ record.sentimento }}
-      </li>
-    </ul>
-    <!-- Aqui você poderá integrar gráficos com bibliotecas como Chart.js, ngx-charts, etc. -->
-  </div>
-  
+  <h2>Dashboard de Dados</h2>
+  <ul>
+    <li *ngFor="let record of dataRecords">
+      <strong>ID:</strong> {{ record.tweet_id }} | <strong>Data:</strong>
+      {{ record.timestamp }} | <strong>Conteúdo:</strong> {{ record.content }} |
+      <strong>Likes:</strong> {{ record.likes }} | <strong>Retweets:</strong>
+      {{ record.retweets }} | <strong>Analytics:</strong> {{ record.analytics }}
+    </li>
+  </ul>
+</div>
