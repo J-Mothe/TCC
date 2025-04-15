@@ -1,0 +1,19 @@
+.sobre {
+  background-color: #121212;
+  color: #e0e0e0;
+  padding: 2rem;
+  min-height: 100vh;
+  box-sizing: border-box;
+  text-align: center;
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+}

@@ -67,7 +67,25 @@ Lembre-se de estar dentro da pasta app ou colocar o caminho para dentro do app
 
 ## Importando para o banco
 
-Use o comando: mongoimport
+Baixe o arquivo com o DataBase Tools:
+https://www.mongodb.com/try/download/database-tools
+
+Após extrair por exemplo para:
+C:\Program Files\MongoDB\Database Tools\
+
+Adicione o caminho no PATH
+- Abra o Painel de Controle ou pesquise por "Variáveis de Ambiente" no menu Iniciar.
+
+- Clique em "Editar as variáveis de ambiente do sistema".
+
+- Na janela que abrir, clique em "Variáveis de Ambiente...".
+
+- Em "Variáveis do Sistema", localize a variável PATH e clique em "Editar".
+
+- Clique em "Novo" e adicione o caminho para a pasta onde você extraiu os Database Tools, por exemplo:
+- C:\Program Files\MongoDB\Database Tools\bin
+
+Agora você pode usar o comando: mongoimport
 
 Lembre-se de mudar o usuario, senha, estar conectado com cluster e mudar o nome do arquivo.
 Comando exemplo (usei o shell do windows):
