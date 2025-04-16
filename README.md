@@ -1,100 +1,124 @@
 # Análise de Sentimentos para Monitoramento da Opinião Pública em Redes Sociais sobre Serviços Públicos
 
-## Descrição
-Projeto para coletar, processar e analisar postagens de redes sociais (Twitter e Facebook) com o objetivo de monitorar a opinião pública sobre serviços públicos. O projeto utiliza um scraper customizado para extrair dados, que são processados e armazenados em um banco de dados MongoDB. O back-end é desenvolvido em Spring Boot e o front-end em Angular.
+## 📌 Descrição
+Este projeto tem como objetivo coletar, processar e analisar postagens de redes sociais (Twitter e Facebook) para monitorar a opinião pública sobre serviços públicos no Brasil. Através de técnicas de scraping e análise de dados, é possível identificar sentimentos e padrões relevantes nas postagens.
 
-## Estrutura do Projeto
-- **backend/**: Projeto Spring Boot com endpoints REST para interação com o MongoDB.
-- **frontend/**: Aplicação Angular para visualização dos dados (dashboards, gráficos, etc.).
-- **data/**: Arquivos CSV brutos, dados processados e scripts de pré-processamento.
-  - **raw/**: Arquivos CSV originais.
-  - **processed/**: Arquivos JSON com os dados processados.
-  - **scripts/**: Scripts (ex.: process_csv.py) para o tratamento dos dados.
-- **docs/**: Documentação do projeto.
+A solução conta com:
+- Scraper customizado para extração de dados.
+- Pré-processamento e enriquecimento dos dados (ex: categorização).
+- Armazenamento em banco de dados MongoDB.
+- Backend em Java Spring Boot.
+- Frontend moderno e responsivo com Angular + PrimeNG v19.
 
-## Requisitos
+---
+
+## 🧱 Estrutura do Projeto
+
+```
+TCC-Analise/
+│
+├── backend/           # Aplicação Spring Boot (REST API)
+├── frontend/          # Aplicação Angular (dashboard e gráficos)
+├── data/              # Dados de entrada e saída
+│   ├── raw/           # Arquivos CSV originais
+│   ├── processed/     # Dados tratados em JSON
+│   └── scripts/       # Scripts de processamento (Python)
+├── docs/              # Documentação do projeto
+└── README.md
+```
+
+---
+
+## ✅ Requisitos
+
 - Java 11 ou superior
 - Maven
-- Node.js e Angular CLI
-- MongoDB
+- Node.js (v18+ recomendado)
+- Angular CLI
+- MongoDB (local ou Atlas)
+- MongoDB Database Tools (para importação de dados)
 
-## Instruções de Execução
+---
 
-### Clone
-Para fazer o clone deste projeto, copie a URL abaixo:
+## ⚙️ Passo a Passo para Rodar o Projeto
+
+### 1. Clone o repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-```
-## Baixar as bibliotecas 
-
-Navegue até a pasta do projeto Angular:
-```bash
-    cd frontend
+git clone https://github.com/seuusuario/TCC-Analise.git
+cd TCC-Analise
 ```
 
-Abra o terminal dentro da pasta do projeto e execute:
+---
+
+### 2. Instale dependências do Frontend (Angular)
 ```bash
-    npm install
+cd frontend
+npm install
 ```
 
-## Instalações Globais
+---
 
-Ainda no terminal do Visual Studio Code, execute o seguinte comando (se ainda não estiver instalado):
+### 3. Instale o Angular CLI (caso não tenha)
 ```bash
-   npm install -g @angular/cli
-```
-## Executar o projeto
-
-Para iniciar a aplicação Angular:
-```bash
-    cd frontend
-    ng serve
-```
-A aplicação ficará disponível em http://localhost:4200.
-
-Para criar componentes e serviços no Angular:
-
-Para criar um componente:
-```bash
-ng generate component components/dashboard
+npm install -g @angular/cli
 ```
 
-Para criar um serviço:
+---
+
+### 4. Rode o Frontend
 ```bash
-ng generate service services/api
+ng serve
 ```
-Lembre-se de estar dentro da pasta app ou colocar o caminho para dentro do app
+Acesse: http://localhost:4200
 
-## Importando para o banco
+---
 
-Baixe o arquivo com o DataBase Tools:
-https://www.mongodb.com/try/download/database-tools
+### 5. Importe os dados para o MongoDB
 
-Após extrair por exemplo para:
-C:\Program Files\MongoDB\Database Tools\
+Baixe e configure os Database Tools:  
+[https://www.mongodb.com/try/download/database-tools](https://www.mongodb.com/try/download/database-tools)
 
-Adicione o caminho no PATH
-- Abra o Painel de Controle ou pesquise por "Variáveis de Ambiente" no menu Iniciar.
+Adicione a pasta `bin` no seu PATH do sistema.
 
-- Clique em "Editar as variáveis de ambiente do sistema".
-
-- Na janela que abrir, clique em "Variáveis de Ambiente...".
-
-- Em "Variáveis do Sistema", localize a variável PATH e clique em "Editar".
-
-- Clique em "Novo" e adicione o caminho para a pasta onde você extraiu os Database Tools, por exemplo:
-- C:\Program Files\MongoDB\Database Tools\bin
-
-Agora você pode usar o comando: mongoimport
-
-Lembre-se de mudar o usuario, senha, estar conectado com cluster e mudar o nome do arquivo.
-Comando exemplo (usei o shell do windows):
+Exemplo de comando de importação:
 ```bash
-& "C:\MongoDB\Database Tools\bin\mongoimport.exe" --ssl --uri="mongodb+srv://joaomothe:senha@tcc-analise.uqhcvjn.mongodb.net/TCC-Analise?retryWrites=true&w=majority&appName=TCC-Analise" --collection twitter --file "C:\Faculdade\TCC-Analise\TCC\data\processed\brasilia_educação.json" --jsonArray
+mongoimport --uri="mongodb+srv://usuario:senha@cluster.mongodb.net/TCC-Analise" --collection twitter --file "data/processed/brasilia_educacao.json" --jsonArray
 ```
-# Rodando o backend
 
-Use o comando:
+---
+
+### 6. Rode o Backend (Spring Boot)
 ```bash
+cd backend
 mvn spring-boot:run
 ```
+API disponível em: http://localhost:8080/api/tweets/listar
+
+---
+
+## 🧪 Exemplos de Comandos Úteis
+
+### Criar novo componente Angular:
+```bash
+ng generate component components/novo-componente
+```
+
+### Criar novo serviço Angular:
+```bash
+ng generate service services/novo-servico
+```
+
+---
+
+## 👨‍💻 Autores
+
+Este projeto foi desenvolvido por:
+
+- João Mothe  
+- Giulia Silva
+
+---
+
+## 📄 Licença
+Este projeto é apenas para fins acadêmicos e não possui fins comerciais.
+

@@ -18,7 +18,6 @@ public class TweetService {
 
     public List<TweetDTO> getAllTweets(Sort sort) {
         List<TweetEntity> tweets = tweetRepository.findAll(sort);
-        // Converte as entidades para DTOs
         return tweets.stream()
                 .map(tweet -> TweetDTO.builder()
                         .tweetId(tweet.getTweetId())
@@ -27,6 +26,7 @@ public class TweetService {
                         .likes(tweet.getLikes())
                         .retweets(tweet.getRetweets())
                         .analytics(tweet.getAnalytics())
+                        .categoria(tweet.getCategoria())
                         .build())
                 .collect(Collectors.toList());
     }

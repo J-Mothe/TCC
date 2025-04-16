@@ -18,17 +18,14 @@
   </parent>
 
   <dependencies>
-    <!-- Starter Web para criação de APIs REST -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
-    <!-- Starter Data MongoDB para integração com o MongoDB -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-data-mongodb</artifactId>
     </dependency>
-    <!-- Dependência para testes (JUnit, etc.) -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-test</artifactId>
@@ -44,7 +41,6 @@
 
   <build>
     <plugins>
-      <!-- Plugin Spring Boot Maven -->
       <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>

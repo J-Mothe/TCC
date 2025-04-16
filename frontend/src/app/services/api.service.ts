@@ -7,7 +7,6 @@ import { environment } from '../environments/environment';
   providedIn: 'root'
 })
 export class ApiService {
-  // URL base definida no environment
   private baseUrl = environment.apiUrl;
 
   constructor(private http: HttpClient) { }
@@ -16,5 +15,4 @@ export class ApiService {
     return this.http.get<any[]>(this.baseUrl + 'listar');
   }
   
-  // Adicione métodos para POST, PUT, DELETE se necessário.
 }

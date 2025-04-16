@@ -1,10 +1,12 @@
-<div class="sidebar">
-  <ul>
-    <li *ngFor="let item of menuItems">
-      <a [routerLink]="item.routerLink" routerLinkActive="active">
-        <i class="{{ item.icon }}"></i>
-        <span>{{ item.label }}</span>
-      </a>
-    </li>
-  </ul>
+<div class="sidebar-container">
+  <div class="sidebar-header">
+    <img src="assets/logo_sem_fundo.png" alt="Logo" class="logo" />
+  </div>
+
+  <p-menu [model]="menuItems" styleClass="sidebar-menu"></p-menu>
+
+  <div class="sidebar-footer">
+    <p class="footer-label">Membros do Projeto</p>
+    <p class="footer-names">Joao Victor Mothé Vantil &amp; Giulia Capelo Bezerra</p>
+  </div>
 </div>

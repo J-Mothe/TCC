@@ -1,39 +1,121 @@
-.dashboard {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  min-height: 100vh;
+.dashboard-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
   background-color: #121212;
   color: #e0e0e0;
-  padding: 2rem;
-  box-sizing: border-box;
+}
 
-  h2 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
+.header {
+  text-align: center;
+  margin: 1rem 0;
+
+  .titulo-pagina {
+    font-size: 2.4rem;
+    color: #34d399;
+    margin: 0;
+    padding: 1rem 0;
+  }
+}
+
+.filter-bar {
+  margin: 0 2rem;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.search-group {
+  flex: 0 0 300px;
+
+  .p-input-icon-left {
+    position: relative;
+    width: 100%;
+
+    i {
+      position: absolute;
+      left: 0.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 0.8rem;
+    }
+
+    input {
+      width: 100%;
+      padding-left: 2.5rem;
+      border-radius: 4px;
+    }
+  }
+}
+
+.buttons-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+p-tabs {
+  margin: 0 2rem;
+  width: auto;
+  background: transparent;
+
+  .p-tablist {
+    justify-content: flex-start;
   }
 
-  ul {
-    list-style: none;
+  .p-tabpanels {
+    margin: 0;
     padding: 0;
+  }
+  p-tab {
+    padding: 1rem;
+  }
+}
+
+p-table {
+  width: 100%;
+  background-color: #1f1f1f;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  color: #e0e0e0;
+
+  .p-datatable-thead > tr > th {
+    background-color: #2a2a2a;
+    text-align: center;
+    padding: 1rem;
+    white-space: nowrap;
+  }
+
+  .p-datatable-tbody > tr > td {
+    text-align: center;
+    padding: 0.75rem;
+    vertical-align: middle;
+  }
+
+  .p-sortIcon {
+    margin-left: 0.3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .filter-bar {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .search-group {
+    flex: 0 0 auto;
     width: 100%;
-    max-width: 800px;
+    margin-bottom: 0.5rem;
+  }
 
-    li {
-      background: #1f1f1f;
-      padding: 1rem;
-      margin-bottom: 0.75rem;
-      border-radius: 8px;
-      transition: background 0.3s ease;
+  .buttons-group {
+    justify-content: center;
+  }
 
-      &:hover {
-        background: #333;
-      }
-
-      strong {
-        color: #ff4081;
-      }
-    }
+  p-tabs {
+    margin: 0 1rem;
   }
 }

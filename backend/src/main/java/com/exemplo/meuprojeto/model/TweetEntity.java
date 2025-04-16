@@ -11,18 +11,19 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Document(collection = "twitter") // Certifique-se de usar o nome correto da collection
+@Document(collection = "twitter")
 public class TweetEntity {
 
     @Id
-    private String id; // Mapeia o campo _id (ObjectId) como String
+    private String id;
 
     @Field("tweet_id")
-    private Long tweetId; // Mapeia o campo tweet_id do documento
+    private Long tweetId;
 
     private Date timestamp;
     private String content;
     private Integer likes;
     private Integer retweets;
     private Integer analytics;
+    private String categoria;
 }

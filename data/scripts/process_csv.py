@@ -24,7 +24,7 @@ def convert_numeric(value):
         except ValueError:
             return 0
 
-def process_csv(input_file, output_file):
+def process_csv(input_file, output_file, categoria_forcada="educação"):
     processed_data = []
     
     with open(input_file, 'r', encoding='utf-8') as csvfile:
@@ -50,7 +50,8 @@ def process_csv(input_file, output_file):
                 'content': row.get('Content', '').strip(),
                 'likes': convert_numeric(row.get('Likes', '')),
                 'retweets': convert_numeric(row.get('Retweets', '')),
-                'analytics': convert_numeric(row.get('Analytics', ''))
+                'analytics': convert_numeric(row.get('Analytics', '')),
+                'categoria': categoria_forcada  # Adiciona a categoria forçada
             }
             processed_data.append(processed_record)
     
@@ -58,7 +59,8 @@ def process_csv(input_file, output_file):
         jsonfile.write(dumps(processed_data, indent=4))
 
 if __name__ == "__main__":
-    input_csv = '../raw/1000_brasilia_educação.csv'   # Caminho do CSV bruto (Mudar nome)
-    output_json = '../processed/brasilia_educação.json'  # Caminho para o JSON processado (Mudar nome)
-    process_csv(input_csv, output_json)
+    input_csv = '../raw/1000_brasilia_educação.csv'   # Caminho do CSV bruto (modifique se necessário)
+    output_json = '../processed/brasilia_educação.json'  # Caminho para o JSON processado (modifique se necessário)
+    # Altere "educação" para outro valor se desejar mudar a categoria.
+    process_csv(input_csv, output_json, categoria_forcada="educação")
     print("Processamento concluído!")
