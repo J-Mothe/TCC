@@ -114,7 +114,7 @@ ng generate service services/novo-servico
 
 Este projeto foi desenvolvido por:
 
-- João Victor Mothé VAntil 
+- João Victor Mothé Vantil 
 - Giulia Campelo Bezerra
 
 ---
