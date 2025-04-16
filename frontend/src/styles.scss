@@ -1,15 +1,12 @@
-// @import './style.config/variaveis.scss';
-// @import './style.config/color.scss';
 @import "primeflex/primeflex.css";
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap");
 @import "../node_modules/quill/dist/quill.core.css";
 @import "../node_modules/quill/dist/quill.snow.css";
-@import "primeicons/primeicons.css";
 
 html {
   --scrollbarBG: #cfd8dc;
   --thumbBG: #90a4ae;
-  background-color: #121212; /* Fundo dark para toda a aplicação */
+  background-color: #121212;
   color: #e0e0e0;
 }
 

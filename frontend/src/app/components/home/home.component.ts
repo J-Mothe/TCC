@@ -1,13 +1,20 @@
 import { Component } from '@angular/core';
-import { Router } from '@angular/router';
-import { SidebarComponent } from '../sidebar/sidebar.component';
+import { Router, RouterModule } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { CardModule } from 'primeng/card';
+import { ButtonModule } from 'primeng/button';
 
 @Component({
   selector: 'app-home',
-  standalone: true,
-  imports: [SidebarComponent],
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss'],
+  standalone: true,
+  imports: [
+    CommonModule,
+    RouterModule,
+    CardModule,
+    ButtonModule,
+  ],
 })
 export class HomeComponent {
   constructor(private router: Router) {}

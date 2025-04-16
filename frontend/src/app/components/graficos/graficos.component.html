@@ -1,6 +1,39 @@
 <div class="graficos">
-  <h2>Gráfico de Pizza - Dados Fictícios</h2>
-  <div class="chart-container">
-    <canvas #pieChart></canvas>
+  <h2>Gráficos</h2>
+  <div class="charts-wrapper">
+    <div class="chart-card">
+      <p-card styleClass="chart-card-content">
+        <ng-template pTemplate="header">
+          <h3 class="chart-title">Distribuição de Categorias</h3>
+        </ng-template>
+        <div class="chart-container">
+          <canvas #pieChart></canvas>
+        </div>
+      </p-card>
+    </div>
+
+    <div class="chart-card">
+      <p-card styleClass="chart-card-content">
+        <ng-template pTemplate="header">
+          <h3 class="chart-title">Volume Mensal de Tweets</h3>
+        </ng-template>
+        <div class="chart-container">
+          <canvas #barChart></canvas>
+        </div>
+      </p-card>
+    </div>
+
+    <div class="chart-card">
+      <p-card styleClass="chart-card-content">
+        <ng-template pTemplate="header">
+          <h3 class="chart-title">Evolução Semanal de Sentimentos</h3>
+        </ng-template>
+        <div class="chart-container">
+          <canvas #lineChart></canvas>
+        </div>
+      </p-card>
+    </div>
   </div>
+
+  <p-confirmPopup></p-confirmPopup>
 </div>

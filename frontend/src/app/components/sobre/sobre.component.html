@@ -1,11 +1,45 @@
-<div class="sobre">
-  <h1>Sobre o Projeto</h1>
-  <p>
-    Este projeto tem como objetivo coletar, processar e analisar postagens de
-    redes sociais para monitorar a opinião pública sobre serviços públicos.
-    Utilizamos técnicas de scraping para extrair dados, que são processados e
-    armazenados em um banco de dados MongoDB. O back-end é desenvolvido em
-    Spring Boot e o front-end em Angular, proporcionando uma interface moderna e
-    interativa.
-  </p>
+<div class="sobre-container">
+  <p-card styleClass="sobre-card">
+    <ng-template pTemplate="header">
+      <div class="card-header">
+        <h1>Sobre o Projeto</h1>
+        <h2>Análise de Sentimentos & Monitoramento em Redes Sociais</h2>
+      </div>
+    </ng-template>
+
+    <ng-template pTemplate="content">
+      <p>
+        Este projeto tem como objetivo coletar, processar e analisar postagens
+        de redes sociais para monitorar a opinião pública sobre serviços
+        públicos. Utilizamos técnicas avançadas de scraping para extrair dados,
+        que são então processados e armazenados em um banco de dados MongoDB.
+      </p>
+      <p>
+        O back-end foi desenvolvido em Spring Boot e o front-end em Angular,
+        proporcionando uma interface moderna, interativa e responsiva. Com essa
+        estrutura, é possível visualizar métricas, gerar relatórios e obter
+        insights profundos sobre o sentimento do público.
+      </p>
+
+      <div class="features">
+        <h3>Principais Recursos:</h3>
+        <ul>
+          <li>
+            <i class="pi pi-check-circle"></i> Coleta automatizada de dados
+          </li>
+          <li>
+            <i class="pi pi-check-circle"></i> Processamento e análise
+            inteligente
+          </li>
+          <li>
+            <i class="pi pi-check-circle"></i> Relatórios dinâmicos e dashboards
+            interativos
+          </li>
+          <li>
+            <i class="pi pi-check-circle"></i> Monitoramento em tempo real
+          </li>
+        </ul>
+      </div>
+    </ng-template>
+  </p-card>
 </div>
