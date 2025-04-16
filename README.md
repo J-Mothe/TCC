@@ -92,7 +92,7 @@ mongoimport --uri="mongodb+srv://usuario:senha@cluster.mongodb.net/TCC-Analise" 
 cd backend
 mvn spring-boot:run
 ```
-API disponível em: http://localhost:8080/api/tweets/listar
+API disponível em: http://localhost:8080/api/tweets
 
 ---
 
@@ -114,8 +114,8 @@ ng generate service services/novo-servico
 
 Este projeto foi desenvolvido por:
 
-- João Mothe  
-- Giulia Silva
+- João Victor Mothé VAntil 
+- Giulia Campelo Bezerra
 
 ---
 
