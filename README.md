@@ -50,9 +50,7 @@ O script localizado em `data/scripts` é responsável por:
 3. **Análise de Sentimento**:
    - Usa o modelo `lipaoMai/BERT-sentiment-analysis-portuguese` da Hugging Face.
    - Classifica o sentimento como `positivo`, `negativo` ou `neutro`.
-4. **Conversão numérica**:
-   - Trata valores como “1.5K”, “1500.0”, etc. e exporta como `$numberInt` ou `$numberDouble`.
-5. **Exportação final**:
+4. **Exportação final**:
    - Gera um JSON estruturado para importação no MongoDB.
 
 Exemplo de saída:
