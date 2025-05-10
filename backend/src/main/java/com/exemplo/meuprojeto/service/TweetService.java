@@ -27,6 +27,7 @@ public class TweetService {
                         .retweets(tweet.getRetweets())
                         .analytics(tweet.getAnalytics())
                         .categoria(tweet.getCategoria())
+                        .sentimento(tweet.getSentimento())
                         .build())
                 .collect(Collectors.toList());
     }

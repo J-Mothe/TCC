@@ -26,4 +26,5 @@ public class TweetEntity {
     private Integer retweets;
     private Integer analytics;
     private String categoria;
+    private String sentimento;
 }

@@ -15,4 +15,5 @@ public class TweetDTO {
     private Integer retweets;
     private Integer analytics;
     private String categoria;
+    private String sentimento;
 }
