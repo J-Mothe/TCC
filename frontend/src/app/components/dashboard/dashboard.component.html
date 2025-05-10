@@ -57,7 +57,8 @@
             'likes',
             'retweets',
             'analytics',
-            'categoria'
+            'categoria',
+            'sentimento'
           ]"
           responsiveLayout="scroll"
           currentPageReportTemplate="Mostrando {first} de {last} de {totalRecords}"
@@ -89,6 +90,9 @@
               <th pSortableColumn="categoria">
                 Categoria <p-sortIcon field="categoria"></p-sortIcon>
               </th>
+              <th pSortableColumn="sentimento">
+                Sentimento <p-sortIcon field="sentimento"></p-sortIcon>
+              </th>
             </tr>
           </ng-template>
 
@@ -103,6 +107,7 @@
               <td class="text-center">{{ record.retweets }}</td>
               <td class="text-center">{{ record.analytics }}</td>
               <td class="text-center">{{ record.categoria }}</td>
+              <td class="text-center">{{ record.sentimento }}</td>
             </tr>
           </ng-template>
 

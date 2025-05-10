@@ -1,7 +1,7 @@
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\service\TweetService.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\controller\TweetController.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\MeuProjetoApplication.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\repository\TweetRepository.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\model\TweetEntity.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\dto\TweetDTO.java
-C:\Faculdade\TCC-Analise\TCC\backend\src\main\java\com\exemplo\meuprojeto\config\MongoConfig.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\model\TweetEntity.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\repository\TweetRepository.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\service\TweetService.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\controller\TweetController.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\MeuProjetoApplication.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\config\MongoConfig.java
+C:\Projetos\TCC\backend\src\main\java\com\exemplo\meuprojeto\dto\TweetDTO.java
