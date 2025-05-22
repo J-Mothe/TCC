@@ -1,0 +1,5282 @@
+[
+    {
+        "tweet_id": {
+            "$numberLong": "1917311194169229531"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745957585000"
+            }
+        },
+        "content": "Seguran\u00e7a p\u00fablica deveria ser municipalizada, assim como a sa\u00fade e a educa\u00e7\u00e3o. \n\u00c9 no munic\u00edpio q est\u00e3o os problemas e, tbm, as solu\u00e7\u00f5es. N\u00e3o no congresso. Menos Bras\u00edlia e mais Brasil.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1917253268389929142"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745943774000"
+            }
+        },
+        "content": "Hugo Mota, essa PEC n\u00e3o tem nada de seguran\u00e7a, vc sabe disso! \nPor tr\u00e1s dessa PEC tem uma Pol\u00edtica de tomar o poder dos Estados de Seguran\u00e7a P\u00fablica; a Uni\u00e3o n\u00e3o consegue prover o m\u00ednimo b\u00e1sico \u00e0 Popula\u00e7\u00e3o como Sa\u00fade, Educa\u00e7\u00e3o, j\u00e1 centralizado em Bras\u00edlia, imagina a Seguran\u00e7a que",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "16"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1916912171109187601"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745862450000"
+            }
+        },
+        "content": "Aqui em Bras\u00edlia sa\u00fade publica e transporte s\u00e3o horr\u00edveis!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1916868976157589595"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745852152000"
+            }
+        },
+        "content": "Bras\u00edlia foi sonhada como um projeto de futuro: modernidade, inova\u00e7\u00e3o e esperan\u00e7a. Com mais de 3 milh\u00f5es de habitantes, a capital enfrenta grandes desafios: sa\u00fade p\u00fablica em crise e mobilidade urbana que n\u00e3o acompanha o crescimento da cidade. A luta continua.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "151"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915922834229993707"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745626574000"
+            }
+        },
+        "content": "Nao \u00e9 miser\u00e1vel, mas tb nao tem luxos.\nNuma cidade igual Bras\u00edlia vc mora no entorno (1h pra ir pro trabalho de carro)\nFilho em escola publica, plano de sa\u00fade empresarial, e sofre pra pagar um carro de 50k.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "18"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915863468902854675"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745612420000"
+            }
+        },
+        "content": "A sa\u00fade l\u00e1 em Bras\u00edlia est\u00e1 um horror, tanto p\u00fablica quanto a particular",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "14"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915148841910755631"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745442040000"
+            }
+        },
+        "content": "Prefeito S\u00e9rgio Reis intensifica articula\u00e7\u00e3o pol\u00edtica em Bras\u00edlia e refor\u00e7a compromisso com a Sa\u00fade P\u00fablica de Lagarto. Confira em https://fanf1.com.br/2025/04/23/prefeito-sergio-reis-intensifica-articulacao-politica-em-brasilia-e-reforca-compromisso-com-a-saude-publica-de-lagarto\u2026 \n #pol\u00edtica #noticias #SergipeNot\u00edcias #FanF1 #Sergipe #Aracaju #Nordeste",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "31"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1917253268389929142"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745943774000"
+            }
+        },
+        "content": "Hugo Mota, essa PEC n\u00e3o tem nada de seguran\u00e7a, vc sabe disso! \nPor tr\u00e1s dessa PEC tem uma Pol\u00edtica de tomar o poder dos Estados de Seguran\u00e7a P\u00fablica; a Uni\u00e3o n\u00e3o consegue prover o m\u00ednimo b\u00e1sico \u00e0 Popula\u00e7\u00e3o como Sa\u00fade, Educa\u00e7\u00e3o, j\u00e1 centralizado em Bras\u00edlia, imagina a Seguran\u00e7a que",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "16"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915118562450215291"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745434821000"
+            }
+        },
+        "content": "O querido governador de Bras\u00edlia esqueceu de cuidar da sa\u00fade p\u00fablica de Bras\u00edlia tem 3 horas que estou na upa esperando triagem",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "48"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915020331808686098"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745411401000"
+            }
+        },
+        "content": "Wladimir Gramacho, do Centro de Pesquisa em Comunica\u00e7\u00e3o Pol\u00edtica Sa\u00fade P\u00fablica (CPS) da Universidade de Bras\u00edlia (UnB), apresenta artigo em que investiga como diferentes contextos informacionais influenciam a mensura\u00e7\u00e3o de efeitos de enquadramento.https://youtu.be/6K1wVTyzv7k",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "26"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1914775957593874856"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745353137000"
+            }
+        },
+        "content": "A Fiocruz Bras\u00edlia, em parceria com o Minist\u00e9rio da Sa\u00fade, lan\u00e7ou chamada p\u00fablica nacional para selecionar 300 projetos de Supervis\u00e3o Institucional da RAPS! Inscri\u00e7\u00f5es: 22/04 a 11/05 Confira a chamada p\u00fablica e fa\u00e7a sua inscri\u00e7\u00e3o: http://bit.ly/chamadapublica-caps\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "23"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1913563369040208010"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745064034000"
+            }
+        },
+        "content": "Bras\u00edlia est\u00e1 cercada e dividida entre o meio empresarial. Os empres\u00e1rios Capitanearam Bras\u00edlia? Um viaduto aqui, uma obra ali, o povo trabalhador esgotado, a sa\u00fade p\u00fablica destru\u00edda,a Educa\u00e7\u00e3o ignorada. Acorda Bras\u00edlia!",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "50"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1912528090523201795"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744817204000"
+            }
+        },
+        "content": "Quanto tempo quem busca atendimento na sa\u00fade de S\u00e3o Paulo privatizada e na sa\u00fade privatizada do Arcabou\u00e7o Fiscal de  ?\nAdivinha pagar o sal\u00e1rio do piso da enfermagem ningu\u00e9m quer .\n  p\u00fablico na sa\u00fade p\u00fablica do munic\u00edpio de S\u00e3o Paulo inimigo pol\u00edtico de Bras\u00edlia?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "25"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1912170413687239116"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744731927000"
+            }
+        },
+        "content": "DF TV mostrando o caos da sa\u00fade p\u00fablica em Bras\u00edlia. Um absurdo o que est\u00e3o fazendo com os beb\u00eas que est\u00e3o com bronqueolite e precisam de atendimento urgente.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "15"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1911941285235024008"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744677299000"
+            }
+        },
+        "content": "O Sus tinha que ser descentralizado. Cada Estado adotar o seu modelo de sa\u00fade p\u00fablica, isso seria MUITO MELHOR da maneira que \u00e9 feita hj. Mas para isso primeiro ter\u00edamos que ter uma federa\u00e7\u00e3o de verdade, e n\u00e3o essa patifaria que existe hoje em que Bras\u00edlia manda no pa\u00eds todo.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1911331709838049509"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744531965000"
+            }
+        },
+        "content": "Um sistema de sa\u00fade p\u00fablica horr\u00edvel, tanto que Lula n\u00e3o fica nem em hospital particular de Bras\u00edlia e vai para o hospital caro em Sp, ele quer dist\u00e2ncia do SUS,assim como outros pol\u00edticos de esquerda, e a Petra Gil s\u00f3 vai sobreviver porque passou longe do SUS e foi para o Eua.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "70"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1911186111407218874"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744497251000"
+            }
+        },
+        "content": "Merm\u00e3o as primeiras not\u00edcias do DFTV2 \u00e9 sobre o DESCASO na sa\u00fade p\u00fablica de Bras\u00edlia... irm\u00e3o que merda de governo",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "84"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1910784323168489725"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744401457000"
+            }
+        },
+        "content": "#Sa\u00fade E o Lula s\u00f3 usa o Servi\u00e7o de Sa\u00fade Privada do Hospital S\u00edrio Liban\u00eas de S\u00e3o Paulo ...Se o SUS \u00e9 T\u00e3o Bom cuida de todos os Brasileiros sem discrimina\u00e7\u00e3o porque o Lula n\u00e3o usa o Hospital P\u00fablico da Sa\u00fade P\u00fablica do #SUS de #Bras\u00edlia do Brasil?!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1910783726864511482"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744401315000"
+            }
+        },
+        "content": "#Sa\u00fade E o Lula s\u00f3 usa o Servi\u00e7o de Sa\u00fade Privada do Hospital S\u00edrio Liban\u00eas de S\u00e3o Paulo ...Se o SUS \u00e9 T\u00e3o Bom cuida de todos os Brasileiros sem discrimina\u00e7\u00e3o porque o Lula n\u00e3o usa o Hospital P\u00fablico da Sa\u00fade P\u00fablica do #SUS de #Bras\u00edlia do Brasil?!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "17"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1910368873687257308"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744302407000"
+            }
+        },
+        "content": "Temos urg\u00eancia:\nNa sa\u00fade \nNa habilita\u00e7\u00e3o \nNo tratamento de esgoto. \nSaneamento b\u00e1sico. \nEduca\u00e7\u00e3o. \nSeguran\u00e7a p\u00fablica. \nA coisa menos urg\u00eancia no Brasil \u00e9 tentar absolver bandidos terroristas que atacaram Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "2"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1910036215115702680"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744223095000"
+            }
+        },
+        "content": "A  e a Faculdade de Sa\u00fade P\u00fablica da , por meio do Nethis/Fiocruz Bras\u00edlia e do Cepedisa/USP, unem-se para debater a regula\u00e7\u00e3o da intelig\u00eancia artificial na sa\u00fade. Confira a programa\u00e7\u00e3o completa: http://bit.ly/seminario-nethis-cepedisa\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "617"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1909333738061726076"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744055611000"
+            }
+        },
+        "content": "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica se consolida como banco de dados gen\u00e9tico",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1908920287480930461"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743957037000"
+            }
+        },
+        "content": "Qual a pauta importante para o pa\u00eds sendo discutida em Bras\u00edlia?\n1.Recursos para sa\u00fade?\n2.Recursos para educa\u00e7\u00e3o?\n3.Melhora na seguran\u00e7a p\u00fablica?\n4.Resposta a desastres clim\u00e1ticos?\n5.Anistia a quem comete crimes?\nEspero, sinceramente, que as quatro primeiras sejam prioridade.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "24"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1908897590164275359"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743951625000"
+            }
+        },
+        "content": "Ajudar resolver os problemas da sa\u00fade p\u00fablica ela n\u00e3o quer,mais cheirar o cool do bolsobosta e da corremao do congresso isso ela faz mt bem.\nEssa a\u00ed \u00e9 um  lixo q Brasilia leva nas costas.\nS\u00f3 qria saber qm paga essas viagens de encontros de terroristas e de organiza\u00e7\u00e3o criminosa?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "31"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1907114142839742625"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743526418000"
+            }
+        },
+        "content": "2. Sa\u00fade p\u00fablica \u00e9 p\u00e9ssima em toda Bras\u00edlia inclu\u00eddo as R.A. Atendimento p\u00e9ssimo nas UPAs/UBS. 5h a 1 dia espera;\n...",
+        "likes": {
+            "$numberInt": "14"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "581"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1905727277595557898"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743195764000"
+            }
+        },
+        "content": "Em defesa do Hospital Saboya e da sa\u00fade da popula\u00e7\u00e3o!\n\nEnquanto o prefeito faz lobby em Bras\u00edlia para manter o confisco de aposentadorias e pens\u00f5es, eu luto pelo fim do confisco e pela qualidade da sa\u00fade p\u00fablica de S\u00e3o Paulo.",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "102"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1905627217746424182"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743171908000"
+            }
+        },
+        "content": "A equipe da Hemodin\u00e2mica do Hospital de Base do Distrito Federal (HBDF) realizou, no \u00faltimo dia 13 de mar\u00e7o, o primeiro implante de marcapasso sem fio na hist\u00f3ria da rede p\u00fablica de sa\u00fade do DF.\n\n\u25ba Acompanhe esta e mais not\u00edcias do dia pelo nosso site:https://brasiliaagora.com.br/equipe-do-hospital-de-base-implanta-o-primeiro-marcapasso-sem-fio-na-rede-publica-do-df/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1905349145000288550"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743105610000"
+            }
+        },
+        "content": "Na CIT gestores do SUS debatem, com a nova gest\u00e3o do Minist\u00e9rio, temas importantes para a sa\u00fade p\u00fablicaOs n\u00fameros da dengue e as pr\u00f3ximas a\u00e7\u00f5es no \u00e2mbito do Programa Mais Acesso a Especialistas foram destaques na reuni\u00e3o que aconteceu nesta quinta-feira (27), em Bras\u00edlia.#SUS",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "309"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1905318049546142149"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743098196000"
+            }
+        },
+        "content": "Hoje (27) em Bras\u00edlia, acompanhei a entrega de 156 novas ambul\u00e2ncias do SAMU pelo governo do Presidente Lula. Um grande refor\u00e7o para a sa\u00fade p\u00fablica, reduzindo o tempo de espera e salvando vidas! Seguimos trabalhando por um Brasil mais justo e com mais investimentos! #GovernoLula",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1905264426954924203"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1743085412000"
+            }
+        },
+        "content": "E a sa\u00fade p\u00fablica do Distrito Federal est\u00e1 abandonada a pr\u00f3pria sorte\u2026.. j\u00e1 n\u00e3o \u00e9 mais falta de gest\u00e3o, \u00e9 crime o que est\u00e3o fazendo com o povo de Bras\u00edlia\u2026. N\u00e3o vai ser na soneca que vai resolver essa situa\u00e7\u00e3o, Bras\u00edlia precisa mudar\u2026.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "23"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1904563263800558033"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742918241000"
+            }
+        },
+        "content": "#DF1 Problema com poste \u00e9 o de menos, e a sa\u00fade p\u00fablica do DF? Tem que mostrar o descaso com a sa\u00fade no DF, o governador abandonou Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1904515563675623932"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742906869000"
+            }
+        },
+        "content": "Mesmo me humanizando cada dia mais, ainda tenho revolta, minha fam\u00edlia foi v\u00edtima do descaso do poder p\u00fablico em diversos momentos, eu nunca vou perdoar os GOVERNADORES de BRASILIA, por tudo que minha fam\u00edlia passou nas m\u00e3os da sa\u00fade p\u00fablica do DF, perdi minha v\u00f3 e minha m\u00e3e.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "54"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1903990620244304021"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742781712000"
+            }
+        },
+        "content": "Sim, miga, bota a\u00ed que eu errei tamb\u00e9m: \u00e9 1 a cada 3, problema de sa\u00fade p\u00fablica, como foi constatado pela pr\u00f3pria ONU. Eu vou preferir ser negro e gay, principalmente em um lugar do Brasil \u2014 Bras\u00edlia, n\u00e3o sei se voc\u00ea aprendeu \u2014 onde a taxa de viol\u00eancia \u00e9 in\u00f3cua pro meu grupo\u2026+",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "159"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1903816973907050637"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742740312000"
+            }
+        },
+        "content": "Minist\u00e9rio da Sa\u00fade viabiliza tratamento inovador no SUS para crian\u00e7as com AME. Pela primeira vez, ser\u00e1 ofertada uma terapia g\u00eanica na rede p\u00fablica",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1903059462060982656"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742559707000"
+            }
+        },
+        "content": "Em agenda em Bras\u00edlia, juntamente com o governador   apresentamos os avan\u00e7os do Programa Piau\u00ed Sa\u00fade Digital para o Ministro da Sa\u00fade, Alexandre Padilha e para a Secret\u00e1ria Ana Estela Haddad. Tecnologia em aux\u00edlio \u00e0 sa\u00fade p\u00fablica!",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "108"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1902369576026808538"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742395225000"
+            }
+        },
+        "content": "Esse a\u00ed so acaba com Bras\u00edlia, transporte p\u00fablico e a pura desgra\u00e7a por causa desse cidad\u00e3o, sa\u00fade p\u00fablica nem se fala",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1902194254228676671"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742353425000"
+            }
+        },
+        "content": "A Fiocruz Bras\u00edlia sediou, nesta ter\u00e7a-feira (18), o lan\u00e7amento da 8\u00aa edi\u00e7\u00e3o da Chamada P\u00fablica do Programa Pesquisa para o SUS \u2013 Gest\u00e3o Compartilhada em Sa\u00fade (PPSUS) no Distrito Federal.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "53"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1900610758653640964"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741975891000"
+            }
+        },
+        "content": "Faz o L!!!\n Essa dinheiro com certeza vai ir pra Educa\u00e7\u00e3o, Seguran\u00e7a p\u00fablica, Sa\u00fade , equacionar as d\u00favidas p\u00fablicas!!!\n Pode ter certeza que n\u00e3o vai ser pra inchar ainda mais a m\u00e1quina p\u00fablica, nem comprar votos com emendas, muito menos pra bancar mordomias em Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "14"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1899572586553442609"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741728371000"
+            }
+        },
+        "content": "Marionete do STF ! \nSe falar algo o STF reabre a gaveta . \nImpopulares .\nSabem que ir\u00e3o perder . \nDeixou o colapso para privatizar .\nA pior gest\u00e3o do DF .Bras\u00edlia est\u00e1 um lixo .\nA sa\u00fade p\u00fablica est\u00e1 um lixo .\nIr\u00e3o perder feio em 2026 .",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "36"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1899482933863264483"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741706996000"
+            }
+        },
+        "content": "Passamos um ano fora de Bras\u00edlia e quando voltamos a sa\u00fade no DF est\u00e1 PIOR! \u00c9 inadmiss\u00edvel a sa\u00fade p\u00fablica da Capital do Brasil ser administrada desse jeito! E \u00e9 isto, um grande problema de gest\u00e3o!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "101"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1899421118580089228"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741692258000"
+            }
+        },
+        "content": "Totalmente contra j\u00e1 sustentamos gente de mais em Brasil e n\u00e3o temos um retorno, sem sa\u00fade p\u00fablica,sem educa\u00e7\u00e3o,sem seguran\u00e7a..\nChega de deputados in\u00fateis em Bras\u00edlia .",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1898121185788825793"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741382330000"
+            }
+        },
+        "content": "ODEIA POBRE o que esperar de bolsonarista!sa\u00fade um CAUS, seguran\u00e7a p\u00fablica vergonha,CEB Bras\u00edlia no escuro, CAESB Bras\u00edlia cheio de vazamento,MAS o que esperar de um homem mas RICO de Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1898065256448155913"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741368996000"
+            }
+        },
+        "content": "Bras\u00edlia acolheu o XX Encontro de Sa\u00fade Militar  que reuniu os respetivos/as Diretores/as , , ,, ,  e , com audi\u00eancia militar e civil. Em debate a Prontid\u00e3o para Emerg\u00eancias em Sa\u00fade P\u00fablica e Desafios da Sa\u00fade Militar.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "154"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1897401397521605050"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741210719000"
+            }
+        },
+        "content": "Pesquisa da Anvisa aponta falhas graves na assist\u00eancia \u00e0 sa\u00fade no DF Entre julho de 2023 e julho de 2024, mais de 27 mil casos foram registrados, com 200 mortes devido a falhas na rede p\u00fablica e privada de sa\u00fade",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "202"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1897325278260859062"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741192571000"
+            }
+        },
+        "content": "O  , est\u00e1 noticiando sobre a sa\u00fade p\u00fablica de Bras\u00edlia sobre o governo bandido,fascista e vagabundo  ,vulgo Chuck dos infernos.CONTINUEM VOTANDO NESSES Fascistas ELEITORES FDPSQUEM SOFRE S\u00c3O OS INOCENTES,Q N\u00c3O TEM UTI NEONATAL,E OS HOSPITAIS FALIDOS",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "240"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1896665345727115644"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1741035231000"
+            }
+        },
+        "content": "Novo Gama realiza audi\u00eancia p\u00fablica para presta\u00e7\u00e3o de contas de sa\u00fade https://edibrasilia.com.br/politica-do-entorno/novo-gama-realiza-audiencia-publica-para-prestacao-de-contas-de-saude/\u2026 via  \u00c9 di Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "12"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1895840396951097822"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1740838548000"
+            }
+        },
+        "content": "Assim Caminha os Poderes Pal\u00e1cios Bras\u00edlia,defendendo Direitos dos Manos, Pol\u00edticos Corruptos, Ladr\u00e3o de Cofres P\u00fablicos. POVO Sem Direitos Humanos Fundamental,Como Seguran\u00e7a P\u00fablica,Habita\u00e7\u00e3o, Sa\u00fade,Alimenta\u00e7\u00e3o, enquanto os Poderes Pal\u00e1cios tem todos os Privil\u00e9gios,Mordomias",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "30"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1894764361635316195"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1740582001000"
+            }
+        },
+        "content": "Com experi\u00eancia na seguran\u00e7a p\u00fablica e na gest\u00e3o do fundo da sa\u00fade, ele assume o desafio de fortalecer o SUS e aprimorar a sa\u00fade p\u00fablica na capital do pa\u00eds",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "53"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1892948287650427338"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1740149015000"
+            }
+        },
+        "content": "Agradecendo ao  pelo tweet da coluna da , aproveito para propor que adotemos um hor\u00e1rio com 1 hora a mais no outono at\u00e9 a primavera, com mais 1 hora no ver\u00e3o. Hoje ter\u00edamos 2 horas a mais que o atual hor\u00e1rio de Bras\u00edlia. \u00c9 quest\u00e3o de sa\u00fade p\u00fablica!!!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "47"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1892645049092980782"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1740076718000"
+            }
+        },
+        "content": "Clovis Volpi busca em Bras\u00edlia recursos para a sa\u00fade de Ribeir\u00e3o Pires\n\nSecret\u00e1rio visitou gabinete dos 70 deputados federais da bancada do estado de S\u00e3o Paulo para levar projetos voltados \u00e0 rede p\u00fablica de atendimento ... Clique no link",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1891827394127737329"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739881773000"
+            }
+        },
+        "content": "O Instituto Todos pela Sa\u00fade (ITpS) apresentou na sess\u00e3o Di\u00e1logos Conass, no dia 11, em Bras\u00edlia, a proposta de uma pol\u00edtica de Estado para enfrentamento de Emerg\u00eancias em Sa\u00fade P\u00fablica no Brasil (ESP) e a constitui\u00e7\u00e3o de um centro, dentro da estrutura do Sistema \u00danico de Sa\u00fade",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "90"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1891813861486924044"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739878547000"
+            }
+        },
+        "content": "Gratuito para quem quiser ser transportado, para curtir o 'grande' carnaval de Bras\u00edlia mas quem paga a conta \u00e9 o contribuinte, numa Bras\u00edlia que tem Fundo Constitucional para pagar sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a p\u00fablica. Enfim, \u00f1 tem cafezinho de gra\u00e7a n\u00e3o ...",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "45"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1891615533545480510"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739831262000"
+            }
+        },
+        "content": "Como a proibi\u00e7\u00e3o em outros lugares afeta as op\u00e7\u00f5es de tratamento dispon\u00edveis no Brasil? O que diz a ANVISA sobre a seguran\u00e7a de\nmedicamentos como a nimesulida? Como a opini\u00e3o p\u00fablica e os profissionais de sa\u00fadepodem influenciar as decis\u00f5es sobre o uso desse medicamento?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "153"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1891172207209992513"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739725565000"
+            }
+        },
+        "content": "Eu morei na regi\u00e3o mais perigosa de Bras\u00edlia, eu escutava um tiro a cada seis meses ou mais, mas aqui os servi\u00e7os s\u00e3o horr\u00edveis, como sa\u00fade, transporte, etc. S\u00f3 seguran\u00e7a p\u00fablica que \u00e9 boa.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1890172107126108567"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739487122000"
+            }
+        },
+        "content": "Brasileiro paga uma cacetada de imposto pra no final ser tratado feito lixo no servi\u00e7o de sa\u00fade p\u00fablica, pra ter um servi\u00e7o merda de saneamento b\u00e1sico, pro trabalhador comum ser tratado feito lixo e o bandido como \"v\u00edtima da sociedade\"\nEnquanto isso Bras\u00edlia segue intacta.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "66"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1889430602841202996"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739310334000"
+            }
+        },
+        "content": "Ouvintes da BandNews denunciam falta de insumos para diab\u00e9ticos nos postos de sa\u00fade da rede p\u00fablica do Distrito Federal. Seringas e insulina tamb\u00e9m estariam em falta, mas a queixa principal \u00e9 em rela\u00e7\u00e3o as fitas de medi\u00e7\u00e3o de glicose.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "163"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1889391291798073510"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739300961000"
+            }
+        },
+        "content": "Conass, Conasems e ITpS debateram, nesta ter\u00e7a-feira (11), a organiza\u00e7\u00e3o do SUS para enfrentamento \u00e0s emerg\u00eancias em sa\u00fade p\u00fablica. O tema foi pauta principal de mais uma sess\u00e3o Di\u00e1logos Conass, realizada nesta ter\u00e7a-feira, 11 de fevereiro, na sede do Conselho, em Bras\u00edlia",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "390"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1889291209392246851"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1739277100000"
+            }
+        },
+        "content": "Esperando o dia em que o senhor vai trocar o Hospital S\u00edrio Liban\u00eas pelo Hospital de Base de Bras\u00edlia. Por isso a sa\u00fade p\u00fablica n\u00e3o prospera.",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "118"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1887570035289342367"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738866740000"
+            }
+        },
+        "content": "Que ideia incr\u00edvel, um pa\u00eds com 27 estados independentes, e Bras\u00edlia de quebra , n\u00e3o seria mais f\u00e1cil termos um projeto forte e constante de Brasil? N\u00e3o importa quem seja o gov, algumas matrizes devem ser seguidas, infraestrutura, educa\u00e7\u00e3o, sa\u00fade, seguran\u00e7a p\u00fablica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "26"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1887090016779731071"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738752295000"
+            }
+        },
+        "content": "Impunidade perversa que aumenta a desigualdade social no Brasil, que tira $ da educa\u00e7\u00e3o, sa\u00fade, seguran\u00e7a p\u00fablica, etc..., mas enriquece desonestamente autoridades dessa Gotham City chamada Bras\u00edlia.  Me lembrei de uma frase, ningu\u00e9m faz nada de gra\u00e7a.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1886966733598019880"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738722902000"
+            }
+        },
+        "content": "Responsabilidade da Sa\u00fade p\u00fablica.  Luxo em Bras\u00edlia e mis\u00e9ria para o POVO",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "11"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1886474339244998949"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738605506000"
+            }
+        },
+        "content": "Audi\u00eancia p\u00fablica vai discutir moderniza\u00e7\u00e3o do diagn\u00f3stico por imagem na rede de sa\u00fade do DF https://buff.ly/4hlJplA O Governo do Distrito Federal (GDF) trabalha para modernizar o diagn\u00f3stico por imagem na rede de sa\u00fade de Bras\u00edlia. Nesta segunda-feira (3), uma audi\u00ea",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1886455443897147593"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738601001000"
+            }
+        },
+        "content": "Nunca fizeram uma lei mesmo que realmente beneficia o trabalhador nunca fizeram uma lei mesmo que modifica qualquer coisa boa para o trabalhador nem na sa\u00fade nem no transporte nem na educa\u00e7\u00e3o nem na seguran\u00e7a p\u00fablica Ent\u00e3o vamos tomar as ruas de Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "5"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1885056808877732132"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738267540000"
+            }
+        },
+        "content": "Comiss\u00e3o aprova projeto que altera regra para acesso for\u00e7ado a im\u00f3veis em caso de amea\u00e7a \u00e0 sa\u00fade p\u00fablica",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "13"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1884297312824090908"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738086462000"
+            }
+        },
+        "content": "S\u00f3 as narrativas dele que certas?para Lula s\u00f3 vc que est\u00e1 certo!govena para todos.prender patriotas que quer seres ouvidos vcs prenderam quando os petezadas fez badernas em Bras\u00edlia n\u00e3o presos e nem perseguidos.o Brasil est\u00e1 perdido com tanta corrup\u00e7\u00e3o,viol\u00eancia,sa\u00fade p\u00fablica",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1883534414488985710"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737904573000"
+            }
+        },
+        "content": "O programa Abra\u00e7o Entrevista desta segunda-feira, 27 de janeiro de 2025, \u00e0s 9h, com Geremias dos Santos recebe o professor e Pesquisador na Fiocruz em Bras\u00edlia, doutorando em Sa\u00fade P\u00fablica e mestre em Pol\u00edticas P\u00fablicas pela Fiocruz, Servidor da carreira de Ci\u00eancia e",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "59"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1883199388308410550"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737824696000"
+            }
+        },
+        "content": "Podiam fazer uma opera\u00e7\u00e3o assim com guerras l\u00e1 emBras\u00edlia porque quem merece ganhar tiro s\u00e3o os governantes Oque \u00e9 o tr\u00e1fico de drogas na frente do estragos que o governo oferece pro Nosso pa\u00eds ? \nVivem roubando a educa\u00e7\u00e3o das nossas crian\u00e7as, sa\u00fade, seguran\u00e7a p\u00fablica etc.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "33"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1883198218760294760"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737824418000"
+            }
+        },
+        "content": "A sa\u00fade p\u00fablica em Bras\u00edlia, na capital, \u00e9 vergonhosa. Deveria ser, no m\u00ednimo Modelo, para o Brasil... \ne passa longe...",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "18"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1882588987434623435"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737679166000"
+            }
+        },
+        "content": "Hoje visitamos a Superintendente do Hospital Universit\u00e1rio de Bras\u00edlia- HUB nossa professora F\u00e1tima Sousa. \n\nNa pauta a experi\u00eancia e tecnologia que a Universidade pode leva a gest\u00e3o publica de sa\u00fade. Colocamos nosso mandato a disposi\u00e7\u00e3o do di\u00e1logo.",
+        "likes": {
+            "$numberInt": "45"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "1300"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1882535670075547790"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737666454000"
+            }
+        },
+        "content": "Dito isso, irresponsabilidade dos m\u00e9dicos e do hospital, e n\u00e3o \u00e9 s\u00f3 em Bras\u00edlia (que tem a sa\u00fade p\u00fablica e privada p\u00e9ssima) que isso acontece. Em S\u00e3o Paulo at\u00e9 hospital de elite tem imbecil com t\u00edtulo de doutor.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "46"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1882186148631777606"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737583121000"
+            }
+        },
+        "content": "Interpol toda seg. publica mundial, 2018 foi reportagem:milhares brasileiros jogados ruas do mundo inteiro,The new youk time? Acredito,nossos sequestradores estao Ministerio da Saude,Brasilia. exemplo: falsa vanderlina, leila registros duplicados. Os falsos nao tem nem endere\u00e7os.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "24"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1881789055018701088"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737488447000"
+            }
+        },
+        "content": "Bras\u00edlia DF, continua com sua popula\u00e7\u00e3o aterrorizada na Sa\u00fade completamente abandonada por Ibaneis A-Rocha e sua ViCelina!https://instagram.com/reel/DFF-vIApZB0/?igsh=MW40Mm5naGljY3g3Mg==\u2026Mais uma vez o GDF levando a gest\u00e3o p\u00fablica da Sa\u00fade na conversa!\nNesse momento, 11:30h, quase 70 pacientes esperando atendimento.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1881721196083019881"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737472268000"
+            }
+        },
+        "content": "Ibaneis desde o primeiro mandato j\u00e1 tinha acabado com a sa\u00fade no DF, mas esse povo de Bras\u00edlia votou nele novamente \u00e9 porque n\u00e3o usam a sa\u00fade p\u00fablica ou porque querem ser tratados igual lixo mesmo. #DF1",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "42"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1880625869984833839"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737211122000"
+            }
+        },
+        "content": "Pergunta preliminar: algu\u00e9m \"resume o assunto na quest\u00e3o da sa\u00fade p\u00fablica\"?\n\nFal\u00e1cia de quinta categoria. \n\nAlgumas pessoas dizem ser necess\u00e1rio TAMB\u00c9M considerar como quest\u00e3o de sa\u00fade p\u00fablica. Que quest\u00e3o de fundo \u00e9 essa. Que ignor\u00e1-la \u00e9 enxugar gelo.\n\nDem\u00e9trio finge outra coisa",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "83"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1880069179895848977"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737078397000"
+            }
+        },
+        "content": "Que tal pegar todos eles e jogar l\u00e1 em Bras\u00edlia? O pal\u00e1cio do planalto cheio de zumbis? N\u00e3o resolvem pq \u00e9 problema de sa\u00fade p\u00fablica, fato.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "16"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1879965407983071624"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1737053655000"
+            }
+        },
+        "content": "Surto de delegado em Bras\u00edlia refor\u00e7a urg\u00eancia de cuidado com a sa\u00fade mental na seguran\u00e7a p\u00fablica https://planaltoempauta.com.br/surto-de-delegado-em-brasilia-reforca-urgencia-de-cuidado-com-a-saude-mental-na-seguranca-publica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "46"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1878819294026269030"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1736780401000"
+            }
+        },
+        "content": "Pacientes de sa\u00fade mental ter\u00e3o acolhimento em resid\u00eancias terap\u00eauticas da rede p\u00fablica do DF",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "66"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1878517739729416681"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1736708504000"
+            }
+        },
+        "content": "Aqui em Bras\u00edlia ele concenteou todos os investimentos p\u00fablicos em asfalto e viadutos, a maioria com problemas de projetos e de qualidade p\u00e9ssima. Para fazer portif\u00f3lio pol\u00edtico, ele fez essas obras e deixou de lado a educa\u00e7\u00e3o, seguran\u00e7a p\u00fablica e sa\u00fade. Um pilantra!",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "37"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1876233364166123979"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1736163867000"
+            }
+        },
+        "content": "Carro oficial da ministra da Sa\u00fade foi a centro comercial de Bras\u00edlia no in\u00edcio da noite do s\u00e1bado. Ministra n\u00e3o tinha agenda p\u00fablica e oficialmente estava de f\u00e9rias. Minist\u00e9rio alegou \"deslocamentos necess\u00e1rios\". Na  https://estadao.com.br/politica/coluna-do-estadao/carro-oficial-da-ministra-da-saude-e-usado-para-ir-a-centro-comercial-no-sabado/\u2026",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "423"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1874839901793030166"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735831640000"
+            }
+        },
+        "content": "No Dia do Sanitarista, a Fiocruz Bras\u00edlia celebra e homenageia todos os profissionais que se dedicam, com empenho e paix\u00e3o, \u00e0 promo\u00e7\u00e3o da sa\u00fade p\u00fablica e ao cuidado coletivo.  #DiaDoSanitarista #Sa\u00fadeP\u00fablica #FiocruzBras\u00edlia #Sa\u00fadeColetiva #Aten\u00e7\u00e3o\u00c0Sa\u00fade",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "100"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1874305802401391076"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735704300000"
+            }
+        },
+        "content": "\u201cPandemia de sa\u00fade mental\u201d, diz Celina sobre ataques extremistas em Bras\u00edlia https://buff.ly/4gYVDA2 Ao CB.Poder, a vice-governadora afirmou que amea\u00e7as extremistas alertaram sobre necessidade de refor\u00e7os na seguran\u00e7a p\u00fablicaA vice-governador",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1874171700050550866"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735672328000"
+            }
+        },
+        "content": "\"Pandemia de sa\u00fade mental\", diz Celina sobre ataques extremistas em Bras\u00edliaAo CB.Poder, a vice-governadora afirmou que amea\u00e7as extremistas alertaram sobre necessidade de refor\u00e7os na seguran\u00e7a p\u00fablica",
+        "likes": {
+            "$numberInt": "30"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "2900"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1873324610336502033"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735470366000"
+            }
+        },
+        "content": "Rastrea de Bras\u00edlia aos munic\u00edpios seja aonde e quem for; prende, expulsa, torna ineleg\u00edvel e sequestra todos os bens e valores fazendo retornar os recursos obrigatoriamente pra Sa\u00fade P\u00fablica!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "59"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1872739932944642067"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735330968000"
+            }
+        },
+        "content": "Rede p\u00fablica do DF amplia acesso a medicamentos e fortalece assist\u00eancia farmac\u00eautica. A popula\u00e7\u00e3o conta com 192 pontos, que oferecem rem\u00e9dios gratuitos para diferentes n\u00edveis de aten\u00e7\u00e3o \u00e0 sa\u00fade. Saiba mais: https://agenciabrasilia.df.gov.br/2024/12/25/rede-publica-do-df-amplia-acesso-a-medicamentos-e-fortalece-assistencia-farmaceutica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "107"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1872102194763415643"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735178919000"
+            }
+        },
+        "content": "Esse tem que ser preso pelo 8 de janeiro!! Est\u00e1 acabando com a sa\u00fade p\u00fablica de Bras\u00edlia!!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1871609283583905906"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735061400000"
+            }
+        },
+        "content": "Distrito Federal completa 630 dias em estado de emerg\u00eancia para refor\u00e7ar vigil\u00e2ncia contra doen\u00e7a que amea\u00e7a aves, sa\u00fade p\u00fablica e economia",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "140"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1870617927583699111"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734825042000"
+            }
+        },
+        "content": "Minha av\u00f3 morreu em um erro m\u00e9dico, em uma entuba\u00e7\u00e3o, minha m\u00e3e foi para o hospital andando e falando com falta de ar em 24h ela morreu, pela neglig\u00eancia da sa\u00fade p\u00fablica de Bras\u00edlia, e por todos os abusos psicol\u00f3gicos que passou ao lado de um monstro. +",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "54"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1870099232687870119"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734701376000"
+            }
+        },
+        "content": "Com o Fundo Constitucional do Distrito Federal preservado, o governo do DF tem a obriga\u00e7\u00e3o de fazer uma AUDITORIA p\u00fablica nos recursos do Fundo. A popula\u00e7\u00e3o precisa entender por que com 24 bilh\u00f5es de reais ainda faltam m\u00e9dicos, rem\u00e9dios e exames nas unidades de sa\u00fade de Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "473"
+        },
+        "retweets": {
+            "$numberInt": "141"
+        },
+        "analytics": {
+            "$numberInt": "5900"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1869936865903566863"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734662665000"
+            }
+        },
+        "content": "Hoje, demos um grande passo na melhoria da sa\u00fade p\u00fablica de nossa capital durante uma reuni\u00e3o no Minist\u00e9rio da Sa\u00fade, em Bras\u00edlia.\n\nAl\u00e9m da ministra , estiveram presentes o prefeito eleito de Teresina, , o ministro , a bancada federal, a",
+        "likes": {
+            "$numberInt": "48"
+        },
+        "retweets": {
+            "$numberInt": "10"
+        },
+        "analytics": {
+            "$numberInt": "1100"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1869778468621148648"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734624900000"
+            }
+        },
+        "content": "Nova estrutura do Sa\u00fade Mais Perto do Cidad\u00e3o vai focar na sa\u00fade ocular de alunos da rede p\u00fablica. A iniciativa vai ofertar triagens oftalmol\u00f3gicas e \u00f3culos de corre\u00e7\u00e3o aos estudantes identificados com problemas de refra\u00e7\u00e3o. Saiba mais: https://agenciabrasilia.df.gov.br/2024/12/11/nova-estrutura-do-saude-mais-perto-do-cidadao-sera-focada-na-saude-ocular-de-alunos-da-rede-publica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "74"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1868461388122988921"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734310883000"
+            }
+        },
+        "content": "O descaso com o Sa\u00fade P\u00fablica no Distrito Federal ultrapassa os limites do inimagin\u00e1vel\u2026\n\nA falta de empatia com os que mais precisam \u00e9 evidente\u2026. \n\nA mentira tem perna curta\u2026.\n\nAcorda Bras\u00edlia\u2026.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "32"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1868385574845079709"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734292808000"
+            }
+        },
+        "content": "Boas palavras  ! \n\nA Sa\u00fade Publica do Distrito Federal est\u00e1 um caos e esse descaso p\u00f5e em risco o Fundo Constitucional do Distrito Federal ! \n\nTem que cuidar com responsabilidade dos recursos p\u00fablicos, porque esse Fundo \u00e9 muito importante para Bras\u00edlia e n\u00e3o pode",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "111"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1868276754055401832"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734266863000"
+            }
+        },
+        "content": "O descaso com o Sa\u00fade P\u00fablica no Distrito Federal ultrapassa os limites do inimagin\u00e1vel\u2026\n\nA falta de empatia com os que mais precisam \u00e9 evidente\u2026. \n\nA mentira tem perna curta\u2026.\n\nAcorda Bras\u00edlia\u2026.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "29"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1867722369575350527"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734134688000"
+            }
+        },
+        "content": "Tem dinheiro pra pagar penduricalhos do Judici\u00e1rio e MPF, tem dinheiro para o Bolsa Peru, tem dinheiro pra Rouanet, tem dinheiro para emendas parlamentares, fundos partid\u00e1rio e eleitoral, tem 94 mil por dia para a Janja gastar\u2026. Prioridade de Bras\u00edlia n\u00e3o \u00e9 com a sa\u00fade p\u00fablica,",
+        "likes": {
+            "$numberInt": "9"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "247"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1867618947131969811"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1734110030000"
+            }
+        },
+        "content": "Em Bras\u00edlia n\u00e3o tem Hospital do SUS n\u00e3o segundo o proprio lula a melhor rede de sa\u00fade p\u00fablica que disse isso a poucos dias atr\u00e1s",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "56"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1866496393428574252"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733842392000"
+            }
+        },
+        "content": "Presente na 16\u00aa edi\u00e7\u00e3o do F\u00f3rum dos Governadores, em Bras\u00edlia. Hoje para discutir o pacote de medidas econ\u00f4micas do governo federal e a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o da Reforma Tribut\u00e1ria; seguran\u00e7a p\u00fablica; e o Programa Mais Acesso a Especialistas do Minist\u00e9rio da Sa\u00fade.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "113"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1865835753508344257"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733684883000"
+            }
+        },
+        "content": "O corte de gasto se restringe a \u00e1rea social , incluindo sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a p\u00fablica,  BRASILIA continua gastando tubos, em outras palavras n\u00e3o ter\u00e1 cortes ter\u00e1 aumento  de gastos e desgoverno da ilus\u00e3o vai pagar mensal\u00e3o pro congresso aprovar.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "67"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1864032537259004402"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733254963000"
+            }
+        },
+        "content": "A direita mais moderada \u00e9 o Caiado mesmo. Investimento em sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a. Pessoal de Bras\u00edlia indo tratar no GO porque a sa\u00fade p\u00fablica daqui est\u00e1 um lixo.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "42"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1863952524140515718"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733235886000"
+            }
+        },
+        "content": "Bom dia, Bahia!\n\nAqui em Bras\u00edlia, o dia come\u00e7ou com uma reuni\u00e3o produtiva ao lado da nossa bancada federal.\n\nDebatemos pautas essenciais para o desenvolvimento da Bahia, com apresenta\u00e7\u00f5es sobre seguran\u00e7a p\u00fablica, sa\u00fade e agricultura familiar.",
+        "likes": {
+            "$numberInt": "40"
+        },
+        "retweets": {
+            "$numberInt": "9"
+        },
+        "analytics": {
+            "$numberInt": "1000"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1863767141515706745"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733191688000"
+            }
+        },
+        "content": "Penso como voc\u00ea. Estudei em escola p\u00fablica, usava roupas baratas, quando precisei fui para o SUS. Hoje se for para tirar o DIU e depender de escola e sa\u00fade p\u00fablica,  sigo sem filho.",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "183"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1863583902113091743"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733148000000"
+            }
+        },
+        "content": "Escola de Sa\u00fade P\u00fablica do DF publica processo seletivo para especializa\u00e7\u00f5es",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "62"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1863357534997828092"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1733094030000"
+            }
+        },
+        "content": "Dia Mundial de Combate \u00e0 Aids.\n\nA rede p\u00fablica de sa\u00fade do DF conta com ampla oferta de exames e tratamentos para pessoas diagnosticadas com o HIV. Em qualquer uma das 176 UBSs, \u00e9 poss\u00edvel fazer o exame.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "232"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862841050898862442"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732970891000"
+            }
+        },
+        "content": "Em Bras\u00edlia virou assim, a 5\u00aa Vara de Fazenda P\u00fablica virou 5\u00aa Vara de Sa\u00fade P\u00fablica, respondendo tb por 3 milh\u00f5es de pessoas",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "79"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862579050348241061"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732908425000"
+            }
+        },
+        "content": "Poder\u00edamos come\u00e7ar a falar que nenhuma empresa p\u00fablica do Rio de Janeiro prestou aqui a corrup\u00e7\u00e3o \u00e9 maior que de Bras\u00edlia com os 3 poderes, aqui nada funciona seguran\u00e7a p\u00fablica educa\u00e7\u00e3o transporte sa\u00fade",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862301722409857073"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732842305000"
+            }
+        },
+        "content": "Em Bras\u00edlia, debatemos temas essenciais, como seguran\u00e7a p\u00fablica, com o ministro Lewandowski, sobre seguran\u00e7a alimentar, com o ministro , e as demandas da sa\u00fade, com a ministra .\n\nAproveitei para reafirmar as conquistas em nosso estado. Retiramos 920 mil",
+        "likes": {
+            "$numberInt": "12"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "791"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862242900530061332"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732828280000"
+            }
+        },
+        "content": "O Governo do Tocantins participou do encontro em Bras\u00edlia, onde foram discutidos temas como seguran\u00e7a p\u00fablica, sa\u00fade, assist\u00eancia social e reforma tribut\u00e1ria. Com foco em solu\u00e7\u00f5es integradas, o evento fortaleceu a coopera\u00e7\u00e3o entre estados e Uni\u00e3o, buscando avan\u00e7os que",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "114"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862216887964508337"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732822079000"
+            }
+        },
+        "content": "- Entrevistas:\n-Governador Ibaneis Rocha;\n-Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, Ricardo Lewandowski;\n-Ministra da Sa\u00fade, N\u00edsia Trindade;\n-Governador de Mato Grosso, Mauro Mendes; \n-Governador do Esp\u00edrito Santo, Renato Casagrande;",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "33"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862201957475393739"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732818519000"
+            }
+        },
+        "content": "O governador do Par\u00e1, participou da 15\u00aa Reuni\u00e3o do F\u00f3rum Nacional de Governadores, nesta quinta-feira, 28, em Bras\u00edlia (DF). O evento re\u00fane l\u00edderes estaduais e discute a seguran\u00e7a p\u00fablica, bem como temas como sa\u00fade, desenvolvimento social e a reforma tribut\u00e1ria. Saiba mais:",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "217"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862198799826833603"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732817766000"
+            }
+        },
+        "content": "Hoje na reuni\u00e3o do F\u00f3rum Nacional de Governadores em Bras\u00edlia est\u00e3o em pauta temas muito importantes como seguran\u00e7a p\u00fablica, desenvolvimento e assist\u00eancia social, sa\u00fade, reforma tribut\u00e1ria, com \u00eanfaseem seguran\u00e7a p\u00fablica.",
+        "likes": {
+            "$numberInt": "19"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "335"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862189822355353905"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732815626000"
+            }
+        },
+        "content": "Em Bras\u00edlia (DF), nesta quinta-feira, acompanhando o governador na 15\u00aa Reuni\u00e3o do F\u00f3rum Nacional de Governadores. Na pauta, temas fundamentais como assist\u00eancia e desenvolvimento social, sa\u00fade e seguran\u00e7a p\u00fablica. A Bahia de m\u00e3os dadas com o Brasil! Vamos em frente!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "32"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862149856254410883"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732806097000"
+            }
+        },
+        "content": "Aqui em Bras\u00edlia, participamos da 15\u00aa edi\u00e7\u00e3o do F\u00f3rum de Governadores, um espa\u00e7o para dialogar sobre temas que impactam a vida de todos os brasileiros: seguran\u00e7a p\u00fablica, sa\u00fade, assist\u00eancia social e reforma tribut\u00e1ria.\n\nEste \u00e9 um momento de unir esfor\u00e7os, respeitando as",
+        "likes": {
+            "$numberInt": "15"
+        },
+        "retweets": {
+            "$numberInt": "3"
+        },
+        "analytics": {
+            "$numberInt": "319"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1862108167326322737"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732796158000"
+            }
+        },
+        "content": "Ol\u00e1 Tocantins! Ainda estamos em Bras\u00edlia, em breve participaremos da XV Reuni\u00e3o do F\u00f3rum de Governadores, onde discutiremos temas importantes como seguran\u00e7a p\u00fablica, desenvolvimento social, sa\u00fade e reforma tribut\u00e1ria.",
+        "likes": {
+            "$numberInt": "21"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "539"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1861906313699106979"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732748032000"
+            }
+        },
+        "content": "F\u00f3rum Nacional de Governadores: Caiado vai a Bras\u00edlia debater seguran\u00e7a p\u00fablica e reforma tribut\u00e1ria. Combate \u00e0 fome e sa\u00fade tamb\u00e9m est\u00e3o na pautahttps://aredacao.com.br/noticias/222055/caiado-vai-a-brasilia-debater-seguranca-publica-e-reforma-tributaria\u2026",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "113"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1861571794232033381"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732668276000"
+            }
+        },
+        "content": "Sandro Mabel esteve em Bras\u00edlia nesta ter\u00e7a-feira (26) quando se reuniu com a bancada federal goiana. Sua prioridade \u00e9 a sa\u00fade p\u00fablica",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "11"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1861454818507620718"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732640387000"
+            }
+        },
+        "content": "Uma excelente oportunidade para o senhor provar para a popula\u00e7\u00e3o de Bras\u00edlia que a sa\u00fade p\u00fablica \u00e9 de excelente qualidade, n\u00e3o \u00e9 mesmo governador?",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "115"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1861083484380373099"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732551854000"
+            }
+        },
+        "content": "Seguran\u00e7a um NENHUM!\nPrivatiza\u00e7\u00e3o da CEB,postes em via p\u00fablica NENHUMA tudo apagado Sa\u00fade essa a\u00ed j\u00e1 virou PIADA! \nAs escolas est\u00e3o esquecida!\nAgora o asfalto que senhor acha prioridade para Bras\u00edlia com a chuva est\u00e1 se dissolvendo s\u00f3 burracos!O PIOR governo que Bras\u00edlia j\u00e1 teve",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "64"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1860104934613745840"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732318550000"
+            }
+        },
+        "content": "Ainda viram nada aqui na sa\u00fade p\u00fablica de Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "5"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1860003308448125413"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732294320000"
+            }
+        },
+        "content": "Pessoas que n\u00e3o mora no DF, pensa que Bras\u00edlia/DF \u00e9 refer\u00eancia em algo. Bras\u00edlia n\u00e3o \u00e9 refer\u00eancia em nada, a sa\u00fade \u00e9 pior que a de Ilh\u00e9us BA, onde morei, seguran\u00e7a p\u00fablica ostensiva despreparada, educa\u00e7\u00e3o porqueira, essas coisas s\u00f3 funcionam para pessoas com renda a cima de 20mil",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "701"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1859229741196206341"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732109887000"
+            }
+        },
+        "content": "A Tenda+ \u00e9 inaugurada e promete inova\u00e7\u00e3o no atendimento \u00e0 sa\u00fade p\u00fablica https://edibrasilia.com.br/df/a-tenda-e-inaugurada-e-promete-inovacao-no-atendimento-a-saude-publica/\u2026 via  \u00c9 di Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1858906670199353558"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732032861000"
+            }
+        },
+        "content": "O pagador de impostos tem ruas e estradas esburacadas, sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a publica q nao funcionam e querem tributar ainda mais uma das poucas alegrias do povo. Mas nos pal\u00e1cios de Bras\u00edlia nao faltar\u00e1 vinhos de R$10mil pagos pelo povo trouxa pagador de impostos.Fdps",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "14"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1857750510142476437"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731757211000"
+            }
+        },
+        "content": "Nessa quarta (13/11), uma s\u00e9rie de explos\u00f5es em Bras\u00edlia trouxe \u00e0 tona quest\u00f5es cruciais sobre seguran\u00e7a p\u00fablica e a sa\u00fade mental dos envolvidos em atos violentos.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1856724760270389617"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731512653000"
+            }
+        },
+        "content": "Erro m\u00e9dico: paciente tem m\u00e3o deformada e \u00e9 indenizada em R$ 50 mil\n\nEm decis\u00e3o un\u00e2nime, TJDFT fixou indeniza\u00e7\u00e3o de R$ 50 mil para mulher v\u00edtima de erro m\u00e9dico na rede p\u00fablica de sa\u00fade de Bras\u00edliaLeia: https://curt.link/XEjzz",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "2300"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1856526795312394298"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731465455000"
+            }
+        },
+        "content": "Estive hoje - junto com os deputados   e  - em Bras\u00edlia com a ministra  para tratar de algumas pautas sobre a sa\u00fade no Brasil. Ap\u00f3s 4 anos de negacionismo e boicote \u00e0 sa\u00fade p\u00fablica... +",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "15"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1856142213262045199"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731373763000"
+            }
+        },
+        "content": "Estive hoje - junto com os deputados   e  - em Bras\u00edlia com a ministra  para tratar de algumas pautas sobre a sa\u00fade no Brasil. Ap\u00f3s 4 anos de negacionismo e boicote \u00e0 sa\u00fade p\u00fablica... +",
+        "likes": {
+            "$numberInt": "65"
+        },
+        "retweets": {
+            "$numberInt": "11"
+        },
+        "analytics": {
+            "$numberInt": "3400"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1856019057990086943"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731344401000"
+            }
+        },
+        "content": "AGENDA DA P\u00daBLICA | Na Agenda de Bras\u00edlia desta semana, aborto, COP 29 e bets est\u00e3o entre os temas principais discutidos. O STF ouvir\u00e1 representantes de minist\u00e9rios e especialistas na \u00e1rea da sa\u00fade sobre consequ\u00eancias das apostas. Leia em:",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "962"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1856003751129104433"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731340751000"
+            }
+        },
+        "content": "Vcs viram o caso da mo\u00e7a, brasileira, q ficou parapl\u00e9gica ap\u00f3s consumir um enlatado contaminado? Um caso de Bras\u00edlia a mo\u00e7a ficou em coma e sem andar por meses, ap\u00f3s consumo de alimento sem fiscaliza\u00e7\u00e3o. Alimento \u00e9 quest\u00e3o de sa\u00fade p\u00fablica. Fiscaliza\u00e7\u00e3o \u00e9 manuten\u00e7\u00e3o da sa\u00fade.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "161"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1855695577087946784"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731267277000"
+            }
+        },
+        "content": "Infraestrutura prec\u00e1ria das cidades , demora nos atendimentos na \u00e1rea de sa\u00fade, impostos para os que ganham menos, ensino m\u00e9dio p\u00fablico fraco, supersal\u00e1rios em Bras\u00edlia, 500 minist\u00e9rios no governo, desvio de verbas p\u00fablica, mal uso de verbas p\u00fablica\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "139"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1855034895392817367"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731109758000"
+            }
+        },
+        "content": "Claro, do mesmo jeito que reclamamos de roubo de verba p\u00fablica, assalto a m\u00e3o armada, furto qualificado, desvios, caixa 2, lavagem de dinheiro. \nVcs se acham no direito de roubar, pois bem tem v\u00e1rios FDP em Brasilia tirando dinheiro da sa\u00fade e educa\u00e7\u00e3o.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1853858389392040180"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730829257000"
+            }
+        },
+        "content": "Em Bras\u00edlia, levamos ao STF a defesa da nossa sa\u00fade e do meio ambiente. A audi\u00eancia p\u00fablica sobre o fim da isen\u00e7\u00e3o fiscal para agrot\u00f3xicos \u00e9 resultado da nossa A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI 5553), proposta pelo PSOL. Chega de \u201cbolsa-agrot\u00f3xico\u201d!",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "272"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1853148585719722259"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730660027000"
+            }
+        },
+        "content": "\u00e9 o m\u00e1ximo da cara de pau. E eu o conhe\u00e7o bem. Foi em Bras\u00edlia dizer pro  q Goi\u00e1s n\u00e3o tem bandido. Goi\u00e1s n\u00e3o tem mesmo sa\u00fade p\u00fablica q funcione. Povo morre nas filas esperando atendimento e exames. Bandidos a PM dele mata alguns. +",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1853053683388252570"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730637400000"
+            }
+        },
+        "content": "QUE DIABO TEM A FIOCRUZ COM A POL\u00cdTICA EXTREMA TERRORISTA DO PT?\nFiocruz, \u00f3rg\u00e3o ligado ao Minist\u00e9rio da Sa\u00fade, publica e divulga revista com ataques a Israel \u261b",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1852738464380285356"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730562246000"
+            }
+        },
+        "content": "Cara voc\u00ea \u00e9 imoral usando mortes de pessoas politicamente,  morreram muita gente de covid, morreram de vagabundos que assassinaram pessoas para tomar cervejinha, morreram pela corrup\u00e7\u00e3o deste desgra\u00e7ado que est\u00e1 em Bras\u00edlia,  est\u00e3o morrendo de dengue, e o caos na sa\u00fade publica",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "18"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1852377142220210332"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730476100000"
+            }
+        },
+        "content": "e administra\u00e7\u00e3o do GAMA DF . \nVoc\u00eas est\u00e3o matando as pessoas, precisamos de iniciativa, fiscaliza\u00e7\u00e3o e administra\u00e7\u00e3o na Sa\u00fade p\u00fablica de Bras\u00edlia DF, voc\u00eas est\u00e3o matando pessoas nos hospitais e postos de sa\u00fade.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "40"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1851927330328826212"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730368857000"
+            }
+        },
+        "content": "O senhor concorda em centralizar comando, pol\u00edticas e a\u00e7\u00f5es de seguran\u00e7a p\u00fablica em Bras\u00edlia?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "86"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1851676218187485200"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730308987000"
+            }
+        },
+        "content": "Em Bras\u00edlia, Bahia participa de evento internacional sobre sa\u00fade p\u00fablica https://bahianoticias.com.br/saude/noticia/32019-em-brasilia-bahia-participa-de-evento-internacional-sobre-saude-publica?utm_source=dlvr.it&utm_medium=twitter\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "3"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1851372640239333840"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1730236608000"
+            }
+        },
+        "content": "Participe do Painel Telebrasil 2024 e descubra como essas solu\u00e7\u00f5es inovadoras podem transformar a sa\u00fade p\u00fablica. 5 e 6 de novembro de 2024 Royal Tulip Bras\u00edlia Alvorada - Bras\u00edlia/DF\n\nSiga a p\u00e1gina do evento no Linkedin buscando por \u201cPainel Telebrasil 2024\u201d",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "44"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1849541371318689878"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1729800000000"
+            }
+        },
+        "content": "A morte foi confirmada pela FSNH (Funda\u00e7\u00e3o de Sa\u00fade P\u00fablica de Novo Hamburgo). O n\u00famero de mortos na trag\u00e9dia chega a cinco, com oito pessoas feridas",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "206"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1849435682013344165"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1729774802000"
+            }
+        },
+        "content": "Gilmar Mendes defende ag\u00eancia \u00fanica que avalie novos rem\u00e9dios na sa\u00fade p\u00fablica e privada",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "61"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1848843435786268738"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1729633599000"
+            }
+        },
+        "content": "Com mais de 7 milh\u00f5es de doses contra a covid-19 aplicadas no DF nos \u00faltimos quatro anos, a rede p\u00fablica enfrenta a agora a falta do imunizante. De acordo com a Secretaria de Sa\u00fade do DF faltam principalmente doses em frasco para menores de 5 anos",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "154"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1848701862347771958"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1729599845000"
+            }
+        },
+        "content": "Fui em 3 UPAs aqui em Bras\u00edlia e n\u00e3o consegui atendimento em nenhuma, todas sem m\u00e9dico, \u00e9 um absurdo a sa\u00fade p\u00fablica do DF",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "34"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1847011983490425111"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1729196947000"
+            }
+        },
+        "content": "Participe da audi\u00eancia p\u00fablica, na sexta-feira (18/10), das 9h \u00e0s 13h, no Audit\u00f3rio da Anvisa em Bras\u00edlia. A capacidade m\u00e1xima \u00e9 de 240 participantes, ent\u00e3o chegue cedo para garantir seu lugar. #Anvisa #Sa\u00fade #SUS #Vigil\u00e2nciaSanit\u00e1ria #Minist\u00e9riodaSa\u00fade",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "1600"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1845431177022247216"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1728820053000"
+            }
+        },
+        "content": "AINDA N\u00c3O CAIU A FICHA???????????????????\nN\u00c3O EXISTE MINIST\u00c9RIO E NEM NADA DE SA\u00daDE P\u00daBLICA NO BRASIL.\nTUDO \u00c9 S\u00d3 UMA PIADA.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "3"
+        },
+        "analytics": {
+            "$numberInt": "44"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1845430882498162743"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1728819983000"
+            }
+        },
+        "content": "ESQUE\u00c7EM QUE NO BRASIL N\u00c3O TEM SAUDE NEM SEGURAN\u00c7A P\u00daBLICA, QUE OS MINIST\u00c9RIOS S\u00c3O S\u00d3 CABIDES E N\u00c3O SETORES VERDADEIROS, \u00c9 POLITICA CORRU-PT-A A SEU PROPRIO SERVI\u00c7O E A POLULA\u00c7\u00c3O?\nQUE SE FODA.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1836145903486279841"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1726606271000"
+            }
+        },
+        "content": "Ministro Toffoli \u00e9 internado com problemas respirat\u00f3rios em meio a inc\u00eandios em Bras\u00edlia; a qualidade do ar e a sa\u00fade p\u00fablica est\u00e3o em risco. https://newsco.ai/saude/saude-publica/2024/09/17/ministro-toffoli-internado-em-brasilia-durante-crise-de-incendios/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1828951600234188940"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724891016000"
+            }
+        },
+        "content": "Partiu Bras\u00edlia Participar do Comit\u00ea T\u00e9cnico Assessor de Preven\u00e7\u00e3o em HIV e IST\u2019s do  \n\nQue honra poder fazer parte da hist\u00f3ria da sa\u00fade p\u00fablica desse pa\u00eds!",
+        "likes": {
+            "$numberInt": "973"
+        },
+        "retweets": {
+            "$numberInt": "9"
+        },
+        "analytics": {
+            "$numberInt": "12000"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1828773495733715379"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724848553000"
+            }
+        },
+        "content": "E a Sa\u00fade P\u00fablica no Distrito Federal mais uma vez entra na pauta policial\u2026..\n\nAcorda Bras\u00edlia !",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "29"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1827697983871225913"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724592130000"
+            }
+        },
+        "content": "Pesquisa realizada no Pont\u00e3o do Lago Sul. No resto do DF temos zero seguran\u00e7a p\u00fablica e zero sa\u00fade. Lembra q o senhor estava passeando na Fl\u00f3rida, enquanto Bras\u00edlia liderava o ranking de mortes por dengue? O sr simplesmente deixou de governar ap\u00f3s reeleito.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "61"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1827692407204483490"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724590801000"
+            }
+        },
+        "content": "A Escola de Sa\u00fade P\u00fablica (ESP-DF) lan\u00e7a enquete para escolha da sua logomarca com participa\u00e7\u00e3o da comunidade. O resultado da vota\u00e7\u00e3o com a  identidade visual da escola ser\u00e1 divulgado no dia 29 de agosto. Veja em:",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "158"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1826417595936874560"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724286862000"
+            }
+        },
+        "content": "O F\u00f3rum Sa\u00fade 2024 aconteceu em Bras\u00edlia e contou com a presen\u00e7a de especialistas, empres\u00e1rios, congressistas e autoridades. O encontro discutiu estrat\u00e9gias para estimular a inova\u00e7\u00e3o e ampliar o acesso \u00e0 sa\u00fade p\u00fablica no pa\u00eds #CNNBrasilPrimeTime",
+        "likes": {
+            "$numberInt": "6"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7000"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1826369690773717053"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724275441000"
+            }
+        },
+        "content": "Eu tenho 57 anos,meu pai veio trabalhar em Bras\u00edlia em 1972, eu tinha 5 anos.Ficamos 9 anos. Foi uma inf\u00e2ncia maravilhosa, livre,segura,fic\u00e1vamos brincando na rua at\u00e9 \u00e0s 23:00sem perigo algum. A sa\u00fade p\u00fablica excelente. No col\u00e9gio t\u00ednhamos a Hora Civica,cant\u00e1vamos oHino Nacional.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1826290414862905594"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724256540000"
+            }
+        },
+        "content": "O evento ocorreu em Bras\u00edlia e abordou a import\u00e2ncia da Estrat\u00e9gia Nacional de Sa\u00fade como Pol\u00edtica P\u00fablica legalmente institu\u00edda. Saiba mais em: http://ajufe.org.br",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "90"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1826255562365174016"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724248230000"
+            }
+        },
+        "content": "Com um simples par de lentes, o horizonte educacional \u00e9 ampliado. Mais de 2 mil alunos da rede p\u00fablica recebem exames e \u00f3culos gratuitos por ano no Espa\u00e7o Sa\u00fade do Estudante, na Asa Sul. Al\u00e9m disso, oferece atendimento psicol\u00f3gico e preven\u00e7\u00e3o de ISTs.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "1400"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1825969767708242098"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724180092000"
+            }
+        },
+        "content": "Conass sedia primeira oficina do projeto Vigiares\n\nAcontece hoje, na sede do #Conass em Bras\u00edlia, a oficina do Projeto Vigiares: Fortalecimento da Capacidade de Vigil\u00e2ncia, Prepara\u00e7\u00e3o e Resposta a Eventos com Potencial de se Tornarem Emerg\u00eancias de Sa\u00fade P\u00fablica, realizado por",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "3"
+        },
+        "analytics": {
+            "$numberInt": "588"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1825879119810154871"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724158480000"
+            }
+        },
+        "content": "O evento ser\u00e1 em Bras\u00edlia e reunir\u00e1 expositores, juristas e especialistas, buscando uma vis\u00e3o abrangente, pluralista e coletiva da atual legisla\u00e7\u00e3o, gest\u00e3o e financiamento das pol\u00edticas p\u00fablicas de sa\u00fade no Brasil. Saiba mais https://encurtador.com.br/ZwxvN",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "110"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1824031043944632603"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1723717864000"
+            }
+        },
+        "content": "Abuso da pelegada: A pelegada sindical de Bras\u00edlia gasta rios de dinheiro em propaganda contra a amplia\u00e7\u00e3o da autonomia do Banco Central e por decreta\u00e7\u00e3o de uma greve cruel de m\u00e9dicos da sa\u00fade p\u00fablica no DF. Esse abuso de poder econ\u00f4mico, inclusive\u2026 #ColunaCH #DiariodoPoder",
+        "likes": {
+            "$numberInt": "186"
+        },
+        "retweets": {
+            "$numberInt": "62"
+        },
+        "analytics": {
+            "$numberInt": "1900"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1822313972801953897"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1723308482000"
+            }
+        },
+        "content": "A Faria Lima venceu! Os campe\u00f5es nacionais exigiram e  obedeceu. \n-ningu\u00e9m mexe nos maraj\u00e1s de Bras\u00edlia - principalmente nos do judici\u00e1rio;\n-ningu\u00e9m mexe nos lucros exorbitantes dos bancos;\n\nBora cortar da educa\u00e7\u00e3o, seguran\u00e7a p\u00fablica, sa\u00fade e aumentar impostos, claro.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "12"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1821550200030155045"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1723126385000"
+            }
+        },
+        "content": "Um bom dia com #tbt de trabalho com esse caf\u00e9 da manh\u00e3. H\u00e1 seis anos em Bras\u00edlia, trouxe R$ 46 milh\u00f5es para nossa cidade, destinados para Educa\u00e7\u00e3o, Sa\u00fade, Seguran\u00e7a P\u00fablica e Meio Ambiente. Sou uma mulher batalhadora e que, assim como voc\u00ea, quer fazer do nosso pa\u00eds Niter\u00f3i o",
+        "likes": {
+            "$numberInt": "18"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "1700"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1818394936670380517"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1722374111000"
+            }
+        },
+        "content": "Em assembleia geral, os m\u00e9dicos do Sistema \u00danico de Sa\u00fade do Distrito Federal v\u00e3o decidir por uma poss\u00edvel greve da categoria. Marcada para o dia 16 de agosto, a reuni\u00e3o vai discutir os problemas na sa\u00fade p\u00fablica, al\u00e9m da recomposi\u00e7\u00e3o salarial dos profissionais",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "177"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1816111102977270038"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721829603000"
+            }
+        },
+        "content": "No primeiro semestre, a rede p\u00fablica de sa\u00fade do DF atendeu mais de 4,2 milh\u00f5es de pessoas nos postos e UBSs. A Aten\u00e7\u00e3o Prim\u00e1ria \u00e9 essencial no cuidado preventivo das fam\u00edlias, promove sa\u00fade e oferece diagn\u00f3stico, tratamento e bem-estar. Saiba mais:",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "95"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1815838724766458050"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721764663000"
+            }
+        },
+        "content": "O N\u00facleo de Assist\u00eancia Jur\u00eddica de Defesa da Sa\u00fade da Defensoria P\u00fablica do Distrito Federal fez mais de 27 mil atendimentos nos seis primeiros meses deste ano. A solicita\u00e7\u00e3o mais procurada foi a garantia de leitos de Unidade de Terapia Intensiva: quase 300 pedidos",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "153"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1815781780797972602"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721751086000"
+            }
+        },
+        "content": "Muito trabalho e reconhecimento! A professora do Departamento de Sa\u00fade P\u00fablica, Milene Zanoni, esteve nas \u00faltimas semanas em eventos relacionados \u00e0 sa\u00fade p\u00fablica, em Bras\u00edlia e em Lima, Peru.\n\nLeia: https://uepg.br/eventos-saude-publica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "114"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1814439576015872207"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721431080000"
+            }
+        },
+        "content": "Guilhermina Rego, da Universidade do Porto, traz sua experi\u00eancia em bio\u00e9tica e administra\u00e7\u00e3o em sa\u00fade para a 16\u00aa Confer\u00eancia Mundial de Bio\u00e9tica, em Bras\u00edlia. Vamos juntos transformar a sa\u00fade p\u00fablica!Inscreva-se em: http://bioethicsbrasilia2024.com#Bio\u00e9tica2024 #Administra\u00e7\u00e3oDeSa\u00fade",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "411"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812961306275692976"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721078633000"
+            }
+        },
+        "content": "Este nosso pa\u00eds infeliz clama por gest\u00e3o. Gest\u00e3o de educa\u00e7\u00e3o, de sa\u00fade, de infra-estrutura, de seguran\u00e7a p\u00fablica, da ind\u00fastria, de tudo! S\u00f3 o agro se sustenta sozinho. Mas l\u00e1 em Bras\u00edlia est\u00e3o trabalhando para estragar isso tamb\u00e9m.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "47"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812881133052330200"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721059518000"
+            }
+        },
+        "content": "respons\u00e1veis pela sa\u00fade p\u00fablica do Brasil. Infelizmente o governador de Bras\u00edlia \u00e9 um facista e  irrespons\u00e1vel por milhares de pessoas que necessitam da sa\u00fade p\u00fablica da capital do Brasil.E uma vergonha, \u00e9 um abandono total.Fa\u00e7am alguma coisa urgente,por favor Srs, Obrigada.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812881121169875261"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721059515000"
+            }
+        },
+        "content": ", , , , , ,vcs precisam verificar os hospitais de BSB,a minha denuncia \u00e9 sobre o hospital que fica no Parano\u00e1,esse local est\u00e1 abandonado pela  sa\u00fade p\u00fablica de Bras\u00edlia,os \u00f3rg\u00e3os competentes precisam",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "38"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812855822352896425"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1721053483000"
+            }
+        },
+        "content": "Se o ministro est\u00e1 preocupado com a sa\u00fade p\u00fablica, deveria procurar saber porque o governo federal tem sido t\u00e3o irrespons\u00e1vel na preven\u00e7\u00e3o da dengue. As redes sociais tem sido \u00fateis apontando essa falta de a\u00e7\u00e3o de Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812478872820085160"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720963612000"
+            }
+        },
+        "content": "Problema de sa\u00fade p\u00fablica... \u00c9 Bras\u00edlia hoje !",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1812465822477988201"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720960500000"
+            }
+        },
+        "content": "Ministro de Lula diz que redes sociais viraram problema de sa\u00fade p\u00fablica e precisam de regulamenta\u00e7\u00e3ohttps://terrabrasilnoticias.com/2024/07/ministro-de-lula-diz-que-redes-sociais-viraram-problema-de-saude-publica-e-precisam-de-regulamentacao/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "17"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1811400052210049040"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720706401000"
+            }
+        },
+        "content": "O GARCE os convida para a palestra \u201cO Desafio Silencioso.\u201d, com a m\u00e9dica reumatologista convidada, Dra. S\u00e2mia Studart. 13 de julho 14:00 (horario de Brasilia)Escola de Sa\u00fade P\u00fablica, Av. Ant\u00f4nio Justa, 3161 - Fortaleza - Brasil#palestra #osteoporose #pacientereumatico",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "33"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1811178466160640250"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720653571000"
+            }
+        },
+        "content": "Em Bras\u00edlia, DF, tem Tai Chi de gra\u00e7a pela rede de sa\u00fade p\u00fablica. J\u00e1 vi v\u00e1rios relatos de melhoria da sa\u00fade, desde parkinson a s\u00edndrome do p\u00e2nico. Parab\u00e9ns ao SUS do DF!!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1810465263940452494"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720483530000"
+            }
+        },
+        "content": "Ter, de longe, o maior OR\u00c7AMENTO PER CAPITA DO PA\u00cdS e mesmo assim ter crian\u00e7a morrendo sem atendimento de sa\u00fade, ter transporte p\u00fablico p\u00e9ssimo (e caro), ter alagamento em regi\u00f5es pobres TODO ANO, n\u00e3o ter nenhuma op\u00e7\u00e3o de lazer P\u00daBLICA fora do Plano.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "35"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1809563537729016124"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720268542000"
+            }
+        },
+        "content": "Entra semana, sai semana, e a sa\u00fade p\u00fablica no Distrito Federal continua submetida ao descaso dos governantes de Bras\u00edlia\u2026. N\u00e3o \u00e9 descaso apenas com os pacientes, tamb\u00e9m \u00e9 descaso com os Servidores P\u00fablicos do Distrito Federal que trabalham na Secretaria de Sa\u00fade\u2026.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "29"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1808884636086399155"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720106679000"
+            }
+        },
+        "content": "A Fiocruz Brasilia sediou nesta quarta-feira (3), o lan\u00e7amento da The Lancet - uma das mais renomadas revistas cient\u00edficas de medicina e sa\u00fade p\u00fablica do mundo.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "55"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1808585403923923366"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720035336000"
+            }
+        },
+        "content": "A Presidente do CRF-CE, Dra. Arlandia Nobre participou de Reuni\u00e3o do Grupo de Trabalho de Sa\u00fade P\u00fablica em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "9"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1808567571022762331"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720031085000"
+            }
+        },
+        "content": "Mais brasil menos Bras\u00edlia, os impostos precisam ficar nas cidades e estados, que mantem a Sa\u00fade p\u00fablica, Seguran\u00e7a p\u00fablica, Educa\u00e7\u00e3o b\u00e1sica p\u00fablica s\u00e3o os munic\u00edpios e estados. Bras\u00edlia, Uni\u00e3o, s\u00f3 gasta com merda o dinheiro do povo.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "17"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1807854066544136216"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719860972000"
+            }
+        },
+        "content": "A Secretaria de Estado da Sa\u00fade P\u00fablica do Rio Grande do Norte informa que, por meio do Servi\u00e7o de Atendimento M\u00f3velhttps://jornaldebrasilia.com.br/noticias/brasil/voo-internacional-faz-pouso-de-emergencia-em-natal-apos-turbulencias-e-deixa-30-pessoas-feridas/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "77"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1807081600326512804"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719676802000"
+            }
+        },
+        "content": "Primeira Escola de Sa\u00fade P\u00fablica do DF!\n\nAp\u00f3s 6 meses de planejamento, a Funda\u00e7\u00e3o de Ensino e Pesquisa em Ci\u00eancias da Sa\u00fade (Fepecs) finalizou o processo de cria\u00e7\u00e3o da primeira Escola de Sa\u00fade P\u00fablica do DF. \n\nConfira: https://agenciabrasilia.df.gov.br/2024/06/26/criada-a-primeira-escola-de-saude-publica-do-distrito-federal/\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "152"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1807007159978266732"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719659054000"
+            }
+        },
+        "content": "Bras\u00edliaMesmo em pequenas quantidades, maconha pode ser nociva para sa\u00fade e problema de seguran\u00e7a p\u00fablicahttps://hora1mt.com.br/2024/06/mesmo-em-pequenas-quantidades-maconha-pode-ser-nociva-para-saude-e-problema-de-seguranca-publica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1806821992953212967"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719614906000"
+            }
+        },
+        "content": "Dor? Dor \u00e9 toda semana a minha av\u00f3 me chamar pra ir na casa dela no Rio de Janeiro e eu ter que lembr\u00e1-la que moro em S\u00e3o Paulo e ela em Bras\u00edlia. Depois de 65 anos, 30 trabalhados na sa\u00fade p\u00fablica, 5 filhos, 22 netos e 2 bisnetas, a cabe\u00e7a n\u00e3o funciona bem... D\u00f3i, de verdade.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "30"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1806042599871877354"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719429085000"
+            }
+        },
+        "content": "Os 150 anestesistas contratados pela  j\u00e1 come\u00e7aram a atuar em diversas unidades da rede p\u00fablica de sa\u00fade. Com investimento de R$ 20 milh\u00f5es, o objetivo \u00e9 realizar 26 mil opera\u00e7\u00f5es eletivas, reduzindo o tempo de espera.\n\nVeja: https://agenciabrasilia.df.gov.br/2024/06/24/anestesistas-contratados-iniciam-primeiras-cirurgias-na-rede-publica-de-saude/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "128"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1804586400894820847"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719081900000"
+            }
+        },
+        "content": "Guilhermina Rego, da Universidade   do Porto, traz sua experi\u00eancia em bio\u00e9tica e administra\u00e7\u00e3o em sa\u00fade para a   16\u00aa Confer\u00eancia Mundial de Bio\u00e9tica, em Bras\u00edlia. Vamos juntos transformar a sa\u00fade p\u00fablica! Inscreva-se em http://bioethicsbrasilia2024.com#Bio\u00e9tica2024  #CFM",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "454"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1804517949073428895"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719065580000"
+            }
+        },
+        "content": "Refor\u00e7o na rede p\u00fablica de sa\u00fade do Distrito Federal: Foram convocados mais 100 enfermeiros aprovados em concurso p\u00fablico. Com essa nomea\u00e7\u00e3o, s\u00e3o 120 novos profissionais de enfermagem chamados para refor\u00e7ar o quadro de pessoal da  em menos de um m\u00eas.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "161"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1803207752145047570"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1718753204000"
+            }
+        },
+        "content": "A maioria das comidas brasileiras s\u00e3o de fora, cinema brasileiro \u00e9 horr\u00edvel, ter sa\u00fade p\u00fablica e pessoas morrendo na fila dos hospitais n\u00e3o adianta nada e no\u00e7\u00e3o de geografia e hist\u00f3ria vc est\u00e1 de sacanagem, se vc perguntar para algumas pessoas eles v\u00e3o falar que Bras\u00edlia \u00e9 estado",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "14"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1802420283867111466"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1718565457000"
+            }
+        },
+        "content": "150 novos anestesistas da rede p\u00fablica de sa\u00fade do DF come\u00e7am a atuar amanh\u00e3 (17). Foram investidos R$ 20 milh\u00f5es na contrata\u00e7\u00e3o dos profissionais. Saiba mais: https://agenciabrasilia.df.gov.br/2024/06/16/novos-anestesistas-da-rede-publica-de-saude-do-df-comecam-a-atuar-nesta-segunda-feira-17/\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "236"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1801375238393106494"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1718316299000"
+            }
+        },
+        "content": "At\u00e9 onde essa crise na Sa\u00fade P\u00fablica do Distrito Federal vai nos levar ? A falta de sensibilidade de quem lidera o Governo do Distrito Federal est\u00e1 chocando a popula\u00e7\u00e3o de Bras\u00edlia. S\u00e3o bilh\u00f5es de Reais de or\u00e7amento anual para um descaso, e fica a pergunta: at\u00e9 quando ?",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "120"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1801343909479539060"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1718308830000"
+            }
+        },
+        "content": "ProEpi de portas abertas!\n\nHoje, tivemos a honra de receber nossa conselheira Eliza Ramos no escrit\u00f3rio da ProEpi em Bras\u00edlia \n\nTeve muito caf\u00e9, bolo e conversa sobre sa\u00fade p\u00fablica. Al\u00e9m disso nossa conselheira aproveitou para levar diversos mimos da Lojinha da ProEpi.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "30"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1800946869163417846"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1718214168000"
+            }
+        },
+        "content": "Quando precisar da sa\u00fade eu espero que vc procure uma unidade privada. Vive defendendo ela. Teve uma creche interditada em Bras\u00edlia, acho que era p\u00fablica\u2026puts, n\u00e3o! Me confundi! Era PRIVADA, e as crian\u00e7as comendo barata. N\u00e3o vi um post seu falando sobre isso. Hipocrita.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "126"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1799105687391539327"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717775196000"
+            }
+        },
+        "content": "As novas contrata\u00e7\u00f5es na \u00e1rea da sa\u00fade v\u00eam para fortalecer o atendimento \u00e0 popula\u00e7\u00e3o na rede p\u00fablica. Saiba mais: https://agenciabrasilia.df.gov.br/2024/06/04/df-vai-nomear-mais-100-enfermeiros-e-200-tecnicos-de-enfermagem/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "95"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1799083456204538174"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717769895000"
+            }
+        },
+        "content": "CPI DA SA\u00daDEA OAB-DF decidiu apoiar a instala\u00e7\u00e3o de uma comiss\u00e3o parlamentar de inqu\u00e9rito na C\u00e2mara Legislativa para investigar os problemas na Sa\u00fade. Na reuni\u00e3o ordin\u00e1ria, o Conselho Pleno da OAB, aprovou a proposi\u00e7\u00e3o de uma a\u00e7\u00e3o civil p\u00fablica para que a CPI seja instalada.",
+        "likes": {
+            "$numberInt": "22"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "1600"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798863301096755358"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717717406000"
+            }
+        },
+        "content": "As pessoas n\u00e3o entendem que esse tipo de medida tem impacto direto na qualidade n\u00e3o s\u00f3 do ensino, como da rede p\u00fablica de sa\u00fade, dos \u00f4nibus e dos CRAS",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798753384251498892"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717691200000"
+            }
+        },
+        "content": "Bras\u00edlia DF ,tempo atr\u00e1s, eu fazia postagem brigando pelo fato de homens entrarem \nno vag\u00e3o  feminino do metr\u00f4. \nAtualmente em Bras\u00edlia  a briga \u00e9 por beb\u00eas  e crian\u00e7as que est\u00e3o  morrendo por falta de\namparo da rede p\u00fablica da sa\u00fade. Brasil\u00eda  colapsando?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "156"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798459785265729881"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717621201000"
+            }
+        },
+        "content": "Refor\u00e7o na sa\u00fade!\n\nNomeados 146 m\u00e9dicos, 20 enfermeiros e 21 t\u00e9cnicos de enfermagem. Os novos profissionais v\u00e3o refor\u00e7ar a rede p\u00fablica de sa\u00fade e se unem aos mais de 7 mil servidores nomeados na   desde 2019. \nSaiba mais: https://agenciabrasilia.df.gov.br/2024/06/04/gdf-nomeia-novos-medicos-enfermeiros-e-tecnicos-de-enfermagem/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "164"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798321266925195366"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717588175000"
+            }
+        },
+        "content": "dito isto, quem for de Bras\u00edlia e puder ir na audi\u00eancia p\u00fablica sobre o tratamento do TDAH via SUS que ir\u00e1 acontecer amanh\u00e3, fortalece l\u00e1:\n\nAudi\u00eancia P\u00fablica: Tratamento de TDAH\nno SUS\nData: 6 de junho\nHor\u00e1rio: 9h\nLocal: Plen\u00e1rio 7 - Comiss\u00e3o de Sa\u00fade -\nC\u00e2mara dos Deputados",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "48"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798119422407921667"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717540052000"
+            }
+        },
+        "content": "Boa Noite ! O Governador est\u00e1 equivocado , ele fala q a sa\u00fade p\u00fablica t\u00e1 funcionando sendo q o mesmo nunca usa ! Basta v\u00ea q  sa\u00fade de Bras\u00edlia a tempos est\u00e1 um caos ! #DF2",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "10"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798069748724650360"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717528209000"
+            }
+        },
+        "content": "O coordenador do N\u00facleo de Estudos sobre Bio\u00e9tica e Diplomacia em Sa\u00fade (Nethis/Fiocruz Bras\u00edlia), Jos\u00e9 Paranagu\u00e1 e o professor Titular do Departamento de Pol\u00edtica, Gest\u00e3o e Sa\u00fade da Faculdade de Sa\u00fade P\u00fablica da USP, Fernando Aith, estiveram hoje na sede do Conass, para",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "681"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798050889867088210"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717523712000"
+            }
+        },
+        "content": "Fernanda Hoe, diretora geral da empresa, participou da cerim\u00f4nia oficial ao lado de autoridades e representantes da administra\u00e7\u00e3o p\u00fablica, em Bras\u00edlia (DF) https://caesegatos.com.br/elanco-assina-termo-de-compromisso-pro-equidade-de-genero-e-raca-do-ministerio-das-mulheres/\u2026#c\u00e3esegatos #equidade #diversidade #pets #sa\u00fade #animal",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "70"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1798040580070789329"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717521254000"
+            }
+        },
+        "content": "Brasilia com a menor parte dos impostos.\n\nE a sa\u00fade p\u00fablica?\n\nSolu\u00e7\u00e3o id\u00eantica \u00e0 educa\u00e7\u00e3o, com os ajustes pertinentes.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1797704950052790540"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717441234000"
+            }
+        },
+        "content": "Ato em defesa da sa\u00fade p\u00fablica no Distrito Federal acontece nesta ter\u00e7a-feira (4), em Bras\u00edliaManifesta\u00e7\u00e3o ser\u00e1 realizada \u00e0 frente do Pal\u00e1cio do Buriti, \u00e0s 13h, pelo Sindicato dos Enfermeiros do DF",
+        "likes": {
+            "$numberInt": "11"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "1100"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1797680353144095137"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717435370000"
+            }
+        },
+        "content": "A popula\u00e7\u00e3o, que tem sofrido nas UPAs, hospitais e outras unidades de sa\u00fade, exige respostas, e n\u00e3o a insist\u00eancia em proteger pr\u00e1ticas question\u00e1veis, relatadas com frequ\u00eancia pelos pr\u00f3prios usu\u00e1rios da rede p\u00fablica, pela imprensa e por alguns \u00f3rg\u00e3os de controle.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "16"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1797618640893989035"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717420656000"
+            }
+        },
+        "content": "Aten\u00e7\u00e3o!!! Alerta de Sa\u00fade P\u00fablica !!! A pra\u00e7a dos 3 poderes em Brasilia acaba de ser diagnosticada como infestada de parasitas. O parasita \u00e9 do tipo assassino, ele destr\u00f3i o hospedeiro. E de Suma import\u00e2ncia que a popula\u00e7\u00e3o se una para desinfetar a capital do pa\u00eds.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "5"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1797288234583503135"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717341881000"
+            }
+        },
+        "content": "Nos dias 13 e 14 de junho, a I Jornada de Direito da Sa\u00fade vai reunir, em Bras\u00edlia, diversos profissionais de sa\u00fade e do \u00e2mbito jur\u00eddico para debater tem\u00e1ticas como sa\u00fade p\u00fablica; sa\u00fade suplementar; evid\u00eancia e papel das institui\u00e7\u00f5es; oncologia, doen\u00e7as raras e regula\u00e7\u00e3o de",
+        "likes": {
+            "$numberInt": "22"
+        },
+        "retweets": {
+            "$numberInt": "6"
+        },
+        "analytics": {
+            "$numberInt": "3300"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1797018239987282301"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717277510000"
+            }
+        },
+        "content": "Voc\u00ea sabia que cerca de 8,4% da popula\u00e7\u00e3o adulta do DF s\u00e3o fumantes? Para quem deseja parar de fumar, a rede p\u00fablica de sa\u00fade tem mais de 80 locais de atendimento. Saiba mais: https://agenciabrasilia.df.gov.br/2024/06/01/rede-publica-de-saude-tem-mais-de-80-locais-de-atendimento-para-quem-quer-parar-de-fumar/\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "254"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1795884649396199632"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1717007240000"
+            }
+        },
+        "content": "PROJETO QUE TRATA SOBRE SA\u00daDE MENTAL AOS PROFISSIONAIS DE SEGURAN\u00c7A P\u00daBLICA EST\u00c1 SENDO DISCUTIDO EM BRAS\u00cdLIAhttps://jovempanuva.com.br/2024/05/29/projeto-que-trata-sobre-saude-mental-aos-profissionais-de-seguranca-publica-esta-sendo-discutido-em-brasilia/\u2026#jornaldamanha #jovempanuva #tiagoamaral #portouniao #santacatarina #flaviograff #segurancapublica #saudemental #susp #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1795595960455966838"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716938412000"
+            }
+        },
+        "content": "Infelizmente e o Brasil aqui em Bras\u00edlia o governo  .em seu segundo mandato acabou com a sa\u00fade p\u00fablica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "19"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1795575022490173821"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716933420000"
+            }
+        },
+        "content": "Em Bras\u00edlia, SC acompanha lan\u00e7amento do projeto voltado \u00e0 sa\u00fade mental dos profissionais da Seguran\u00e7a P\u00fablica. https://estado.sc.gov.br/noticias/em-brasilia-sc-acompanha-lancamento-do-projeto-voltado-a-saude-mental-dos-profissionais-da-seguranca-publica-2/\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "459"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1795547827478605957"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716926936000"
+            }
+        },
+        "content": "Em Bras\u00edlia, SC acompanha lan\u00e7amento do projeto voltado \u00e0 sa\u00fade mental dos profissionais da Seguran\u00e7a P\u00fablicahttps://ssp.sc.gov.br/em-brasilia-sc-acompanha-lancamento-do-projeto-voltado-a-saude-mental-dos-profissionais-da-seguranca-publica/\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "49"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1795515739006288200"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716919285000"
+            }
+        },
+        "content": "Mais profissionais para a sa\u00fade p\u00fablica do DF! O governador   autorizou a contrata\u00e7\u00e3o imediata de 149 m\u00e9dicos, 122 enfermeiros e 221 t\u00e9cnicos de enfermagem. \n\nSaiba mais: https://agenciabrasilia.df.gov.br/2024/05/27/autorizada-a-contratacao-de-492-profissionais-da-saude-para-rede-publica/\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "149"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1794509717672276453"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716679431000"
+            }
+        },
+        "content": "Lamento, a sa\u00fade p\u00fablica ruim em Bras\u00edlia me d\u00e1 uma tristeza danada.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "304"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793940067330711796"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716543616000"
+            }
+        },
+        "content": "O governador Ibaneis Rocha \u00e9 um verdadeiro irrespons\u00e1vel e covarde. \nEst\u00e1 acontecendo um colapso na sa\u00fade p\u00fablica de Bras\u00edlia e beb\u00eas est\u00e3o chegando \u00e0 \u00f3bito. Ele n\u00e3o foi capaz nem de conceder uma entrevista ao maior jornal do DF para se explicar.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "100"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793783445623078958"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716506274000"
+            }
+        },
+        "content": "Ele fecha os olhos para o caos na sa\u00fade p\u00fablica e se vira para o outro lado, enchendo Bras\u00edlia de obras que nunca terminam e alimentando o bolso dos aliados",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "9"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793705932578578730"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716487794000"
+            }
+        },
+        "content": "e tem outra coisa tb a saude publica aqui funciona melhor que em brasilia....",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793688342657196210"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716483600000"
+            }
+        },
+        "content": "Mais convoca\u00e7\u00f5es para a rede p\u00fablica de sa\u00fade do DF!\n\nConvocados m\u00e9dicos generalistas, condutores de ambul\u00e2ncia e padioleiros tempor\u00e1rios. Os aprovados t\u00eam at\u00e9 o dia 24 de maio para realizar a entrega da documenta\u00e7\u00e3o necess\u00e1ria.\n\nConfira: https://agenciabrasilia.df.gov.br/2024/05/21/gdf-convoca-medicos-generalistas-condutores-de-ambulancia-e-padioleiros-temporarios/\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "126"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793603627652985277"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716463403000"
+            }
+        },
+        "content": "O que Bras\u00edlia precisa \u00e9 de um gestor t\u00e3o determinado na sa\u00fade p\u00fablica como est\u00e1 sendo o gestor da mobilidade do tr\u00e2nsito do DF. #BOMDIADF ALESSANDRO ARNIQUEIRAS",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "25"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1793007542592852265"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716321285000"
+            }
+        },
+        "content": "A Policia Civil do Distrito Federal investiga tr\u00eas poss\u00edveis casos de neglig\u00eancia m\u00e9dica nas unidades p\u00fablicas de sa\u00fade do DF. Em menos de um m\u00eas, tr\u00eas crian\u00e7as morrem na rede p\u00fablica de sa\u00fade do Distrito Federal",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "175"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1792979445113901199"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716314586000"
+            }
+        },
+        "content": "Mais um caso de neglig\u00eancia da rede p\u00fablica de sa\u00fade. Uma menina de 8 anos morreu no Hospital Materno Infantil de Bras\u00edlia (HMIB), na \u00faltima sexta-feira (17). \u00c9 o terceiro caso em menos de um m\u00eas.",
+        "likes": {
+            "$numberInt": "12"
+        },
+        "retweets": {
+            "$numberInt": "8"
+        },
+        "analytics": {
+            "$numberInt": "539"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1792933679846539273"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716303675000"
+            }
+        },
+        "content": "Porque o povo, que \u00e9 quem interessa, n\u00e3o consegue ver! Como anda a seguran\u00e7a, a educa\u00e7\u00e3o e a sa\u00fade p\u00fablica no teu estado? Bras\u00edlia \u00e9 o ralo do dinheiro deste pa\u00eds!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "17"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1792923673097040320"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716301289000"
+            }
+        },
+        "content": "Deficit insustent\u00e1vel mesmo com uma carga tribut\u00e1ria alt\u00edssima e mesmo assim, estamos em crise na sa\u00fade, crise na seguran\u00e7a p\u00fablica, educa\u00e7\u00e3o de p\u00e9ssima qualidade... #desgoverno    \n\nSe isso n\u00e3o \u00e9 incompet\u00eancia...",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "11"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1792699665663889579"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1716247881000"
+            }
+        },
+        "content": "Londrina foi tomada por especuladores. Gleba Palhano n\u00e3o tem sa\u00fade p\u00fablica direito, n\u00e3o tem educa\u00e7\u00e3o p\u00fablica direito, tr\u00e2nsito \u00e9 a pura \u00cdndia, custo de vida de Bras\u00edlia, polui\u00e7\u00e3o do ar de S\u00e3o Paulo, sal\u00e1rios do Paraguai, muito top",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "1500"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1791199263470305424"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1715890157000"
+            }
+        },
+        "content": "Parece filme de terror. J\u00e1 observaram como anda a mortandade de crian\u00e7as e rec\u00e9m nascidos em Bras\u00edlia, s\u00f3 neste ano? O mais intrigante \u00e9 que ainda tem gente que acredita em pol\u00edtico dizendo que vai melhorar a sa\u00fade p\u00fablica do DF. Certamente nunca v\u00e3o aprender a votar direito.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1790855326012449220"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1715808156000"
+            }
+        },
+        "content": "Dispon\u00edvel gratuitamente na rede p\u00fablica desde 2018 em Bras\u00edlia, a PrEP completa 7 anos no SUS e atualmente pode ser prescrita por qualquer m\u00e9dico ou enfermeiro. A partir do in\u00edcio da distribui\u00e7\u00e3o do rem\u00e9dio houve redu\u00e7\u00e3o de novas infec\u00e7\u00f5es. Not\u00edcia: https://mla.bs/c3ce6162",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "207"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1790847247657132432"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1715806230000"
+            }
+        },
+        "content": "Estados Confederados. Estados Unidos Do Brasil. Cada qual,  ficaria com o resultado da sua pr\u00f3pria produ\u00e7\u00e3o. Apenas um repasse \u00fanico e igualit\u00e1rio para que Bras\u00edlia fizesse a gest\u00e3o de \u00e1reas q n\u00e3o podem haver concess\u00e3o: Educa\u00e7\u00e3o, Sa\u00fade e Seguran\u00e7a P\u00fablica. O resto PRIVATIZA TUDO",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "45"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1788646128075833512"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1715281443000"
+            }
+        },
+        "content": "Daqui a pouco! Luis Nassif e Jo\u00e3o Furtado entrevistam o cofundador do site O Joio e o Trigo, Jo\u00e3o Peres; a pesquisadora da Faculdade de Sa\u00fade P\u00fablica da USP, Giorgia Russo; e o pesquisador da Fiocruz Bras\u00edlia, Eduardo Nilson.\n\n https://youtube.com/watch?v=Y7XzqdgS7HA\u2026",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "431"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1788434329401475432"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1715230946000"
+            }
+        },
+        "content": "Estou h\u00e1 16 anos com aposentadoria congelada pela\n Sa\u00fade P\u00fablica de Bras\u00edlia, pode uma coisa dessas ?\n\nPode sim se o governador do DF for bolsonarista...e\n \nincompetente !\n.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1786726151362068548"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714823684000"
+            }
+        },
+        "content": "Ele falou que iria acabar com o problema da sa\u00fade p\u00fablica , ele acabou foi com tudo , pior governador da hist\u00f3ria, ibadengue",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1786510028951687331"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714772157000"
+            }
+        },
+        "content": "Claro que v\u00e3o. Assim como aqui em Bras\u00edlia, mesmo com calamidade da sa\u00fade p\u00fablica e do transporte p\u00fablico.\nO mundo \u00e9 outro. N\u00e3o h\u00e1 uma rela\u00e7\u00e3o necess\u00e1ria entre as a\u00e7\u00f5es do governo e o voto. A disputa \u00e9 mais cultural e religiosa do que pol\u00edtica e econ\u00f4mica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "114"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1785371324489121897"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714500669000"
+            }
+        },
+        "content": "O filha da puta que est\u00e1 acabando com a sa\u00fade p\u00fablica de Bras\u00edlia t\u00e1 mais preocupado com a Luzimar\u2026.. palha\u00e7ada",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "35"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1785034869141069882"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714420451000"
+            }
+        },
+        "content": "Em audi\u00eancia p\u00fablica promovida pela Comiss\u00e3o de Sa\u00fade da C\u00e2mara dos Deputados para discutir a cria\u00e7\u00e3o da carreira de auditor do Sistema \u00danico de Sa\u00fade (SUS), na \u00faltima ter\u00e7a-feira (23), em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "4"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1784658433473405041"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714330702000"
+            }
+        },
+        "content": "N\u00e3o \u00e9 assim que funciona. Meu filho ca\u00e7ula fez o terceiro ano em escola p\u00fablica em Bras\u00edlia DF, por motivos familares e de sa\u00fade dele, e fez o vestibular convencional e o PAS concorrendo com o pessoal das escolas particulares (onde ele estudou na maior parte do tempo).",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "8"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783820472272007463"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714130917000"
+            }
+        },
+        "content": "Rede p\u00fablica de sa\u00fade DF cuja capital Bras\u00edlia , nos postos de sa\u00fade ( UPAS) , ordem que povo n\u00e3o pode adoecer , vergonhoso",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "798"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783458241239781801"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714044554000"
+            }
+        },
+        "content": "Vai tomar no cu!\n\nEm Bras\u00edlia, uma m\u00e3e morreu por incompet\u00eancia da sa\u00fade p\u00fablica.\nOutra m\u00e3e teve que retirar o filho morto, ap\u00f3s 30 horas de trabalho de parto. \nUm menino autista foi espancado e morreu dentro da escola.\n\nE voc\u00eas dando aten\u00e7\u00e3o pra cachorro de fam\u00edlia com condi\u00e7\u00e3o!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "114"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783234699076178151"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713991257000"
+            }
+        },
+        "content": "Campanha mensal do GDF oferece castra\u00e7\u00e3o gratuita para 2 mil pets! A Secretaria do Meio Ambiente e Prote\u00e7\u00e3o Animal lan\u00e7ou a iniciativa para controlar a popula\u00e7\u00e3o animal e promover sa\u00fade p\u00fablica. Agende j\u00e1 a castra\u00e7\u00e3o de seu c\u00e3o ou gato! Confira: https://agenciabrasilia.df.gov.br/2024/04/22/campanha-mensal-de-castracao-gratuita-do-gdf-beneficiara-2-mil-pets/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "208"
+        },
+        "categoria": "saude",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783212563548782724"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713985980000"
+            }
+        },
+        "content": "A sa\u00fade p\u00fablica foi a \u00e1rea mais apontada pela popula\u00e7\u00e3o como priorit\u00e1ria para o Brasil nos pr\u00f3ximos tr\u00eas anos. https://reporterbrasilia.com.br/populacao-quer-prioridade-para-a-saude-publica/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "4"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783190702320464094"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713980768000"
+            }
+        },
+        "content": "Professor da rede p\u00fablica lan\u00e7a livro sobre constru\u00e7\u00e3o de Bras\u00edlia https://ift.tt/B3ECgKZ#dfnamidia #distritofederal #brasil #gdf #df #noticias #politica #economia #esportes #cidades #sa\u00fade #educa\u00e7\u00e3o #ultimasnoticias #cldf #governo #policia #pmdf #pm",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "23"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783156986122477805"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713972729000"
+            }
+        },
+        "content": "Normal do sistema de sa\u00fade p\u00fablica de Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "4"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783156693758607760"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713972659000"
+            }
+        },
+        "content": "Assim \u00e9 Bras\u00edlia - C\u00e1ssio Thyone\nCrimes de influencers no DF trazem alertas com repercuss\u00e3o at\u00e9 na sa\u00fade p\u00fablica.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "1100"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1783095496938082458"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713958069000"
+            }
+        },
+        "content": "Bras\u00edlia tem Hospital Veterin\u00e1rio p\u00fablico de excel\u00eancia, q poderia ser exemplo p sa\u00fade p\u00fablica humana ...#bomdiadf mostra on\u00e7a socorrida em hospital de luxo...",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "40"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1782902729632788550"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713912110000"
+            }
+        },
+        "content": "Audi\u00eancia P\u00fablica Na Comiss\u00e3o De Sa\u00fade Para Tratar Da Carreira De Auditoria Do Sistema \u00danico De Sa\u00fade ! Lideran\u00e7a Do  / C\u00e2mara Dos Deputados #brasilia",
+        "likes": {
+            "$numberInt": "42"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "692"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1782888244515946570"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713908656000"
+            }
+        },
+        "content": "Mas o povo de Bras\u00edlia anda muito satisfeito com a sa\u00fade p\u00fablica de l\u00e1, j\u00e1 q reelegeram o enganeis em 1 turno e at\u00e9 hoje batem em qualquer um q falar um A dele",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "98"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1781808371156263402"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713651194000"
+            }
+        },
+        "content": "Hoje,dia 20 de abril,celebra-se o Dia Mundial da Vacina\u00e7\u00e3o Animal. Atualmente, a vacina\u00e7\u00e3o dos animais n\u00e3o s\u00f3 \u00e9 fundamental na preven\u00e7\u00e3o de doen\u00e7as dos animais,como tamb\u00e9m para a prote\u00e7\u00e3o da sa\u00fade p\u00fablica e ambiental, contribuindo assim para a abordagem integrad \u201cUma S\u00f3 Sa\u00fade\u201d.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "166"
+        },
+        "categoria": "saude",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1781499696961187845"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713577601000"
+            }
+        },
+        "content": "h\u00e1 meses n\u00e3o vejo ningu\u00e9m falando a respeito da calamidade que est\u00e1 a \u00e1rea da sa\u00fade p\u00fablica e privada de bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "46"
+        },
+        "categoria": "saude",
+        "sentimento": "negativo"
+    }
+]

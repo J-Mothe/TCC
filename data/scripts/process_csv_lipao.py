@@ -97,6 +97,6 @@ def process_csv_e_salva_json(input_file, output_file, categoria_forcada="educaç
     print(f"✅ JSON gerado com {len(dados_final)} registros e salvo em {output_file}")
 
 if __name__ == "__main__":
-    input_csv = os.path.abspath('../raw/1000_brasilia_educação.csv')
-    output_json = os.path.abspath('../processed/brasilia_educacao_com_sentimento.json')
-    process_csv_e_salva_json(input_csv, output_json, categoria_forcada="educação")
+    input_csv = os.path.abspath('../raw/109_brasilia_infraestrutura.csv')
+    output_json = os.path.abspath('../processed/brasilia_infraestrutura_com_sentimento.json')
+    process_csv_e_salva_json(input_csv, output_json, categoria_forcada="transporte")

@@ -1,0 +1,1938 @@
+[
+    {
+        "tweet_id": {
+            "$numberLong": "1910497066578571406"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1744332970000"
+            }
+        },
+        "content": "Quem \u00e9 a burguesia?\n\nSabe que 90% dos ricos do Brasil est\u00e3o em Bras\u00edlia ou no funcionalismo p\u00fablico?\n\nQuem paga isso \u00e9 quem n\u00e3o tem saneamento b\u00e1sico\n\nE ai votamos em pessoas que aumentam farra e mamata\n\nEu defendo um estado enxuto mas forte",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "11"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1902032622726832416"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1742314889000"
+            }
+        },
+        "content": "Trabalhadores protestam em Bras\u00edlia contra privatiza\u00e7\u00e3o do saneamento p\u00fablico",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1860468439560651194"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732405216000"
+            }
+        },
+        "content": "N\u00e3o entendi, .\n\nO Instituto  passou anos dizendo que \u00fanica sa\u00edda para o saneamento era a privatiza\u00e7\u00e3o.\n\nAgora que a lei est\u00e1 valendo o mesmo instituto diz que \u00e9 preciso mais investimento p\u00fablico pra resolver?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "37"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1826255657529639189"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724248253000"
+            }
+        },
+        "content": "Quem disse q n\u00e3o tem saneamento b\u00e1sico no Brasil? Essa \u00e9 a imagem do esgoto h\u00e1 c\u00e9u aberto em Bras\u00edlia,maior desperd\u00edcio do dinheiro p\u00fablico atualmente!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1776657114179547427"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1712423039000"
+            }
+        },
+        "content": "Est\u00e1 acontecendo um festival de RODEIO no Parque da Cidade. \u00c9 isso: n\u00e3o importa hospitais, UPAs, transporte p\u00fablico, drenagem, saneamento, ilumina\u00e7\u00e3o, seguran\u00e7a. Basta alimentar o gado.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "194"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1762967846303203377"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1709159263000"
+            }
+        },
+        "content": "enquanto isso tem lugares sem saneamento b\u00e1sico, sem educa\u00e7\u00e3o d qualidade, sem sa\u00fade, sem seguran\u00e7a. Papo reto, essa farra que voc\u00eas fazem com o dinheiro p\u00fablico s\u00f3 vai acabar quando cair uma bomba em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "18"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1758683983649358203"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1708137911000"
+            }
+        },
+        "content": "Bom retrato do privatismo brasileiro: o governo de SP publicou o novo modelo de REGULA\u00c7\u00c3O da Sabesp, que reduz brutalmente o poder da ag\u00eancia... REGULADORA! O mercado elogia, mas ainda assim chora!\n\n(ARSESP \u00e9 a ag\u00eancia reguladora de saneamento p\u00fablico}https://braziljournal.com/sabesp-as-regras-do-jogo-depois-da-privatizacao/\u2026",
+        "likes": {
+            "$numberInt": "234"
+        },
+        "retweets": {
+            "$numberInt": "32"
+        },
+        "analytics": {
+            "$numberInt": "12000"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1739788645433770265"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1703632911000"
+            }
+        },
+        "content": "J\u00e1 morei em v\u00e1rios lugares. Quatro capitais: Bel\u00e9m, BH, S\u00e3o Paulo e agora Bras\u00edlia. Todas t\u00eam problemas: habita\u00e7\u00e3o, transporte p\u00fablico, saneamento, viol\u00eancia, fac\u00e7\u00f5es criminosas, tr\u00e2nsito horr\u00edvel. S\u00e3o problemas estruturais do nosso pa\u00eds gente.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "122"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1730319381782016394"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1701375263000"
+            }
+        },
+        "content": "Ora pois, banheiro \u00e9 uma medida genial porque engloba automaticamente saneamento no p\u00fablico e condi\u00e7\u00e3o financeira para construir mais de um, no privado. E quanto mais quebra-molas, \u00e9 porque o povo tem menos educa\u00e7\u00e3o no tr\u00e2nsito. Precisa do primeiro e n\u00e3o deveria ter o segundo.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1694849888180150408"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692918676000"
+            }
+        },
+        "content": "Na tarde de 15/08, o MAB esteve no lan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, realizado na C\u00e2mara dos Deputados, em Bras\u00edlia (DF). : Comunica\u00e7\u00e3o FNU#\u00c1gua\u00c9Direito #AtingidosDoBrasil",
+        "likes": {
+            "$numberInt": "9"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "319"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1694100409214779518"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692739987000"
+            }
+        },
+        "content": "POR UM SANEAMENTO P\u00daBLICO! Na \u00faltima semana, as articula\u00e7\u00f5es contra a privatiza\u00e7\u00e3o da Sabesp ganharam for\u00e7a. Na ter\u00e7a-feira (15) houve o lan\u00e7amento em Bras\u00edlia da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, e claro, o Sintaema marcou presen\u00e7a.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "54"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1692239693700563378"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692296357000"
+            }
+        },
+        "content": "Semana de muita luta em Bras\u00edlia. Do lan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico a tradicional Marcha das Margaridas, o Sintaema segue lutando pela garantia dos servi\u00e7os b\u00e1sicos e por direitos. Confira!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "79"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691829281008054486"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692198507000"
+            }
+        },
+        "content": "A CTB e o Sintaema, participaram nesta quarta (15), em Bras\u00edlia, do lan\u00e7amento da Frente Parlamentar em Defesa do Saneamento P\u00fablico. https://ctb.org.br/noticias/meio-ambiente/frente-parlamentar-mista-em-defesa-do-saneamento-publico-e-lancada-em-brasilia/\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691810602014867950"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692194054000"
+            }
+        },
+        "content": "Lan\u00e7ada em Bras\u00edlia, a Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico. #\u00c1gua\u00c9doPovohttp://sintaema.org.br/site/2023/08/16/lancada-em-brasilia-a-frente-parlamentar-mista-em-defesa-do-saneamento-publico/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691596474793054613"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692143002000"
+            }
+        },
+        "content": "O Sintaema esteve nesta quarta-feira (15) em Bras\u00edlia para o lan\u00e7amento da Frente Parlamentar em Defesa do Saneamento P\u00fablico. \u201cHoje \u00e9 um dia muito importante, de grandes mobiliza\u00e7\u00f5es e vit\u00f3rias para o setor\u201d, declarou Jos\u00e9 Faggian, presidente do Sindicato. +",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "59"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691588932259987703"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692141204000"
+            }
+        },
+        "content": "Em um grande evento pol\u00edtico foi lan\u00e7ada hoje, dia 15 de agosto, em Bras\u00edlia, a Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico. O momento \u00e9 de unidade em torno de uma causa maior: a defesa do saneamento p\u00fablico.https://fnucut.org.br/41349/lancada-frente-parlamentar-mista-em-defesa-do-saneamento-publico/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "4"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691515363932913665"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692123664000"
+            }
+        },
+        "content": "URBANIT\u00c1RIOS EM BRAS\u00cdLIA NA LUTA EM DEFESA DO SANEAMENTO P\u00daBLICO#\u00c1gua\u00c9doPovo",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "792"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691197470657675264"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692047872000"
+            }
+        },
+        "content": "O presidente do SintaemaSC, Leonardo Lacerda, estar\u00e1 em Bras\u00edlia, amanh\u00e3 no lan\u00e7amento da Frente em Defesa do Saneamento P\u00fablico, junto de v\u00e1rias entidades de todo o Brasil, em defesa da universaliza\u00e7\u00e3o do saneamento, das empresas p\u00fablicas e dos trabalhadores e trabalhadoras.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "20"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691189821580922881"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692046048000"
+            }
+        },
+        "content": "O Coletivo Nacional de Saneamento (CNS) esteve reunido em Bras\u00edlia, hoje (14/8), preparando o ato de LAN\u00c7AMENTO DA FRENTE PARLAMENTAR MISTA EM DEFESA DO SANEAMENTO P\u00daBLICO, a partir das 15h, na C\u00e2mara dos Deputados. O presidente do SintaemaSC participou virtualmente.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "12"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1691155262759948289"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1692037809000"
+            }
+        },
+        "content": "N\u00c3O \u00c0 PRIVATIZA\u00c7\u00c3O DO SANEAMENTO! Convocamos a todos e todas a participarem do lan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico. A atividade ocorrer\u00e1 AMANH\u00c3 (15), no Audit\u00f3rio Nereu Ramos, em Bras\u00edlia, a partir das 15h.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "38"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1690091480352747520"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1691784183000"
+            }
+        },
+        "content": "15 de agosto15 horasLan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablicoC\u00e2mara dos Deputados \u2013 Bras\u00edlia O ato contar\u00e1 com debate sobre a import\u00e2ncia dos servi\u00e7os p\u00fablicos de saneamento e energia el\u00e9trica.",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "175"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1690026630280810496"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1691768722000"
+            }
+        },
+        "content": "Urbanit\u00e1rios de todo pa\u00eds realizam paralisa\u00e7\u00e3o dia 15 de agosto contra a amea\u00e7a de privatiza\u00e7\u00e3o do saneamento.  No mesmo dia 15 de agosto ser\u00e1 lan\u00e7ada a Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, na C\u00e2mara dos Deputados, em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "54"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1689804371016511488"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1691715731000"
+            }
+        },
+        "content": "DIA 15 \u00c9 DIA DE LUTA CONTRA A PRIVATIZA\u00c7\u00c3O DE TODO O SANEAMENTO NO PA\u00cdS, COM PARALISA\u00c7\u00d5ES, ATOS, PANFLETAGEM E AVISO \u00c0 POPULA\u00c7\u00c3O No mesmo dia ser\u00e1 lan\u00e7ada a Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, na C\u00e2mara, em Bras\u00edliahttps://fnucut.org.br/41257/urbanitarios-de-todo-pais-realizam-paralisacao-dia-15-de-agosto-contra-a-ameaca-de-privatizacao-do-saneamento/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "33"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1689633575379800064"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1691675010000"
+            }
+        },
+        "content": "A Frente ser\u00e1 lan\u00e7ada oficialmente no dia 15 de agosto, \u00e0s 15 horas, no Audit\u00f3rio Nereu Ramos, na C\u00e2mara dos Deputados, em Bras\u00edlia, em ato que tamb\u00e9m contar\u00e1 com debate sobre os servi\u00e7os p\u00fablicos no saneamento p\u00fablico e energia el\u00e9trica.\n\nLeia mais: https://fnucut.org.br/41146/15-de-agosto-lancamento-da-frente-parlamentar-mista-em-defesa-do-saneamento/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "13"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1685401728844242944"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1690666060000"
+            }
+        },
+        "content": "Esse cara \u00e9 muito bom p/ falar do Rio de Janeiro e de Bras\u00edlia - saneamento b\u00e1sico, transporte p\u00fablico, E. Paes, S. Cabral, F. Pez\u00e3o, Lula, Bolsonaro etc.\nSe sair disso ele s\u00f3 fala merda.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "75"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1682784713411272705"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1690042114000"
+            }
+        },
+        "content": "Mas o problema todo do imposto \u00e9 que os arrombados de Bras\u00edlia diz que \u00e9 pra melhorar os servi\u00e7os do povo, trazer dignidade, melhorando as pol\u00edticas p\u00fablicas. Mas na verdade \u00e9 uma bosta. \nEduca\u00e7\u00e3o, sa\u00fade, transporte p\u00fablico, saneamento\u2026 \nE cada dia eles aumentam mais impostos.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "28"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1679973856113565696"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1689371954000"
+            }
+        },
+        "content": "Presidente do Sintaema faz resumo da agenda de a\u00e7\u00e3o do Sindicato, na \u00faltima ter\u00e7a (11) e quarta (12), em Bras\u00edlia, e destaca os importantes avan\u00e7os e a negocia\u00e7\u00e3o para o lan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico para a primeira quinzena de agosto.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "46"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1676736891452809216"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1688600201000"
+            }
+        },
+        "content": "N\u00c3O \u00c0 PRIVATIZA\u00c7\u00c3O DO SANEAMENTO! A dire\u00e7\u00e3o do Sintaema convoca a todos e todas a participarem do lan\u00e7amento da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico. A atividade ocorrer\u00e1 no dia 11 de julho, no Audit\u00f3rio Nereu Ramos, em Bras\u00edlia, a partir das 15h.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "22"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1669101086479732737"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1686779684000"
+            }
+        },
+        "content": "VIT\u00d3RIA CONTRA A PRIVATIZA\u00c7\u00c3O!\n\nA Frente em defesa do Saneamento P\u00fablico ser\u00e1 criada em Bras\u00edlia. Superando a marca de 200 assinaturas, com o apoio de parlamentares de diversas vertentes, conquistamos mais um apoio em defesa da \u00e1gua e do saneamento como servi\u00e7os p\u00fablicos.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "217"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1669019901544255495"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1686760328000"
+            }
+        },
+        "content": "Em reuni\u00e3o com dirigentes do  e da CTB, o deputado federal Andr\u00e9 Figueiredo (PDT-CE) confirmou seu apoio pela cria\u00e7\u00e3o da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, formada por deputados e senadores, em Bras\u00edlia. https://ctb.org.br/noticias/meio-ambiente/sintaema-e-ctb-em-defesa-do-saneamento-publico/\u2026",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "50"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1665758205828374529"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1685982679000"
+            }
+        },
+        "content": "Por isso insisto: Bras\u00edlia \u00e9 uma Noruega cercada de Congos, e s\u00f3 vive em Bras\u00edlia mesmo quem tem uma renda boa. O resto se lasca com p\u00e9ssimo transporte p\u00fablico e infraestrutura, p\u00e9ssimos servi\u00e7os b\u00e1sicos de sa\u00fade, energia e saneamento\u00c9 como se a cidade de RJ fosse s\u00f3 Ipanema",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "30"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1663976466239897620"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1685557879000"
+            }
+        },
+        "content": "A luta do Sintaema e da , junto com o conjunto dos urbanit\u00e1rios de todos o Brasil, segue firme em Bras\u00edlia pela cria\u00e7\u00e3o da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico, formada por deputados e senadores, em Bras\u00edlia.https://sintaemasp.org.br/noticias/frente-parlamentar-mista\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "95"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1658485105885851651"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1684248637000"
+            }
+        },
+        "content": "N\u00c3O \u00c0 PRIVATIZA\u00c7\u00c3O DO SANEAMENTO! A luta do Sintaema, com um conjunto dos urbanit\u00e1rios de todos o Brasil, segue firme em Bras\u00edlia pela cria\u00e7\u00e3o da Frente Parlamentar Mista em Defesa do Saneamento P\u00fablico.\n\nPressione o seu deputado(a) a assinar pela cria\u00e7\u00e3o da Frente!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "82"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1656603044321153025"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1683799918000"
+            }
+        },
+        "content": "Parab\u00e9ns. Mas vc sabe bem que a Bras\u00edlia ilha da fantasia que o Kim fala \u00e9 a parte em que tem idh altissimo fruto do funcionalismo p\u00fablico enquanto o restaurante em que a maioria dos servidores  de menor salario da c\u00e2mara comem n\u00e3o tem saneamento b\u00e1sico. \nNuma ilha da (...)",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "40"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1641153141381971973"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1680116374000"
+            }
+        },
+        "content": "#N\u00e3o\u00e0Privatiza\u00e7\u00e3o Os deputados federais Jandira Feghali (RJ), l\u00edder do partido na C\u00e2mara, e Daniel Almeida (BA) refor\u00e7aram, nesta quarta (29), em Bras\u00edlia, o compromisso do partido de auxiliar a luta da CTB contra a privatiza\u00e7\u00e3o do saneamento p\u00fablico. https://ctb.org.br/noticias/meio-ambiente/bancada-do-pcdob-reforca-compromisso-com-ctb/\u2026",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "118"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1623044841041960979"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1675799019000"
+            }
+        },
+        "content": "Embaixadora, Bras\u00edlia \u00e9 bonita.  Dizem que tem renda per capta maior que Noruega, acredita?Uma pena as  cidades sat\u00e9lites,  abandonadas pelo poder p\u00fablico brasileiro: sem educa\u00e7\u00e3o,  sa\u00fade, saneamento b\u00e1sico ou transporte .",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "574"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1617697812623552512"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1674524188000"
+            }
+        },
+        "content": "5 feitos? Vamos l\u00e1. Autonomia do BACEN, percursos do menos Bras\u00edlia mais Brasil, descentralizado o poder. 2. Lei da liberdade econ\u00f4mica facilitando para pessoas abrir empresas. 3. Novo marco do saneamento parceria p\u00fablico privada para levar saneamento b\u00e1sico a lugares remotos.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "18"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1612439415619735552"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1673270489000"
+            }
+        },
+        "content": "A\u00ed, os nossos suados milh\u00f5es, bilh\u00f5es que deveriam ser usados em prol do povo, na sa\u00fade, educa\u00e7\u00e3o, saneamento, etc.. Ser\u00e3o usados para reconstruir o patrim\u00f4nio p\u00fablico destru\u00eddo em Bras\u00edlia! \n\u201cDesordem e Regresso\u201d estamos no caminho certinho, SQN!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1574918214420779010"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1664324737000"
+            }
+        },
+        "content": "Em Bras\u00edlia, lutarei com unhas e dentes por mais recursos para a sa\u00fade e a educa\u00e7\u00e3o.\n\nBelford Roxo precisa urgente de mais investimentos em infraestrutura e saneamento p\u00fablico, e vou buscar isso em Bras\u00edlia.\n\nRenata Magalh\u00e3es, 5520",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1565819031394852870"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1662155323000"
+            }
+        },
+        "content": "Maior problema dos pobres em Bras\u00edlia \u00e9 a baixa densidade: \n\n-Servi\u00e7o p\u00fablicos + caros (saneamento, ilumina\u00e7\u00e3o...);\n-Inviabiliza o transp. p\u00fablico;\n-Moradias + caras expulsa os pobres p/ longe (comum morar 50km do trabalho).\n\nE muito \"progressista\" defendendo o status quo.",
+        "likes": {
+            "$numberInt": "66"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1534148631183384577"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1654604511000"
+            }
+        },
+        "content": "129 mortos, milhares de desabrigados, 70% da regi\u00e3o metropolitana alagada, caos, povo abandonado pelo poder p\u00fablico e ainda tem gente que apoia um canalha que foi at\u00e9 Bras\u00edlia e votou contra o Marco do Saneamento!\nGrande Recife chora de verdade!\nNossa situa\u00e7\u00e3o \u00e9 calamitosa!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1531246118373302274"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1653912498000"
+            }
+        },
+        "content": "Desastres s\u00e3o previs\u00edveis e reincidentes. Falta vontade do poder p\u00fablico de evit\u00e1-los. O Governador de Pernambuco, Paulo C\u00e2mara, pertence a um partido que votou contra o Marco do Saneamento. O Nordeste precisa se libertar da Tirania da Esquerda. Vai Recife! Acorda Nordeste!!",
+        "likes": {
+            "$numberInt": "174"
+        },
+        "retweets": {
+            "$numberInt": "94"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1520394905222193153"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1651325367000"
+            }
+        },
+        "content": "At\u00e9 que enfim algu\u00e9m diz de JK tudo que sempre achei. Um Oportunista que torrou dinheiro p\u00fablico na Constru\u00e7\u00e3o de Bras\u00edlia. Se ele  fosse um Estadista, teria empregado esse dinheiro para saneamento b\u00e1sico no Brasil,ferrovias. E, n\u00e3o se deve esquecer que  as Ferrovias",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1518165440308121601"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1650793821000"
+            }
+        },
+        "content": "Quem queimou igreja no Chile, quem quebrou igreja em Curitiba um vereador do PT, quem n\u00e3o aprovou o marco de saneamento esgoto no Brasil, quem quer aprovar aborto,, quem chegou em Bras\u00edlia e tirou s\u00edmbolo de Cristo nos \u00f3rg\u00e3os p\u00fablico,meu Deus,e tem cegos que n\u00e3o v\u00ea",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1489217809611689984"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1643892168000"
+            }
+        },
+        "content": "As chuvas de SP chegaram a Bras\u00edlia, quem mais sofre com a desordem da cidade \u00e9 a popula\u00e7\u00e3o perif\u00e9rica. Que depende de um transporte p\u00fablico ca\u00f3tico, que anda em vias cobertas de lama e residem em \u00e1reas sem a m\u00ednima estrutura de saneamento b\u00e1sico e com riscos de alagamento.",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1481444922448302082"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1642038968000"
+            }
+        },
+        "content": "O BRB que \u00e9 um banco do governo do Distrito Federal gasta 35 milh\u00f5es ano no Flamengo que nem de Bras\u00edlia \u00e9. \u00c9 um dinheiro p\u00fablico que poderia ser usado no saneamento do Gama, melhorar na sa\u00fade e na educa\u00e7\u00e3o, mas \u00e9 gasto pra ajudar a pagar Gabigol,Pedro. Se eu seguisse sua l\u00f3gica.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1463514471171768326"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1637764015000"
+            }
+        },
+        "content": "#STFSaneamentoN\u00e3o\u00c9MercadoCome\u00e7ou o esquenta da mobiliza\u00e7\u00e3o dos urbanit\u00e1rios em Bras\u00edlia, em defesa do saneamento p\u00fablico!!",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1463206305636704274"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1637690542000"
+            }
+        },
+        "content": "TRABALHADORES FAR\u00c3O ATO EM BRAS\u00cdLIA EM DEFESA DO SANEAMENTO P\u00daBLICONesta quarta, 24, o STF marcou o julgamento das ADIs \u2013 A\u00e7\u00e3o Direta de Inconstitucionalidade \u2013 que contestam a Lei 14.206, criada pelo Governo Bolsonaro e que abre o setor de saneamento \u00e0 iniciativa privada.",
+        "likes": {
+            "$numberInt": "13"
+        },
+        "retweets": {
+            "$numberInt": "7"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1437799008458747907"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1631632971000"
+            }
+        },
+        "content": "Melhorar transporte p\u00fablico, melhorar as regi\u00f5es administrativas para empresas se instalarem nelas e gerar empregos (descentralizando a regi\u00e3o central de Bras\u00edlia), sa\u00fade (saneamento b\u00e1sico, atendimento b\u00e1sico etc), educa\u00e7\u00e3o e seguran\u00e7a etc",
+        "likes": {
+            "$numberInt": "7"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1397217549515993090"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1621957597000"
+            }
+        },
+        "content": "#Caesb | A Companhia de Saneamento Ambiental do Distrito Federal (Caesb) vai realizar um processo seletivo p\u00fablico para a contrata\u00e7\u00e3o de estagi\u00e1rios para cadastro reserva. Saiba mais: https://bit.ly/3ukhOrR",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1376319891641360385"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1616975207000"
+            }
+        },
+        "content": "Voc\u00ea quer exemplo melhor do que Bras\u00edlia? \nQue custa aproximadamente 10 % do PIB pra manter todo o funcionalismo p\u00fablico? \nCom aproximadamente 100 milh\u00f5es de pessoas sem saneamento b\u00e1sico? \n\n\u00c9 rid\u00edculo,cara. S\u00f3 a Fran\u00e7a \u00e9 o estado de S\u00e3o Paulo. N\u00e3o tem como comparar.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1366973935770873858"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1614746958000"
+            }
+        },
+        "content": "Maior arrependimento foi ter sa\u00eddo de Bras\u00edlia e ter vindo morar em Teresina , sair de uma cidade totalmente estruturada pra vir pra uma cidade q parece que nem governador tem ... Meu Deus !! Quanto descaso .  \nFalta energia , falta transporte p\u00fablico , \u00e1gua , saneamento",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1314206816302063617"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1602166296000"
+            }
+        },
+        "content": "\u00c9 HOJE!!Webinar da Assemae debater\u00e1 as Parcerias P\u00fablico-P\u00fablicas para a gest\u00e3o do saneamento. \n\nNesta quinta-feira, 08/10, a partir das 15h (hora de Bras\u00edlia).\n\nAcompanhe aqui: https://youtube.com/watch?v=HNkB5JKrDGE&feature=youtu.be\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1310217620994633734"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1601215198000"
+            }
+        },
+        "content": "Cara, o Brasil precisa de um marco de transporte p\u00fablico igual fizeram com o saneamento b\u00e1sico.\n\nS\u00f3 assim pra acabar com os monop\u00f3lios. Em Bras\u00edlia primeiro e depois no resto do pa\u00eds.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1308574768384421888"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1600823511000"
+            }
+        },
+        "content": "O dinheiro vai para as \u00e1reas priorit\u00e1rias. Mas a gente pode dizer que, sempre que aumenta o gasto com seguran\u00e7a, sobra menos dinheiro para saneamento, transporte p\u00fablico, infraestrutura urbana, lazer, se preferir.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1296403005961637888"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1597921537000"
+            }
+        },
+        "content": "Tanta coisa para fazer em Bras\u00edlia e  esses distritais est\u00e3o procurando retroceder na hist\u00f3ria. V\u00e1 trabalhar bando de parasitas. Pensem na sa\u00fade, na educa\u00e7\u00e3o, no transporte p\u00fablico, saneamento, e n\u00e3o em censura que \u00e9 proibido por nossa Constitui\u00e7\u00e3o.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1252608106246307842"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1587480019000"
+            }
+        },
+        "content": "Ainda acho que JK errou! Ainda acho que o  maior desperd\u00edcio de dinheiro p\u00fablico foi JK ter inventado Bras\u00edlia. Se tivesse aplicado o dinheiro em saneamento b\u00e1sico, ferrovias, hoje o Brasil estaria em outro patamar. S\u00f3 fui em Bras\u00edlia uma vez: posse de meu Anjo da Guarda no MPF. https://t.co/4F3aRCeMIC",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1252608088751964161"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1587480015000"
+            }
+        },
+        "content": "Ainda acho que JK errou! Ainda acho que o  maior desperd\u00edcio de dinheiro p\u00fablico foi JK ter inventado Bras\u00edlia. Se tivesse aplicado o dinheiro em saneamento b\u00e1sico, ferrovias, hoje o Brasil estaria em outro patamar. S\u00f3 fui em Bras\u00edlia uma vez: posse de meu Anjo da Guarda no MPF.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1235247957739548672"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1583341037000"
+            }
+        },
+        "content": "#ConcursoP\u00fablicoDF | Foi publicado no #DODF  desta quarta-feira (4/3) o edital do concurso p\u00fablico da Ag\u00eancia Reguladora de \u00c1guas, Energia e Saneamento B\u00e1sico do Distrito Federal (Adasa). Acesse e confira: http://bit.ly/2POhOil",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1233457181632192517"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1582914083000"
+            }
+        },
+        "content": "Mas esse \u00e9 o espelho do povo brasileiro at\u00e9 hoje, antigamente somente os negros e hoje tamb\u00e9m os brancos de olhos azuis , todos moram em favelas sem saneamento, seguran\u00e7a e sa\u00fade e os seus donos est\u00e3o no \u201cfuncion\u00e1rio p\u00fablico\u201d e nos pol\u00edticos de Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1203761547505553408"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1575834092000"
+            }
+        },
+        "content": "Vou desenhar!!!!\n$$$$$ publico \u00e9 para sa\u00fade, educa\u00e7\u00e3o, saneamento b\u00e1sico e infraestrutura!\nQuer se candidatar? Abre a tua carteira!\nO BRASIL de verdade, fora da bolha de Bras\u00edlia, \u00e9 um retrato da miseria! Legislam em causa pr\u00f3pria e se apropriam do que \u00e9 nosso direito b\u00e1sico.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1189303369447493633"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1572386994000"
+            }
+        },
+        "content": "Tem \u00e9 que diminuir as mamatas do funcionalismo p\u00fablico isso sim! O povo tem de cobrar o fim de tanta farra com dinheiro p\u00fablico j\u00e1 que o retorno a popula\u00e7\u00e3o \u00e9 prec\u00e1rio sem saneamento/seguran\u00e7a p\u00fablica/sem sa\u00fade p\u00fablica e cada vez mais impostos! MAIS BRASIL E MENOS BRAS\u00cdLIA!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1189286478272176129"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1572382966000"
+            }
+        },
+        "content": "Representantes de sindicatos dos urbanit\u00e1rios de todo o pa\u00eds e da FNU est\u00e3o em Bras\u00edlia na defesa do saneamento p\u00fablico e de qualidade para todos os brasileiros.\nPRIVATIZAR O SANEAMENTO \u00c9 EXCLUIR OS MENOS FAVORECIDOS DO ACESSO AOS SERVI\u00c7OS.#PrivatizarN\u00c3O \n #FNU",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1186669188682784774"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1571758956000"
+            }
+        },
+        "content": "Encontro excelente com governador do Piau\u00ed , Sr. Wellington Dias. Falamos sobre turismo, infraestrutura , parcerias p\u00fablico-privadas, coopera\u00e7\u00e3o nas \u00e1reas de abastecimento e de saneamento de \u00e1gua.",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "3"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1184157298958258176"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1571160075000"
+            }
+        },
+        "content": "FNU  e as entidades presentes neste 15/10, em Bras\u00edlia,  no \u201cSemin\u00e1rio Nacional sobre o PL 3.261/2019. Todas as falas dos trabalhadores em defesa do saneamento p\u00fablico e contra entrega da \u00e1gua ao capital privado. #N\u00e3o\u00e0privatiza\u00e7\u00e3oda\u00c1gua #AguaNaoEmercadoria #FNU",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "7"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1174675852761718786"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1568899522000"
+            }
+        },
+        "content": "Caixa est\u00e1 parcialmente sob o comando de uma quadrilha desde os anos petistas, todos em Bras\u00edlia sabem bem disso.\nA fraude nas LOTERIAS DA CAIXA continua a pleno vapor.\nO saneamento completo do setor p\u00fablico levar\u00e1 anos.",
+        "likes": {
+            "$numberInt": "81"
+        },
+        "retweets": {
+            "$numberInt": "12"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1158435855804952576"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1565027605000"
+            }
+        },
+        "content": "Segunda azul em defesa do saneamento p\u00fablico e para todos#caesbp\u00fablica#AguaN\u00e3o\u00e9Mercadoria#aguaparatodos#caesb50anos#tratandocomamor em Caesb - Cia \u00c1gua e Esgoto Bras\u00edlia https://instagram.com/p/B0ypfrAjx7w/?igshid=14av11a3uvfw1\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1133412081515028481"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1559061472000"
+            }
+        },
+        "content": "Mobiliza\u00e7\u00e3o do Sind\u00e1gua/DF nos gabinetes dos parlamentares potiguares em busca de apoio contra a MP 868 da Sede e da Conta Alta no Congresso Nacional em Bras\u00edlia/RN. O presidente do Sindicato, Ricardo Andr\u00e9, na frente em defesa do saneamento p\u00fablico.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1133393571057479681"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1559057059000"
+            }
+        },
+        "content": "Participa\u00e7\u00e3o do presidente do Sind\u00e1gua/RN, Ricardo Andr\u00e9, na reuni\u00e3o da frente em defesa do saneamento p\u00fablico no Congresso Nacional em Bras\u00edlia/DF. #MP868N\u00c3O",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1034255409299828736"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1535420679000"
+            }
+        },
+        "content": "A corrup\u00e7\u00e3o que est\u00e1 em Bras\u00edlia, se combate com cadeia. As mazelas do roubo p\u00fablico, se combatem com educa\u00e7\u00e3o, saneamento, emprego e sa\u00fade. E os criminosos comuns, que s\u00e3o frutos de anos de uma pol\u00edtica de desvios p\u00fablicos, devem receber o que merecem, bala ou cana.",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1014612893160132609"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1530737538000"
+            }
+        },
+        "content": "Hoje a ONG que criaram em nome desse Herzog vive de mamar $ p\u00fablico, recentemente recebeu mais de R$ 100 mil para falar sobre as mulheres em Bras\u00edlia, gente n\u00e3o tem saneamento b\u00e1sico mas essas ONGs conseguem viver de mamar o nosso $ de imposto.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "976910453975732224"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1521748577000"
+            }
+        },
+        "content": "F\u00f3rum Alternativo Mundial da \u00c1gua, realizado em Bras\u00edlia, discute a \u00e1gua como direito p\u00fablico. \u201cOs privados pressionam para que os servi\u00e7os p\u00fablicos se degradem, querem menos investimento p\u00fablico na \u00e1gua e saneamento\u201d, afirma Pedro Soares, deputado do Bloco.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "935942678465990657"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1511981098000"
+            }
+        },
+        "content": "Entre os temas discutidos durante o semin\u00e1rio \u201cGovernan\u00e7a e Parcerias: Oportunidades para o saneamento\u201d, que acontece em Bras\u00edlia, est\u00e1 a medida provis\u00f3ria que pretende alterar a Lei n\u00ba 11.445/2007 e poder\u00e1 desestruturar o saneamento p\u00fablico brasileiro.https://facebook.com/compesa/photos/a.342058492553817.80308.340135282746138/1549761728450148/?type=3&theater\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "806455984583491584"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1481109064000"
+            }
+        },
+        "content": "Unidades de ensino p\u00fablico do DF disputam pr\u00eamio para projetos de saneamento b\u00e1sico nesta quinta (8). Saiba mais: http://bit.ly/2h5HvL4",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "796102675725164548"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1478640643000"
+            }
+        },
+        "content": "Conselho Diretor da Assemae est\u00e1 reunido em Bras\u00edlia nos dias 08 e 09/11 para debater estrat\u00e9gias de apoio ao saneamento p\u00fablico municipal.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "697488164173303809"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1455129111000"
+            }
+        },
+        "content": "melhor forma preven\u00e7\u00e3o \u00e9 investir saneamento b\u00e1sico e acabar farra com $ publico em Bras\u00edlia. kd turma do amanh\u00e3 vai ser maior ?",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "596050561885016064"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1430944502000"
+            }
+        },
+        "content": "A Companhia de Saneamento de Bras\u00edlia (Caesb) assinou acordo com o Minist\u00e9rio P\u00fablico do Trabalho no Distrito... http://fb.me/29aLPEZmY",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "535520730838863872"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1416513066000"
+            }
+        },
+        "content": "#RadioNacional Companhia de Saneamento de Bras\u00edlia lan\u00e7a nova forma de atendimento ao p\u00fablico http://dlvr.it/7Zvys8 #EBC",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "535518078633652224"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1416512434000"
+            }
+        },
+        "content": "#EBCradio Companhia de Saneamento de Bras\u00edlia lan\u00e7a nova forma de atendimento ao p\u00fablico http://dlvr.it/7Zvqmn",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "535508162531454976"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1416510069000"
+            }
+        },
+        "content": "Companhia de Saneamento de Bras\u00edlia lan\u00e7a nova forma de atendimento ao p\u00fablico http://radioagencianacional.ebc.com.br/geral/audio/2014-11/companhia-de-saneamento-de-brasilia-lanca-nova-forma-de-atendimento-ao-publico#.VG46S7jVgx0.twitter\u2026 via",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "387327481314697216"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1381181042000"
+            }
+        },
+        "content": "Pov\u00e3o protestando em Bras\u00edlia, Bel\u00e9m e SP, por transporte p\u00fablico, saneamento e moradia, respectivamente. Genial este novo h\u00e1bito brasileiro",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "53869714518183936"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1301678515000"
+            }
+        },
+        "content": "#cursos O concurso p\u00fablico da Sanesul (Empresa de Saneamento de Mato Grosso do Sul) realizado no ano ... http://migre.me/4a82n #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "51298592652132352"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1301065512000"
+            }
+        },
+        "content": "#cursos Termina hoje o prazo para os convocados do concurso p\u00fablico da Companhia de Saneamento da Cap... http://migre.me/479l4 #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "27862067960614912"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1295477809000"
+            }
+        },
+        "content": "#cursos O concurso p\u00fablico da Sanesul (Empresa de Saneamento de Mato Grosso do Sul), realizado no ano... http://migre.me/3HT8C #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "27093783691"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1286848195000"
+            }
+        },
+        "content": "#cursos A CASAL- Companhia de Saneamento de Alagoas abriu as inscri\u00e7\u00f5es para Concurso P\u00fablico, as inscri... http://migre.me/1xYI7 #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "25159923956"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1285110340000"
+            }
+        },
+        "content": "#cursos As inscri\u00e7\u00f5es para o concurso p\u00fablico da Companhia de Saneamento de Alagoas (Casal) foram inicia... http://migre.me/1mUYw #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "24708918319"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1284681252000"
+            }
+        },
+        "content": "#cursos As propostas sobre saneamento p\u00fablico e profissionaliza\u00e7\u00e3o da gest\u00e3o da Companhia de \u00c1guas e Esg... http://migre.me/1k05T #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "16887585067"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1277338060000"
+            }
+        },
+        "content": "#cursos Os jovens que participaram do concurso p\u00fablico para est\u00e1gio na Sabesp (Companhia de Saneamento B\u00e1... http://bit.ly/9hCdsd #brasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "saneamento",
+        "sentimento": "positivo"
+    }
+]

@@ -1,0 +1,2400 @@
+[
+    {
+        "tweet_id": {
+            "$numberLong": "1915830198433435897"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745604488000"
+            }
+        },
+        "content": "A Terracap abriu licita\u00e7\u00e3o p\u00fablica, nesta quinta-feira, 24 de abril, para contrata\u00e7\u00e3o de obras de infraestrutura na Quadra 12 Conjuntos CL, Setor Sul Gama.\n\n\u25ba Acompanhe esta e mais not\u00edcias do dia pelo nosso site:https://brasiliaagora.com.br/governo-do-df-abre-licitacao-para-obras-de-infraestrutura-e-drenagem-no-gama/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1914460772802928665"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745277991000"
+            }
+        },
+        "content": "Bras\u00edlia (DF) destaca-se como centro m\u00e1ximo de gest\u00e3o p\u00fablica, centralizando a maior parte da estrutura administrativa federal. Em seguida, surgem Rio de Janeiro (RJ), S\u00e3o Paulo (SP) e Recife (PE), munic\u00edpios com hist\u00f3rico de capitalidade e robusta infraestrutura institucional.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "184"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1887570035289342367"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1738866740000"
+            }
+        },
+        "content": "Que ideia incr\u00edvel, um pa\u00eds com 27 estados independentes, e Bras\u00edlia de quebra , n\u00e3o seria mais f\u00e1cil termos um projeto forte e constante de Brasil? N\u00e3o importa quem seja o gov, algumas matrizes devem ser seguidas, infraestrutura, educa\u00e7\u00e3o, sa\u00fade, seguran\u00e7a p\u00fablica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "27"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1874908531809517799"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1735848002000"
+            }
+        },
+        "content": "Na verdade, v\u00e1rias cidades foram criadas para acabar com invas\u00f5es em Bras\u00edlia. Mas ai \u00e9 um outro conceito...n\u00e3o s\u00e3o condom\u00ednios sem infraestrutura p\u00fablica e privada.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "202"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1861749800183484903"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1732710716000"
+            }
+        },
+        "content": "#RedeGealc |  discute futuro da Infraestrutura P\u00fablica Digital em reuni\u00e3o de Governo Digital das Am\u00e9ricas #IFDEncontro em Bras\u00edlia re\u00fane ministros e secret\u00e1rios de Governo Digital de 25 pa\u00edses da Am\u00e9rica Latina e Caribe.  \n\nSaiba mais",
+        "likes": {
+            "$numberInt": "6"
+        },
+        "retweets": {
+            "$numberInt": "3"
+        },
+        "analytics": {
+            "$numberInt": "1000"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1855695577087946784"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1731267277000"
+            }
+        },
+        "content": "Infraestrutura prec\u00e1ria das cidades , demora nos atendimentos na \u00e1rea de sa\u00fade, impostos para os que ganham menos, ensino m\u00e9dio p\u00fablico fraco, supersal\u00e1rios em Bras\u00edlia, 500 minist\u00e9rios no governo, desvio de verbas p\u00fablica, mal uso de verbas p\u00fablica\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "140"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1915830198433435897"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1745604488000"
+            }
+        },
+        "content": "A Terracap abriu licita\u00e7\u00e3o p\u00fablica, nesta quinta-feira, 24 de abril, para contrata\u00e7\u00e3o de obras de infraestrutura na Quadra 12 Conjuntos CL, Setor Sul Gama.\n\n\u25ba Acompanhe esta e mais not\u00edcias do dia pelo nosso site:https://brasiliaagora.com.br/governo-do-df-abre-licitacao-para-obras-de-infraestrutura-e-drenagem-no-gama/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "7"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1825544260969484419"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1724078643000"
+            }
+        },
+        "content": "N\u00e3o perca nesta ter\u00e7a, a partir das 11:30 (de Bras\u00edlia), o workshop \u2018Impulsionando o Crescimento Econ\u00f4mico Inclusivo com Infraestrutura P\u00fablica Digital e Sistemas de Identidade Digital\u2019 e saiba como esses sistemas podem promover a inclus\u00e3o financeira, melhorar a presta\u00e7\u00e3o de",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "81"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1822687962309566604"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1723397648000"
+            }
+        },
+        "content": "Na medida em q maior parte da d\u00edvida p\u00fablica foi contra\u00edda para desenvolver a infraestrutura apenas do Sudeste como CSN, Ponte Rio-niteroi, Itaipu, portos, aeroportos Constru\u00e7\u00e3o de Bras\u00edlia etc o Norte e nordeste  ainda servem como m\u00e3o de obra barata e mercado consumidor cativo.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "42"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1810798896857190459"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1720563074000"
+            }
+        },
+        "content": "TCU APROVA DESCONTO BILION\u00c1RIO PARA OI\nAntecipado pela piau\u00ed, acordo reduz em at\u00e9 17 bilh\u00f5es de reais o valor que a operadora deveria investir em infraestrutura p\u00fablica. Breno Pires, de Bras\u00edlia|02 jul 2024_18h43",
+        "likes": {
+            "$numberInt": "48"
+        },
+        "retweets": {
+            "$numberInt": "13"
+        },
+        "analytics": {
+            "$numberInt": "1200"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1807837273653641560"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1719856968000"
+            }
+        },
+        "content": "A Comiss\u00e3o de Infraestrutura do Senado promover\u00e1 uma audi\u00eancia p\u00fablica para discutir a implanta\u00e7\u00e3o de um sistema de BRT que ligar\u00e1 Luzi\u00e2nia, Bras\u00edlia e o contorno de Goi\u00e2nia. O investimento previsto \u00e9 de R$ 28,3 bilh\u00f5es at\u00e9 2026. Saiba mais: \u2026 https://bit.ly/3VPEUqd",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "73"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1786361388127973673"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1714736718000"
+            }
+        },
+        "content": "VLT entre Bras\u00edlia e Luzi\u00e2nia (GO)?\n\nSim, o projeto ser\u00e1 tema de uma audi\u00eancia p\u00fablica no Senado na Comiss\u00e3o de Infraestrutura. O encontro est\u00e1 marcado para o dia 09/05 (quinta-feira) \u00e0s 9h30. A ideia \u00e9 discutir os recursos do PAC destinados ao Entorno.\nA iniciativa \u00e9 do senador",
+        "likes": {
+            "$numberInt": "511"
+        },
+        "retweets": {
+            "$numberInt": "64"
+        },
+        "analytics": {
+            "$numberInt": "61000"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1780660081966666115"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713377421000"
+            }
+        },
+        "content": "VI Encontro da Infraestrutura e da Log\u00edstica do Estado do Rio de Janeiro com seus Parlamentares | Participei deste importante evento, na noite de ter\u00e7a (16), em Bras\u00edlia, onde debatemos seguran\u00e7a p\u00fablica e roubo de cargas, um dos grandes males da regi\u00e3o metropolitana.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "47"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1779955963631394984"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1713209546000"
+            }
+        },
+        "content": "Metro de BH inexiste, assim como em Fortaleza, Brasilia, Salvador ou qualquer cidade do mesmo porte. O problema \u00e9 nacional e n\u00e3o mineiro. Pol\u00edtica p\u00fablica de infraestrutura, duradoura, ampla, com concess\u00f5es longas.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "38"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1770806740180775130"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1711028201000"
+            }
+        },
+        "content": "Recentemente, o vereador marabaense Ilker Moraes (Avante) participou, em Bras\u00edlia, de uma audi\u00eancia p\u00fablica realizada pela Comiss\u00e3o de Infraestrutura para debater o projeto de lei (PL) 2.973/2023, que trata da libera\u00e7\u00e3o da minera\u00e7\u00e3o em \u00e1reas reservadas \u00e0 pesquisa mineral. A",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "81"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1770160025492967474"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1710874012000"
+            }
+        },
+        "content": "Recentemente, o vereador Ilker Moraes (Podemos) participou, em Bras\u00edlia, de uma audi\u00eancia p\u00fablica realizada pela Comiss\u00e3o de Infraestrutura para debater o projeto de lei (PL) 2.973/2023, que trata da libera\u00e7\u00e3o da minera\u00e7\u00e3o em \u00e1reas reservadas \u00e0 pesquisa mineral. A proposi\u00e7\u00e3o foi",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "105"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1751155552028106924"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1706342993000"
+            }
+        },
+        "content": "Por que Aracati n\u00e3o faz o mesmo? Como se explica a cidade com 75 mil hab. 16a maior do Cear\u00e1 e com o 14\u00b0 PIB N\u00c3O TER UMA INFRAESTRUTURA DE SA\u00daDE P\u00daBLICA COMPAT\u00cdVEL COM UMA CIDADE QUE \u00c9 POLO NO LITORAL LESTE? Lament\u00e1vel! Todos os anos produz [...]",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "54"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1736845806370431113"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1702931283000"
+            }
+        },
+        "content": "Voc\u00ea pode pegar um bom projeto vi\u00e1rio e com variedade de usos e aprimorar sua seguran\u00e7a p\u00fablica e qualidade da infraestrutura pra torn\u00e1-lo ainda mais caminh\u00e1vel, j\u00e1 fazer isso num sub\u00farbio de baixa densidade dificilmente o salvar\u00e1 de ser dependente do carro.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "38"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1736845088205029605"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1702931112000"
+            }
+        },
+        "content": "Ele se baseia mais em projeto urbano, como cruzamentos, possibilidades de trajeto e variedade de servi\u00e7os e com\u00e9rcio. N\u00e3o entra em pol\u00edticas urbanas como manuten\u00e7\u00e3o de infraestrutura ou seguran\u00e7a p\u00fablica, at\u00e9 pq esses itens tem mais \u201csalva\u00e7\u00e3o\u201d do que um mau projeto de urbanismo.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "29"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1677378099808436227"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1688753077000"
+            }
+        },
+        "content": "A Comiss\u00e3o de Infraestrutura do  discutiu o #PDL365 em audi\u00eancia p\u00fablica realizada esta semana, em Bras\u00edlia. O presidente da #Frente, Luiz Eduardo Barata Ferreira, representou a entidade no debate.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "21"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1675669573943566338"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1688345733000"
+            }
+        },
+        "content": "SC \u00e9 o 2\u00ba estado com maior crescimento populacional no Brasil\n\nTop2 Qualidade de Vida.Top3  IDH.Menor Taxa de Desemprego.Top2 Infraestrutura.Melhor efici\u00eancia da M\u00e1q. P\u00fablica.Melhor Seg. P\u00fablica. Ainda cada 100 reais enviados a Bras\u00edlia, s\u00f3 13 retornam\n\nAqui o PT NUNCA governou",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "30"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1661538695583866883"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1684976669000"
+            }
+        },
+        "content": "As medidas previstas no arcabou\u00e7o fiscal tamb\u00e9m direcionam como devem ser feitos os gastos com as pol\u00edticas p\u00fablicas nas \u00e1reas de sa\u00fade, educa\u00e7\u00e3o, infraestrutura, seguran\u00e7a p\u00fablica e etc.\n\nSigo representando o povo do Par\u00e1 aqui em Bras\u00edlia, contem comigo!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "50"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1656015901357924353"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1683659932000"
+            }
+        },
+        "content": "Ela lembrou que o pa\u00eds registrou uma infla\u00e7\u00e3o de 10% em 2021; e de 5,8% em 2022. \u201cA estimativa oficial \u00e9 de 5,3% este ano; de 3,5% em 2024 e 3% ao ano a partir de 2025\u201d, acrescentou na audi\u00eancia p\u00fablica conjunta das comiss\u00f5es de Infraestrutura e de Desenvolvimento Regional.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "6"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1636731862595903492"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1679062259000"
+            }
+        },
+        "content": "Espero que o gov Lula volte da China com um acordo para constru\u00e7\u00e3o de 2 linha de Trem Bala, Rio-SP e SP - Bras\u00edlia, pode se quiser fazer uma parceria p\u00fablica privada, o governo entra com a infraestrutura e empresas de transporte com os vag\u00f5es.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "60"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1635232552024969221"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1678704796000"
+            }
+        },
+        "content": "Se eu fosse presidente (ou prefeita ou governadora) seria obcecada por 3 coisas: saneamento, infraestrutura (junto e depois) e a fila de exames/cirurgias. O resto da adm p\u00fablica meio que anda sozinho, \u00e9 s\u00f3 a administra\u00e7\u00e3o n\u00e3o atrapalhar, incluindo n\u00e3o deixar roubar.",
+        "likes": {
+            "$numberInt": "14"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "562"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1618486912851013632"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1674712324000"
+            }
+        },
+        "content": "Transferir para Rond\u00f4nia foi a coisa mais arriscada. Estado com baixa infraestrutura de seguran\u00e7a p\u00fablica e na divisa com outro pa\u00eds. Um risco gigantesco! N\u00e3o tem lugar melhor que Bras\u00edlia, central do COT da PF, for\u00e7as especiais do ex\u00e9rcito e outras. Parem de ser burros.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "51"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1612232647299792900"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1673221191000"
+            }
+        },
+        "content": "Fundamental que  mobilize for\u00e7a policial para vigil\u00e2ncia em pontos de infraestrutura, transporte e administra\u00e7\u00e3o p\u00fablica na Capital e por todo o Estado do Rio de Janeiro! O terrorismo e vandalismo dos golpistas podem chegar para al\u00e9m de Bras\u00edlia. N\u00e3o permitiremos!",
+        "likes": {
+            "$numberInt": "70"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "1800"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1603392969935130626"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1671113648000"
+            }
+        },
+        "content": "#Participa\u00e7\u00e3oSocial - Realizaremos hoje (15/12), \u00e0s 14h, a segunda sess\u00e3o p\u00fablica da AP n\u00ba 13/2022, que acontecer\u00e1 em Bras\u00edlia (DF).  +#Audi\u00eanciaP\u00fablica #Infraestrutura #Concess\u00e3o #ANTT",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1600222222907363328"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1670357683000"
+            }
+        },
+        "content": "#Participa\u00e7\u00e3oSocial - Nos dias 13 e 15/12, realizaremos a Audi\u00eancia P\u00fablica (AP) n\u00b0 13/2022, nas cidades de S\u00e3o Paulo/SP (presencial) e Bras\u00edlia/DF (presencial e virtual), respectivamente.+#Participa\u00e7\u00e3oSocial #Audi\u00eanciaP\u00fablica #Rodovias #Infraestrutura #Desenvolvimento #ANTT",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1593037797987794946"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1668644782000"
+            }
+        },
+        "content": "#Transi\u00e7\u00e3oDeGovernoNesta quarta-feira, 16, come\u00e7aram as reuni\u00f5es das \u00e1reas de infraestrutura e mobilidade no CICB. Os trabalhos das \u00e1reas de sa\u00fade, educa\u00e7\u00e3o, seguran\u00e7a p\u00fablica e desenvolvimento social continuam esta semana. \n\n1/5",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1590808491781931008"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1668113274000"
+            }
+        },
+        "content": "Nesta quinta-feira (10), em Bras\u00edlia, acompanhado do prefeito \u00c1lvaro Dias e dos meus colegas secret\u00e1rios, participei de audi\u00eancia com o deputado federal General Gir\u00e3o.\n\nNa pauta: melhorias para a infraestrutura p\u00fablica da cidade. Nas quatro regi\u00f5es.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1590786583699292160"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1668108051000"
+            }
+        },
+        "content": "Acompanhe pelo canal do BC no YouTube.\n \nO Caf\u00e9 com PLS \u00e9 uma parceria entre Banco Central, Escola Nacional de Administra\u00e7\u00e3o P\u00fablica (ENAP), Minist\u00e9rio P\u00fablico Federal (MPF), Departamento Nacional de Infraestrutura de Transportes (DNIT), Universidade de Bras\u00edlia (UnB) +",
+        "likes": {
+            "$numberInt": "6"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1589675467552223232"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1667843140000"
+            }
+        },
+        "content": "Solicitei, aos Deputados  e , que intercedam, junto ao Minist\u00e9rio da Infraestrutura, DNIT e ANTT, a suspens\u00e3o da audi\u00eancia p\u00fablica marcada para sexta-feira (11/11), em Bras\u00edlia, que visa discutir o projeto de concess\u00e3o de rodovias federais no RS.\n\n+",
+        "likes": {
+            "$numberInt": "12"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1586008152331677697"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1666968784000"
+            }
+        },
+        "content": "\u2192  Gest\u00e3o e assist\u00eancia p\u00fablica \u00e0 sa\u00fade\n\u2192  Atividade de defesa do consumidor\n\u2192  Planejamento urbano e infraestrutura\u2192  Atividades agropecu\u00e1rias.\n\nCertames com previs\u00e3o para 2023\n\u2192  PM, oficiais do quadro de sa\u00fade\n\u2192  PM, soldado\n\u2192  Delegado de Pol\u00edcia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1583947567947468800"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1666477503000"
+            }
+        },
+        "content": "#DF2 Bras\u00edlia est\u00e1 abandonada, a quatro anos vemos o reflexo disso em todos os setores como a seguran\u00e7a p\u00fablica, sa\u00fade, infraestrutura, mobilidade urbana dentre outros setores. N\u00e3o seria diferente com os parquinhos infantis j\u00e1 o governador irrespons\u00e1vel e omisso para com o povo.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1575466921260158976"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1664455559000"
+            }
+        },
+        "content": "Brevemente pretendo dar um retorno a comunidade, com projetos que ajudem a fortalacer a cultura, educa\u00e7\u00e3o, infraestrutura, sa\u00fade, entre outros. \nAtualmente sou estudante de Gest\u00e3o P\u00fablica no Instituto Federal de Bras\u00edlia e artes\u00e3 nas horas vagas.\n+",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1570199682231549957"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1663199751000"
+            }
+        },
+        "content": "Conversei com os moradores sobre meus projetos para o desenvolvimento local. Chegando em Bras\u00edlia, lutarei por recursos para melhorar a qualidade de vida da popula\u00e7\u00e3o, al\u00e9m da melhora na infraestrutura p\u00fablica do local, que muito me foi citada pelos moradores.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1533798909629370369"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1654521131000"
+            }
+        },
+        "content": "MAIS MINIST\u00c9RIOS\nO presidente Jair Bolsonaro indicou hoje que, se for eleito, pode recriar os minist\u00e9rios da Seguran\u00e7a P\u00fablica, Infraestrutura e Com\u00e9rcio e Pesca. Ele descartou fazer isso antes da elei\u00e7\u00e3o.\n https://otempo.com.br/politica/governo/bolsonaro-fala-em-criar-mais-tres-ministerios-se-for-reeleito-1.2679503\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1533201144511594496"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1654378613000"
+            }
+        },
+        "content": "Muito tenho trabalhado aqui, dentro das possibilidades. Mas ao lado da Lucyana, e ela l\u00e1 em Bras\u00edlia, teremos mais um refor\u00e7o. Tratamos de sa\u00fade p\u00fablica, educa\u00e7\u00e3o superior, infraestrutura, desenvolvimento e muitos outros assuntos.",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1501333779813748736"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1646780841000"
+            }
+        },
+        "content": "BR-163 no Par\u00e1. Brasileiros sem acesso a infraestrutura digna.\nMuitos da casca p\u00fablica federal em Bras\u00edlia tratam a Amaz\u00f4nia com descaso sob o manto de preserva\u00e7\u00e3o ambiental\nN\u00e3o se importam com as pessoas, como essa mulher no v\u00eddeo, carregando seu filho e seus pertences#brasil",
+        "likes": {
+            "$numberInt": "67"
+        },
+        "retweets": {
+            "$numberInt": "17"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1488965839789428736"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1643832094000"
+            }
+        },
+        "content": "Licita\u00e7\u00e3o para obras de infraestrutura no Noroeste\n\nO Setor Habitacional Noroeste receber\u00e1 refor\u00e7o na infraestrutura. A Terracap publicou licita\u00e7\u00e3o p\u00fablica para a contrata\u00e7\u00e3o de obras de drenagem, pavimenta\u00e7\u00e3o, sinaliza\u00e7\u00e3o e meios-fios.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1458153656914694149"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1636485897000"
+            }
+        },
+        "content": "Em audi\u00eancia p\u00fablica das Comiss\u00f5es de Infraestrutura para discutir as causas da crise energ\u00e9tica do Senado ele justificou a alta de pre\u00e7os dos combust\u00edveis. \"Principalmente pela alta do petr\u00f3leo, 60%, e com a chegada do inverno no hemisf\u00e9rio norte, de subir mais\", diz Albuquerque",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1432735593017004037"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1630425758000"
+            }
+        },
+        "content": "E, decorrido esse tempo, a infraestrutura ficaria pra ser explorado por uma empresa p\u00fablica do df. Ainda tem o BID pra conceder empr\u00e9stimos de longo prazo. Tudo vi\u00e1vel, basta um pouco de criatividade. O problema \u00e9 que governam pra Bras\u00edlia, n\u00e3o pra o Df",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427956387208962053"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629286307000"
+            }
+        },
+        "content": "Em Bras\u00edlia, Orvino procura recursos para Beira-mar de Barreiros.\nPrefeito  e o vice-prefeito  foram a Bras\u00edlia para participar de audi\u00eancia p\u00fablica no Minist\u00e9rio da Infraestrutura junto ao senador .\n\n https://correiosc.com.br/em-brasilia-orvino-procura-recursos-para-beira-mar-de-barreiros/\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427945452553613314"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629283700000"
+            }
+        },
+        "content": "Carlos Mois\u00e9s vai \u00e0 Bras\u00edlia, garante acordo com ministro e vence batalha.\n\nGovernador Carlos Mois\u00e9s participou da audi\u00eancia p\u00fablica na Comiss\u00e3o de Infraestrutura do Senado Federal.\n\nConfira a opini\u00e3o no Blog #RondaPol\u00edtica https://bit.ly/3xWzoE9",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427745206762418178"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629235958000"
+            }
+        },
+        "content": "Prefeito Orvino e o vice-prefeito Michel est\u00e3o em Bras\u00edlia para participar de audi\u00eancia p\u00fablica no Minist\u00e9rio da Infraestruturahttps://semanario-sc.com.br/noticia/2282/prefeito-orvino-e-o-vice-prefeito-michel-estao-em-brasilia-para-participar-de-audiencia-publica-no-m.html\u2026",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427695904627204096"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629224203000"
+            }
+        },
+        "content": "Governador de SC em Bras\u00edlia: audi\u00eancia p\u00fablica debate investimentos na infraestrutura do estado https://agenciabr.com.br/governador-de-sc-em-brasilia-audiencia-publica-debate-investimentos-na-infraestrutura-do-estado/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427598384249163801"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629200952000"
+            }
+        },
+        "content": "Governador participa em Bras\u00edlia de audi\u00eancia p\u00fablica sobre infraestrutura.\n\nEntre os assuntos est\u00e3o o aporte de R$ 350 milh\u00f5es para acelerar obras em tr\u00eas rodovias.\n\nConfira: https://bit.ly/3xTueIU",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1427399311092944937"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1629153490000"
+            }
+        },
+        "content": "Governador participa de audi\u00eancia p\u00fablica sobre infraestrutura em Bras\u00edlia nesta ter\u00e7a-feira http://dlvr.it/S5mb1w",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1423738581181423620"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1628280704000"
+            }
+        },
+        "content": "Alguma l\u00e2mpada do poste queimou por a\u00ed? \nEncontrou lumin\u00e1ria acesa durante o dia?  Fale com a . Ah, a taxa arrecadada em sua conta de energia \u00e9 repassada integralmente ao GDF para a instala\u00e7\u00e3o e manuten\u00e7\u00e3o da infraestrutura de ilumina\u00e7\u00e3o p\u00fablica em todo o DF.",
+        "likes": {
+            "$numberInt": "32"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1420094854210666503"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1627411971000"
+            }
+        },
+        "content": "O programa Conex\u00e3o Bras\u00edlia discute os PL que falam sobre a expans\u00e3o da oferta de energia el\u00e9trica emergencial e  obras de infraestrutura rural como utilidade p\u00fablica. O debate conta com a participa\u00e7\u00e3o do deputado  , autor dos projetos. Confira: https://bityli.com/l5bFn",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1342465668059439111"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1608903731000"
+            }
+        },
+        "content": "Marina, para conhecimento, a infraestrutura \u00e9 de responsabilidade da administradora do aeroporto, seja ela publica ou privada. Vale o contato diretamente com a administra\u00e7\u00e3o do aeroporto de Bras\u00edlia. Qualquer outra duvida, estamos por aqui.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1318877620818370563"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1603279903000"
+            }
+        },
+        "content": "Em Itumbiara, Governo de Goi\u00e1s leva benef\u00edcios \u00e0 seguran\u00e7a p\u00fablica, sa\u00fade e infraestrutura https://sosbrasilia.com.br/goias/em-itumbiara-governo-de-goias-leva-beneficios-a-seguranca-publica-saude-e-infraestrutura/\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1301871581002596352"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1599225347000"
+            }
+        },
+        "content": "#OBRASDF | Desta vez, a Ag\u00eancia de Desenvolvimento do Distrito Federal (Terracap) lan\u00e7a dois editais de licita\u00e7\u00e3o p\u00fablica para contrata\u00e7\u00e3o de empresa respons\u00e1vel por obras de infraestrutura: uma vi\u00e1ria e outra de energia el\u00e9trica.\n\nSaiba mais: https://bit.ly/3gZyKNN#GDF2020",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1275897018460917762"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1593032528000"
+            }
+        },
+        "content": "Segundo o Minist\u00e9rio da Infraestrutura, ser\u00e3o pavimentados os primeiros 52 quil\u00f4metros, no trecho que vai do quil\u00f4metro 198 ao 250. http://bemmaisbrasilia.com/single-post/Governo\u2026 publica edital para pavimenta\u00e7\u00e3o da BR-319, no Amazonas",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1249819217286909953"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1586815096000"
+            }
+        },
+        "content": "Enquanto a pandemia, a corrup\u00e7\u00e3o, o tr\u00e1fico, os assassinatos, a pobreza, a mis\u00e9ria, sem sa\u00fade, educa\u00e7\u00e3o, infraestrutura, seguran\u00e7a p\u00fablica devastam o estado do RJ, esse mal car\u00e1ter est\u00e1 preocupado com cultura e invejar o Presidente . N\u00e3o reeleja essa praga.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1242554391862947840"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1585083027000"
+            }
+        },
+        "content": "No entanto temos um Prcesidente \"couro duro\", corajoso, humilde, dedicado, patriota, que montou um Minist\u00e9rio T\u00e9cnico competent\u00edssimo, que esta dando uma resposta \u00e0 altura do cargo que ocupam, seja na Seguran\u00e7a P\u00fablica, Infraestrutura, Economia, e mais recentemente, na Sa\u00fade.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1234291276595519488"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1583112947000"
+            }
+        },
+        "content": "Amanh\u00e3 aqui em Bras\u00edlia, irei solicitar audi\u00eancia c/ o Comando da Marinha, al\u00e9m de pedir Audi\u00eancia P\u00fablica nas Comiss\u00f5es de Desenvolvimento Regional, Infraestrutura e Fiscaliza\u00e7\u00e3o do Senado c/ o Ministro da Defesa e c/ o comando da Marinha sobre a navega\u00e7\u00e3o na Amaz\u00f4nia.",
+        "likes": {
+            "$numberInt": "19"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1232185592789819392"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1582610912000"
+            }
+        },
+        "content": "Bairro Nova Bras\u00edlia \n\nUm lindo centro esportivo, logo atr\u00e1s, a popula\u00e7\u00e3o sofre com falta de recursos, sofre por n\u00e3o ter O B\u00c1SICO. \n\nO B\u00c1SICO:  Limpeza do Val\u00e3o/Rio Itangu\u00e1  Ilumina\u00e7\u00e3o P\u00fablica  Seguran\u00e7a Infraestrutura nas Ruas Posto de Sa\u00fade ativo, de verdade",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1224702042196840448"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1580826695000"
+            }
+        },
+        "content": "O Ouvcon se re\u00fane nesta ter\u00e7a-feira (4), em Bras\u00edlia (DF), para debater temas como o papel da ouvidoria p\u00fablica e projetos de melhoria de infraestrutura das ouvidorias do consumidor e elei\u00e7\u00e3o do vice-presidente. Saiba mais: http://bit.ly/37W1vHm",
+        "likes": {
+            "$numberInt": "75"
+        },
+        "retweets": {
+            "$numberInt": "12"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1224062858062856193"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1580674302000"
+            }
+        },
+        "content": "Partindo para Bras\u00edlia onde apresentaremos ao Ministro Canuto o relat\u00f3rio que mostra os efeitos das chuvas nos munic\u00edpios do ES e o valor necess\u00e1rio para recuperar a infraestrutura p\u00fablica e casas populares.",
+        "likes": {
+            "$numberInt": "85"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1213969222432382978"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1578267791000"
+            }
+        },
+        "content": "Pr\u00eamio Gazeta Brasil: Sergio Moro \u00e9 escolhido como o melhor ministro de 2019\n\n1\u00b0 Sergio Moro (Justi\u00e7a e Seguran\u00e7a P\u00fablica) \n2\u00b0 Tarc\u00edsio Gomes (Infraestrutura)\n3\u00b0 Paulo Guedes (Economia) \n\nComo tem gentinha com INVEJA l\u00e1 pelo lado de Bras\u00edlia ehn !\nNo STF ent\u00e3o  tem o \u00f3dio tamb\u00e9m!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1204140329378680832"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1575924401000"
+            }
+        },
+        "content": "Segundo o documento, a sess\u00e3o p\u00fablica do leil\u00e3o acontecer\u00e1 em 27 de mar\u00e7o de 2020 na sede da Ag\u00eancia, em Bras\u00edlia. O recebimento das propostas esta marcado para 24 de mar\u00e7o. #PPI #Infraestrutura #Portos",
+        "likes": {
+            "$numberInt": "36"
+        },
+        "retweets": {
+            "$numberInt": "6"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1196506840487600128"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1574104435000"
+            }
+        },
+        "content": "Foi s\u00f3 a esquerda sair do poder e os resultados na educa\u00e7\u00e3o, cultura, seguran\u00e7a p\u00fablica, infraestrutura, esportes come\u00e7aram a aparecer novamente. E viva os novos tempos.",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1195086716211802120"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1573765851000"
+            }
+        },
+        "content": "O Brasil fica na lanterna no destino dos desembolsos do Novo Banco de Desenvolvimento (NBD), o banco do Brics, que aplica principalmente em infraestrutura. Esse desequil\u00edbrio gerou uma cobran\u00e7a p\u00fablica do presidente Jair Bolsonaro durante a c\u00fapula do bloco, em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1190389301395234818"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1572645900000"
+            }
+        },
+        "content": "\u00f3leo nas praias do nordeste\nfilho falando da volta do AI-5 \nuniversidades sem verba nenhuma\neduca\u00e7\u00e3o um lixo\nsa\u00fade p\u00fablica tr\u00e1gicainfraestrutura que parece a lua com tanta cratera\n\nfam\u00edlia bolsonaro em bras\u00edlia:",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1147154991758610432"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1562338037000"
+            }
+        },
+        "content": "A primeira reuni\u00e3o do Comit\u00ea Interno de Governan\u00e7a P\u00fablica da Secretaria de Obras e Infraestrutura (SODF) aconteceu ontem (4) e contou com o apoio da Casa Civil por meio da Secretaria Executiva de Governan\u00e7a e Compliance.https://bit.ly/2L4rSTJ",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1144149545842069504"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1561621483000"
+            }
+        },
+        "content": "As vezes realmente d\u00e1 vontade de desistir desse pa\u00eds.\nN\u00e3o \u00e9 f\u00e1cil, trabalhar para o estado, ganhando mis\u00e9ria ,e ver uma dessas.\nSa\u00fade , seguran\u00e7a p\u00fablica, infraestrutura, educa\u00e7\u00e3o,todos servidores ganhando pouco ,e alguns ,muito .#DomingoNasRuas , pq a pr\u00f3xima, s\u00f3 em Bras\u00edlia",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1127928726010900486"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1557754138000"
+            }
+        },
+        "content": "Na semana que antecede o Abdib F\u00f3rum 2019 \u2013 Estrat\u00e9gia para a Retomada da Infraestrutura, que ser\u00e1 realizado em Bras\u00edlia nos dias 21 e 22 de maio, haver\u00e1 reuni\u00e3o especial do Comit\u00ea de Ilumina\u00e7\u00e3o P\u00fablica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1124295883875586048"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1556888001000"
+            }
+        },
+        "content": "A forte chuva que atingiu o DF ontem causou estragos no DF e principalmente na infraestrutura de Vicente Pires. H\u00e1 cerca de um m\u00eas, Ibaneis Rocha estudava a possibilidade de decretar estado de calamidade p\u00fablica na regi\u00e3o. Voc\u00ea acha que esta seria a melhor solu\u00e7\u00e3o?",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "4"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1116095797815328772"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1554932948000"
+            }
+        },
+        "content": "#100diasGDF #SOSDF #INFRAESTRUTURA  |  Moderniza\u00e7\u00e3o da ilumina\u00e7\u00e3o p\u00fablica, com 1.989 l\u00e2mpadas LED instaladas em Bras\u00edlia, Vila Planalto, Candangol\u00e2ndia, Taguatinga Sul, N\u00facleo Bandeirante e Ceil\u00e2ndia.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1103111044191477760"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1551837142000"
+            }
+        },
+        "content": "Vc acha que o presidente t\u00e1 l\u00e1 em  Bras\u00edlia preocupado com sa\u00fade p\u00fablica,investimento em educa\u00e7\u00e3o, melhorar a infraestrutura e os meios de transporte do pa\u00eds mas n\u00e3o ele t\u00e1 no twitter fazendo \u00e0 sensacionalista. https://x.com/jairbolsonaro//jairbolsonaro/status/1103069837876711425\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1093525168868245505"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1549551691000"
+            }
+        },
+        "content": "|ASSIM \u00c9 BRAS\u00cdLIA|\nPlanejamento deve ser a ess\u00eancia da gest\u00e3o p\u00fablica. Seja na manuten\u00e7\u00e3o da infraestrutura ou na implanta\u00e7\u00e3o de novos assentamentos, nada deve ser feito ao sabor do vento.\nCom Romina Faur Capparelli https://cbn.globoradio.globo.com/media/audio/244362/planejamento-deve-ser-essencia-da-gestao-publica.htm\u2026",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1065562028033695745"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1542884759000"
+            }
+        },
+        "content": "Vicente Pires pede socorro por transtornos causados por obras de infraestrutura. Peti\u00e7\u00e3o p\u00fablica cobra uma solu\u00e7\u00e3o para a confus\u00e3o provocada por obras. https://goo.gl/v6yDtZ",
+        "likes": {
+            "$numberInt": "8"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1047318704638386177"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1538535212000"
+            }
+        },
+        "content": "Mois\u00e9s diz que alguns candidatos dizem para olhar por futuro por vergonha de olhar para tr\u00e1s. Estado precisa tamb\u00e9m de investimento em infraestrutura portu\u00e1ria. Enxugar a m\u00e1quina p\u00fablica vai ajudar nisso. 60% do dinheiro n\u00e3o chega aos munic\u00edpios e fica em Bras\u00edlia #DebateNSC",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1006159112357363712"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1528722000000"
+            }
+        },
+        "content": "Com o objetivo de fortalecer a cultura de inova\u00e7\u00e3o e empreendedorismo na gest\u00e3o p\u00fablica do setor de infraestrutura de transportes, o @DNIT_Ascom promove semin\u00e1rio nos dias 14 e 15 de junho, em Bras\u00edlia.\n\nSaiba mais e inscreva-se: http://goo.gl/212mZy",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "2"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1005419237261893633"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1528545600000"
+            }
+        },
+        "content": "Com o objetivo de fortalecer a cultura de inova\u00e7\u00e3o e empreendedorismo na gest\u00e3o p\u00fablica do setor de infraestrutura de transportes, o @DNIT_Ascom promove semin\u00e1rio nos dias 14 e 15 de junho, em Bras\u00edlia.\n\nSaiba mais e inscreva-se: https://goo.gl/212mZy",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1005102148575608838"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1528470000000"
+            }
+        },
+        "content": "Com o objetivo de fortalecer a cultura de inova\u00e7\u00e3o e empreendedorismo na gest\u00e3o p\u00fablica do setor de infraestrutura de transportes, o @DNIT_Ascom promove semin\u00e1rio nos dias 14 e 15 de junho, em Bras\u00edlia.\n\nSaiba mais e inscreva-se: https://goo.gl/212mZy",
+        "likes": {
+            "$numberInt": "5"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1004709561473921025"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1528376400000"
+            }
+        },
+        "content": "Com o objetivo de fortalecer a cultura de inova\u00e7\u00e3o e empreendedorismo na gest\u00e3o p\u00fablica do setor de infraestrutura de transportes, o @DNIT_Ascom promove semin\u00e1rio nos dias 14 e 15 de junho, em Bras\u00edlia.\n\nSaiba mais e inscreva-se: https://goo.gl/212mZy",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "1004513266674962432"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1528329600000"
+            }
+        },
+        "content": "Com o objetivo de fortalecer a cultura de inova\u00e7\u00e3o e empreendedorismo na gest\u00e3o p\u00fablica do setor de infraestrutura de transportes, o @DNIT_Ascom promove semin\u00e1rio nos dias 14 e 15 de junho, em Bras\u00edlia.\n\nSaiba mais e inscreva-se: https://goo.gl/212mZy",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "984779832461492224"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1523624783000"
+            }
+        },
+        "content": "RicardoCruz promove reuni\u00e3o p\u00fablica sobre infraestrutura no Pina e Bras\u00edlia Teimosa https://bit.ly/2Hmcgsi",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "965632071455596544"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1519059601000"
+            }
+        },
+        "content": "#INFRAESTRUTURA | Lan\u00e7amos o Ilumina Mais Bras\u00edlia, para melhorar a efici\u00eancia da ilumina\u00e7\u00e3o p\u00fablica e reduzir o consumo de energia el\u00e9trica. https://goo.gl/GsCgZA",
+        "likes": {
+            "$numberInt": "1"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "964805230696247296"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1518862466000"
+            }
+        },
+        "content": "\"N\u00e3o ser\u00e1 neste curto espa\u00e7o de tempo que o presidente Temer e o general Breno Neto conseguir\u00e3o \"prover\" as favelas de servi\u00e7os essenciais como de educa\u00e7\u00e3o, sa\u00fade p\u00fablica e infraestrutura urbana. A interven\u00e7\u00e3o militar \u00e9 uma solu\u00e7\u00e3o paliativa.\"  https://x.com/sakasakamori/status/964794530150133760\u2026",
+        "likes": {
+            "$numberInt": "2"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "941426503350407168"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1513288543000"
+            }
+        },
+        "content": "Estive nesta quinta-feira (14), na Companhia Energ\u00e9tica de Bras\u00edlia (@CEBDistribuicao ) para apresentar a luta de moradores de Planaltina para garantir ilumina\u00e7\u00e3o p\u00fablica em dois bairros: Estancia V e Arapoanga.#infraestrutura  #ilumina\u00e7\u00e3o",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "874956399775686656"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1497440836000"
+            }
+        },
+        "content": "BRAS\u00cdLIA \u2013 A Comiss\u00e3o de Infraestrutura do Senado vai realizar na pr\u00f3xima ter\u00e7a-feira, 20, audi\u00eancia p\u00fablica para... http://fb.me/1o6b3Jfhu",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "639214842335883264"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1441235669000"
+            }
+        },
+        "content": "Se aprovado, reajuste em taxa p\u00fablica servir\u00e1 para custear obras de infraestrutura e ampliar a rede el\u00e9trica http://bit.ly/1JNpqbQ",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "618776801578500096"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1436362860000"
+            }
+        },
+        "content": "Em #Bras\u00edlia, acompanho o governador  em audi\u00eancia p\u00fablica na Comiss\u00e3o de #Infraestrutura do Senado.",
+        "likes": {
+            "$numberInt": "3"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "608623504100048896"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1433942125000"
+            }
+        },
+        "content": "Secret\u00e1rios de Seguran\u00e7a P\u00fablica, Infraestrutura, Delegacia Geral e Cmte da PM s\u00e3o recebidos pela bancada em Bras\u00edlia",
+        "likes": {
+            "$numberInt": "4"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "602171833119612928"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1432403927000"
+            }
+        },
+        "content": ": Conhe\u00e7a a #PROINFRA - A AG\u00caNCIA P\u00daBLICA NACIONAL DE INFRAESTRUTURA E TECNOLOGIA http://bit.ly/proinfra de #Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "423412114003202048"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1389784289000"
+            }
+        },
+        "content": "Verba p\u00fablica que seria usada para infraestrutura do Noroeste \u00e9 realocada para obras do Man\u00e9 Garrincha.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "5"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "405847766825308161"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1385596622000"
+            }
+        },
+        "content": "ANTT publica edital de concess\u00e3o da BR-040, entre Bras\u00edlia e Juiz de Fora - Infraestrutura - iG http://economia.ig.com.br/empresas/infraestrutura/2013-11-27/antt-publica-edital-de-concessao-da-br-040-entre-brasilia-e-juiz-de-fora.html\u2026 via",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "339818623017291777"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1369854047000"
+            }
+        },
+        "content": "Falta de infraestrutura para armazenagem de gr\u00e3os \u00e9 tema de audi\u00eancia p\u00fablica realizada em Bras\u00edlia http://fb.me/1b6cZNqLS",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "337531311050866688"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1369308710000"
+            }
+        },
+        "content": "Bom dia. Estou em Bras\u00edlia para falar sobre infraestrutura no III Semin\u00e1rio Internacional de Direito Administrativo e Administra\u00e7\u00e3o P\u00fablica",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "6"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "279283933772931072"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1355421453000"
+            }
+        },
+        "content": "GDF investe na infraestrutura da rede p\u00fablica de Sa\u00fadehttp://gdf.me/223",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "279252303255588864"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1355413912000"
+            }
+        },
+        "content": "@perfil_publico PLANOS - GDF investe na infraestrutura da rede p\u00fablica de Sa\u00fade http://alo.com.br/noticias/ultimas/?IdNoticia=191891\u2026 #alobrasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "279252191578038272"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1355413885000"
+            }
+        },
+        "content": "PLANOS ESTRAT\u00c9GICOS - GDF investe na infraestrutura da rede p\u00fablica de Sa\u00fade http://alo.com.br/noticias/ultimas/?IdNoticia=191891\u2026 #alobrasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "279251694494294016"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1355413766000"
+            }
+        },
+        "content": "PLANOS ESTRAT\u00c9GICOS - GDF investe na infraestrutura da rede p\u00fablica de Sa\u00fade http://alo.com.br/noticias/ultimas/?IdNoticia=191891\u2026 #alobrasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "164763015063941120"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1328117538000"
+            }
+        },
+        "content": "ClicaBras\u00edlia: Conv\u00eanios s\u00e3o firmados para aprimorar infraestrutura da seguran\u00e7a p\u00fablica do DF http://clicabrasilia.com.br/site/noticia.php?id=387741&\u2026",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "164417681712349187"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1328035204000"
+            }
+        },
+        "content": "Laptops ficam guardados sem uso em escola de Bras\u00edlia por falta de infraestrutura http://ow.ly/8Mu5s",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "121927592587706369"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1317904778000"
+            }
+        },
+        "content": "Prevista para hoje, foi cancelada audi\u00eancia p\u00fablica sobre royalties da minera\u00e7\u00e3o na Comiss\u00e3o de Infraestrutura do Senado, em Bras\u00edlia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "109971338944454657"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1315054185000"
+            }
+        },
+        "content": "Brasilia quer fazer copa do mundo com a pior infraestrutura p\u00fablica do Pa\u00eds, Governador acorda !!!!",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "109970882939727872"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1315054076000"
+            }
+        },
+        "content": "Brasilia quer fazer copa do mundo com a pior infraestrutura p\u00fablica do p\u00e1is, falta seguran\u00e7a, energia, estacionamento e etc",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "100534258585702401"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1312804209000"
+            }
+        },
+        "content": "Defensoria P\u00fablica: Falta de pessoal e infraestrutura dificultam trabalho de defensores http://alo.com.br/noticias/ultimas/?IdNoticia=129802\u2026 #alobrasilia",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "78169273696133120"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1307471981000"
+            }
+        },
+        "content": "RT  A audi\u00eancia p\u00fablica sobre infraestrutura aeroportu\u00e1ria est\u00e1 sendo transmitida no canal 51.2 UHF Digital em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "1"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "78163816394915840"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1307470680000"
+            }
+        },
+        "content": "A audi\u00eancia p\u00fablica sobre infraestrutura aeroportu\u00e1ria est\u00e1 sendo transmitida no canal 51.2 UHF Digital em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "78156159898484736"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1307468855000"
+            }
+        },
+        "content": "Veja tamb\u00e9m audi\u00eancia p\u00fablica sobre infraestrutura aeroportu\u00e1ria para a Copa de 2014 no canal 3 na internet e 51.3 UHF Digital em Bras\u00edlia.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "negativo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "8249534199"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1264538295000"
+            }
+        },
+        "content": "Juntos,vamos \u00e0 Bras\u00edlia viabilizar recursos do PAC para infraestrutura dos bairros de Cachoeiro e atendimento b\u00e1sico \u00e0 sa\u00fade p\u00fablica.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "positivo"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "5741064503"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1258307112000"
+            }
+        },
+        "content": "RT  - Daqui a pouco volto para Bras\u00edlia. Amanh\u00e3, Audi\u00eancia P\u00fablica sobre Pol\u00edticas P\u00fablicas na Comiss\u00e3o de Infraestrutura do SF.",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    },
+    {
+        "tweet_id": {
+            "$numberLong": "3983752131"
+        },
+        "timestamp": {
+            "$date": {
+                "$numberLong": "1252947459000"
+            }
+        },
+        "content": "RT : Regressando para Bras\u00edlia.Hj,na Comiss\u00e3o de Infraestrutura, a5\u00aa Audi\u00eancia P\u00fablica da s\u00e9rie Desafios Estrat\u00e9gicos Setoriais ...",
+        "likes": {
+            "$numberInt": "0"
+        },
+        "retweets": {
+            "$numberInt": "0"
+        },
+        "analytics": {
+            "$numberInt": "0"
+        },
+        "categoria": "transporte",
+        "sentimento": "neutro"
+    }
+]
