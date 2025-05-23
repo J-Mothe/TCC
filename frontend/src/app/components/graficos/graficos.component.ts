@@ -1,12 +1,41 @@
-import { Component, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import {
+  Component,
+  OnInit,
+  AfterViewInit,
+  ViewChild,
+  ElementRef,
+  Inject,
+  PLATFORM_ID,
+} from '@angular/core';
+import { isPlatformBrowser, CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { CardModule } from 'primeng/card';
 import { TabsModule } from 'primeng/tabs';
 import { FormsModule } from '@angular/forms';
 import { ConfirmPopupModule } from 'primeng/confirmpopup';
+import { SelectModule } from 'primeng/select';
 import { ConfirmationService, MessageService } from 'primeng/api';
 import { Chart } from 'chart.js/auto';
+import { ApiService } from '../../services/api.service';
+
+type Sentimento = 'positivo' | 'neutro' | 'negativo';
+
+interface Tweet {
+  tweetId: number;
+  timestamp: string;
+  content: string;
+  likes: number;
+  retweets: number;
+  analytics: number;
+  categoria:
+    | 'educação'
+    | 'infraestrutura'
+    | 'policiamento'
+    | 'saneamento'
+    | 'saude'
+    | 'transporte';
+  sentimento: Sentimento;
+}
 
 @Component({
   selector: 'app-graficos',
@@ -20,78 +49,182 @@ import { Chart } from 'chart.js/auto';
     TabsModule,
     FormsModule,
     ConfirmPopupModule,
+    SelectModule,
   ],
   providers: [ConfirmationService, MessageService],
 })
-export class GraficosComponent implements AfterViewInit {
+export class GraficosComponent implements OnInit, AfterViewInit {
+  /* refs de canvas */
   @ViewChild('pieChart') pieChart!: ElementRef<HTMLCanvasElement>;
   @ViewChild('barChart') barChart!: ElementRef<HTMLCanvasElement>;
   @ViewChild('lineChart') lineChart!: ElementRef<HTMLCanvasElement>;
 
+  /* Chart.js instances */
   pieChartInstance!: Chart;
   barChartInstance!: Chart;
   lineChartInstance!: Chart;
 
+  data: Tweet[] = [];
+  private viewReady = false;
+  private readonly isBrowser: boolean;
+
+  categorias = [
+    { label: 'Educação', value: 'educação' },
+    { label: 'Infraestrutura', value: 'infraestrutura' },
+    { label: 'Policiamento', value: 'policiamento' },
+    { label: 'Saneamento', value: 'saneamento' },
+    { label: 'Saúde', value: 'saude' },
+    { label: 'Transporte', value: 'transporte' },
+  ];
+  anosDisponiveis: { label: string; value: number }[] = [];
+
+  categoriaSelecionada = 'educação'; // ← igual ao JSON
+  anoSelecionado = new Date().getFullYear();
+
+  constructor(
+    private apiService: ApiService,
+    @Inject(PLATFORM_ID) platformId: Object
+  ) {
+    this.isBrowser = isPlatformBrowser(platformId);
+  }
+
+  /* ---------- ciclo de vida ---------- */
+  ngOnInit(): void {
+    this.apiService.getData().subscribe({
+      next: (tweets) => {
+        this.data = tweets;
+        if (this.viewReady && this.isBrowser) this.initGraficos();
+      },
+      error: (err) => console.error('Erro ao obter dados:', err),
+    });
+  }
+
   ngAfterViewInit(): void {
+    this.viewReady = true;
+    if (this.data.length && this.isBrowser) this.initGraficos();
+  }
+
+  /* ---------- preparação geral ---------- */
+  private initGraficos(): void {
+    const catCount: Record<string, number> = {};
+    const anosSet = new Set<number>();
+
+    this.data.forEach((t) => {
+      catCount[t.categoria] = (catCount[t.categoria] || 0) + 1;
+      anosSet.add(new Date(t.timestamp).getFullYear());
+    });
+
+    this.anosDisponiveis = Array.from(anosSet)
+      .sort()
+      .map((a) => ({ label: a.toString(), value: a }));
+
+    this.gerarGraficoCategorias(catCount);
+    this.atualizarGraficoSentimentosCategoria();
+    this.atualizarGraficoMensalPorAno();
+  }
+
+  /* ---------- gráfico 1 ---------- */
+  private gerarGraficoCategorias(cont: Record<string, number>): void {
+    if (!this.isBrowser) return; // evita SSR
+    const labels = Object.keys(cont);
+    const valores = Object.values(cont);
+    const cores = [
+      '#3b82f6',
+      '#10b981',
+      '#fbbf24',
+      '#f97316',
+      '#ef4444',
+      '#a855f7',
+    ];
+
+    if (this.pieChartInstance) this.pieChartInstance.destroy();
     this.pieChartInstance = new Chart(this.pieChart.nativeElement, {
       type: 'pie',
       data: {
-        labels: ['Categoria A', 'Categoria B', 'Categoria C', 'Categoria D'],
+        labels,
         datasets: [
           {
-            data: [30, 25, 20, 25],
-            backgroundColor: ['#34d399', '#4ade80', '#22c55e', '#16a34a'],
-            hoverBackgroundColor: ['#34d399', '#4ade80', '#22c55e', '#16a34a'],
+            data: valores,
+            backgroundColor: cores.slice(0, valores.length),
+            hoverBackgroundColor: cores.slice(0, valores.length),
           },
         ],
       },
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        plugins: {
-          legend: { position: 'top' },
-          tooltip: { enabled: true },
-        },
+        plugins: { legend: { position: 'top' } },
       },
     });
+  }
 
+  /* ---------- gráfico 2 ---------- */
+  atualizarGraficoSentimentosCategoria(): void {
+    if (!this.isBrowser) return;
+    const tot: Record<Sentimento, number> = {
+      positivo: 0,
+      neutro: 0,
+      negativo: 0,
+    };
+    this.data.forEach((t) => {
+      if (t.categoria === this.categoriaSelecionada) tot[t.sentimento]++;
+    });
+
+    if (this.barChartInstance) this.barChartInstance.destroy();
     this.barChartInstance = new Chart(this.barChart.nativeElement, {
       type: 'bar',
       data: {
-        labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun'],
+        labels: ['Positivo', 'Neutro', 'Negativo'],
         datasets: [
           {
-            label: 'Volume de Tweets',
-            data: [50, 75, 60, 90, 80, 100],
-            backgroundColor: '#34d399',
+            label: `Sentimentos – ${this.categoriaSelecionada}`,
+            data: [tot.positivo, tot.neutro, tot.negativo],
+            backgroundColor: ['#10b981', '#fbbf24', '#ef4444'],
           },
         ],
       },
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        scales: {
-          y: {
-            beginAtZero: true,
-          },
-        },
-        plugins: {
-          legend: { display: false },
-          tooltip: { enabled: true },
-        },
+        plugins: { legend: { display: false } },
+        scales: { y: { beginAtZero: true } },
       },
     });
+  }
 
+  /* ---------- gráfico 3 ---------- */
+  atualizarGraficoMensalPorAno(): void {
+    if (!this.isBrowser) return;
+    const mensais = new Array<number>(12).fill(0);
+    this.data.forEach((t) => {
+      const d = new Date(t.timestamp);
+      if (d.getFullYear() === this.anoSelecionado) mensais[d.getMonth()]++;
+    });
+
+    if (this.lineChartInstance) this.lineChartInstance.destroy();
     this.lineChartInstance = new Chart(this.lineChart.nativeElement, {
       type: 'line',
       data: {
-        labels: ['Semana 1', 'Semana 2', 'Semana 3', 'Semana 4'],
+        labels: [
+          'Jan',
+          'Fev',
+          'Mar',
+          'Abr',
+          'Mai',
+          'Jun',
+          'Jul',
+          'Ago',
+          'Set',
+          'Out',
+          'Nov',
+          'Dez',
+        ],
         datasets: [
           {
-            label: 'Sentimento Positivo',
-            data: [65, 59, 80, 81],
+            label: `Tweets por Mês (${this.anoSelecionado})`,
+            data: mensais,
             fill: false,
-            borderColor: '#34d399',
+            borderColor: '#3b82f6',
             tension: 0.1,
           },
         ],
@@ -99,15 +232,8 @@ export class GraficosComponent implements AfterViewInit {
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        scales: {
-          y: {
-            beginAtZero: true,
-          },
-        },
-        plugins: {
-          legend: { display: true },
-          tooltip: { enabled: true },
-        },
+        scales: { y: { beginAtZero: true } },
+        plugins: { legend: { display: true } },
       },
     });
   }

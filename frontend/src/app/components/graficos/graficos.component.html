@@ -1,5 +1,6 @@
 <div class="graficos">
   <h2>Gráficos</h2>
+
   <div class="charts-wrapper">
     <div class="chart-card">
       <p-card styleClass="chart-card-content">
@@ -15,9 +16,16 @@
     <div class="chart-card">
       <p-card styleClass="chart-card-content">
         <ng-template pTemplate="header">
-          <h3 class="chart-title">Volume Mensal de Tweets</h3>
+          <h3 class="chart-title">Sentimentos por Categoria</h3>
         </ng-template>
         <div class="chart-container">
+          <p-select
+            [options]="categorias"
+            [(ngModel)]="categoriaSelecionada"
+            (onChange)="atualizarGraficoSentimentosCategoria()"
+            placeholder="Selecione uma categoria"
+            class="w-full mb-3"
+          ></p-select>
           <canvas #barChart></canvas>
         </div>
       </p-card>
@@ -26,9 +34,16 @@
     <div class="chart-card">
       <p-card styleClass="chart-card-content">
         <ng-template pTemplate="header">
-          <h3 class="chart-title">Evolução Semanal de Sentimentos</h3>
+          <h3 class="chart-title">Volume Mensal de Tweets</h3>
         </ng-template>
         <div class="chart-container">
+          <p-select
+            [options]="anosDisponiveis"
+            [(ngModel)]="anoSelecionado"
+            (onChange)="atualizarGraficoMensalPorAno()"
+            placeholder="Selecione um ano"
+            class="w-full mb-3"
+          ></p-select>
           <canvas #lineChart></canvas>
         </div>
       </p-card>
