@@ -2,44 +2,133 @@
   <p-card styleClass="sobre-card">
     <ng-template pTemplate="header">
       <div class="card-header">
-        <h1>Sobre o Projeto</h1>
-        <h2>Análise de Sentimentos & Monitoramento em Redes Sociais</h2>
+        <h1>OpinaMAIS</h1>
+        <h2>Monitoramento de Serviços Públicos via Análise de Sentimentos</h2>
+        <p class="autores">
+          <strong>Autores:&nbsp;</strong>João V. M. Vantil&nbsp;e&nbsp;Giulia C.
+          Bezerra
+        </p>
       </div>
     </ng-template>
 
+    <div class="btn-voltar-wrapper">
+      <button
+        pButton
+        icon="pi pi-home"
+        label="Voltar para Home"
+        class="p-button-outlined"
+        [routerLink]="['/']">
+      </button>
+    </div>
+
     <ng-template pTemplate="content">
-      <p>
-        Este projeto tem como objetivo coletar, processar e analisar postagens
-        de redes sociais para monitorar a opinião pública sobre serviços
-        públicos. Utilizamos técnicas avançadas de scraping para extrair dados,
-        que são então processados e armazenados em um banco de dados MongoDB.
-      </p>
-      <p>
-        O back-end foi desenvolvido em Spring Boot e o front-end em Angular,
-        proporcionando uma interface moderna, interativa e responsiva. Com essa
-        estrutura, é possível visualizar métricas, gerar relatórios e obter
-        insights profundos sobre o sentimento do público.
+      <p class="lead">
+        Entre 2020 e 2025 acompanhamos centenas de conversas públicas no Twitter
+        para descobrir, em tempo real, o que as pessoas pensam sobre serviços
+        como
+        <em>educação</em>, <em>saúde</em> e <em>transporte</em>. Os resultados
+        são exibidos em painéis claros que indicam se o sentimento da população
+        é positivo, negativo ou neutro em cada tema.
       </p>
 
-      <div class="features">
-        <h3>Principais Recursos:</h3>
-        <ul>
-          <li>
-            <i class="pi pi-check-circle"></i> Coleta automatizada de dados
-          </li>
-          <li>
-            <i class="pi pi-check-circle"></i> Processamento e análise
-            inteligente
-          </li>
-          <li>
-            <i class="pi pi-check-circle"></i> Relatórios dinâmicos e dashboards
-            interativos
-          </li>
-          <li>
-            <i class="pi pi-check-circle"></i> Monitoramento em tempo real
-          </li>
-        </ul>
-      </div>
+      <p-accordion multiple="true">
+        <p-accordionTab header="Visão Geral do Projeto">
+          <p>
+            O OpinaMAIS transforma mensagens do Twitter em insights úteis para a
+            gestão pública. O processo segue quatro passos simples:
+          </p>
+          <ol>
+            <li>
+              <strong>Captura das postagens</strong> sobre serviços públicos.
+            </li>
+            <li>
+              <strong>Limpeza do texto</strong> para retirar links e ruídos.
+            </li>
+            <li>
+              <strong>Leitura do sentimento</strong> — identificamos se a
+              opinião é favorável, crítica ou neutra.
+            </li>
+            <li>
+              <strong>Visualização</strong> em dashboards interativos que
+              mostram tendências e comparações ao longo do tempo.
+            </li>
+          </ol>
+          <p>
+            Dessa forma, qualquer pessoa pode acompanhar, de maneira simples,
+            como a sociedade avalia as principais políticas e serviços
+            oferecidos pelo Estado.
+          </p>
+        </p-accordionTab>
+
+        <p-accordionTab header="Metodologia (pipeline técnico)">
+          <ol>
+            <li>
+              <strong>Scraping direcionado&nbsp;—</strong> scripts Python +
+              Selenium executam queries avançadas no Twitter, contornando
+              limites da API oficial. Para cada tweet registramos
+              <em>ID, timestamp, texto bruto, likes, retweets e views</em>.
+            </li>
+
+            <li>
+              <strong>Normalização do texto&nbsp;—</strong> remoção de URLs,
+              hashtags, menções e emojis via RegEx; redução de múltiplos
+              espaços; conversão de números (“1,2K” → 1200). O resultado é
+              serializado em JSON e persiste no MongoDB.
+            </li>
+
+            <li>
+              <strong>Inferência BERT&nbsp;—</strong> usamos o modelo
+              <code>lipaoMai/BERT-sentiment-analysis-pt</code> (Hugging Face)
+              para classificar cada tweet em <em>positivo</em>,
+              <em>negativo</em> ou <em>neutro</em>. Tweets com score&nbsp;&lt;
+              0,70 são rebaixados para neutros a fim de reduzir
+              falsos-positivos.
+            </li>
+            <li>
+              <strong>APIs &amp; Visualização&nbsp;—</strong> uma REST API
+              Spring Boot fornece consultas paginadas e agregadas. No frontend
+              Angular&nbsp;17 + PrimeNG, dashboards Plotly/Chart.js exibem
+              séries temporais, distribuições por categoria e filtros
+              interativos (data, sentimento, palavra-chave).
+            </li>
+          </ol>
+        </p-accordionTab>
+
+        <p-accordionTab header="Funcionalidades-chave">
+          <ul class="lista-recursos">
+            <li><i class="pi pi-check-circle"></i> Scraper automatizado</li>
+            <li>
+              <i class="pi pi-check-circle"></i> Processamento &amp;
+              classificação BERT em lote
+            </li>
+            <li><i class="pi pi-check-circle"></i> Dashboards responsivos</li>
+            <li>
+              <i class="pi pi-check-circle"></i> Gráficos dinâmicos com filtros
+              avançados
+            </li>
+            <li>
+              <i class="pi pi-check-circle"></i> Arquitetura extensível para
+              novas redes
+            </li>
+          </ul>
+        </p-accordionTab>
+
+        <p-accordionTab header="Tecnologias Usadas">
+          <div class="stack-grid">
+            <span
+              ><strong>Scraper:</strong> Python · Requests · BeautifulSoup ·
+              Selenium</span
+            >
+            <span
+              ><strong>IA/PLN:</strong> Hugging Face BERT · Transformers</span
+            >
+            <span><strong>Banco:</strong> MongoDB (NoSQL)</span>
+            <span><strong>Backend:</strong> Spring Boot (REST)</span>
+            <span><strong>Frontend:</strong> Angular 17 · PrimeNG v19</span>
+            <span><strong>Gráficos:</strong> Plotly · Chart.js</span>
+          </div>
+        </p-accordionTab>
+      </p-accordion>
     </ng-template>
   </p-card>
 </div>

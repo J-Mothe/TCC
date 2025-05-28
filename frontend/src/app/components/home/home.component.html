@@ -1,50 +1,86 @@
 <div class="home-content">
   <div class="hero">
-    <p-card
-      header="Bem-vindo ao Projeto de Análise de Sentimentos"
-      class="hero-card"
-    >
+    <p-card class="hero-card">
+      <ng-template pTemplate="header">
+        <h2 class="mt-3 mb-0">Bem-vindo ao <strong>OpinaMAIS</strong></h2>
+      </ng-template>
+
       <p>
-        Monitoramento da opinião pública em redes sociais sobre serviços
-        públicos.
+        O OpinaMAIS — Monitoramento da Atividade e Interação Social — em
+        referência à sua proposta central de acompanhar, analisar e interpretar
+        as opniões da população sobre serviços públicos a partir de dados
+        coletados em redes sociais.
       </p>
+      <p>
+        Acompanhe o que Brásilia pensa sobre serviços públicos como
+        <em>educação</em>, <em>saúde</em> e <em>transporte</em>. Transformamos
+        centenas de tweets em insights acionáveis.
+      </p>
+
       <ng-template pTemplate="footer">
-        <button pButton label="Saiba Mais" class="p-button-outlined"></button>
+        <button
+          pButton
+          label="Saiba Mais"
+          class="p-button-outlined"
+          [routerLink]="['/sobre']"
+        ></button>
       </ng-template>
     </p-card>
   </div>
 
   <div class="cards">
-    <p-card header="Estatísticas" class="card">
-      <p>Veja dados e métricas de postagens.</p>
+    <p-card header="Dashboard de Tweets" class="card">
+      <p>
+        Navegue pela base completa de tweets classificados, use filtros
+        avançados e faça buscas instantâneas.
+      </p>
       <ng-template pTemplate="footer">
-        <button pButton label="Ver Detalhes" class="p-button-text"></button>
+        <button
+          pButton
+          label="Abrir Dashboard"
+          class="p-button-outlined"
+          [routerLink]="['/dashboard']"
+        ></button>
       </ng-template>
     </p-card>
 
-    <p-card header="Insights" class="card">
-      <p>Descubra tendências e análises profundas.</p>
+    <p-card header="Insights Aprofundados" class="card">
+      <p>
+        Explore as tendências de sentimento por categoria e período, veja também
+        alguns insights que já identificamos.
+      </p>
       <ng-template pTemplate="footer">
-        <button pButton label="Ver Insights" class="p-button-text"></button>
+        <button
+          pButton
+          label="Explorar Insights"
+          class="p-button-outlined"
+          [routerLink]="['/insights']"
+        ></button>
       </ng-template>
     </p-card>
 
-    <p-card header="Relatórios" class="card">
-      <p>Visualize relatórios detalhados e gráficos.</p>
+    <p-card header="Gráficos Dinâmicos" class="card">
+      <p>
+        Compare indicadores em gráficos dinâmicos totalmente responsivos com o
+        que você busca visualizar.
+      </p>
       <ng-template pTemplate="footer">
-        <button pButton label="Ver Relatórios" class="p-button-text"></button>
+        <button
+          pButton
+          label="Abrir Gráficos"
+          class="p-button-outlined"
+          [routerLink]="['/graficos']"
+        ></button>
       </ng-template>
     </p-card>
   </div>
 
   <div class="extras">
-    <p-card header="Próximos Componentes">
+    <p-card header="Próximos Módulos">
       <p>
-        TEMPLATE TEMPLATE
+        • Exportação de relatórios<br />
+        • Integração com novas redes sociais
       </p>
-      <ng-template pTemplate="footer">
-        <button pButton label="Explorar" class="p-button-outlined"></button>
-      </ng-template>
     </p-card>
   </div>
 </div>

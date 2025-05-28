@@ -4,6 +4,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { SobreComponent } from './components/sobre/sobre.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { GraficosComponent } from './components/graficos/graficos.component';
+import { InsightsComponent } from './components/insights/insights.component';
 
 export const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -11,4 +12,5 @@ export const routes: Routes = [
   { path: 'sobre', component: SobreComponent },
   { path: 'sidebar', component: SidebarComponent },
   { path: 'graficos', component: GraficosComponent },
+  { path: 'insights', component: InsightsComponent },
 ];

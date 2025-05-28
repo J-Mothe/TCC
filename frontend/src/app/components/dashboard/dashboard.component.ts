@@ -11,6 +11,7 @@ import { CardModule } from 'primeng/card';
 import { FormsModule } from '@angular/forms';
 import { ConfirmPopupModule } from 'primeng/confirmpopup';
 import { ConfirmationService, MessageService } from 'primeng/api';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-dashboard',
@@ -28,6 +29,7 @@ import { ConfirmationService, MessageService } from 'primeng/api';
     CardModule,
     FormsModule,
     ConfirmPopupModule,
+    RouterModule,
   ],
   providers: [ConfirmationService, MessageService],
 })
@@ -45,8 +47,8 @@ export class DashboardComponent implements OnInit {
     });
   }
 
-  aplicarFiltro(): void {
-    console.log('Filtro aplicado:', this.filtroGlobal);
+  aplicarFiltro(dt: any): void {
+    dt.filterGlobal(this.filtroGlobal, 'contains');
   }
 
   exportarXLS(): void {

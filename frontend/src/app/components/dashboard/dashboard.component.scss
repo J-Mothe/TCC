@@ -1,121 +1,101 @@
 .dashboard-container {
   width: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: #121212;
-  color: #e0e0e0;
+  padding: 2rem;
+  background: var(--surface-ground);
+  color: var(--text-color);
 }
 
 .header {
   text-align: center;
-  margin: 1rem 0;
+  margin-bottom: 1.5rem;
+}
 
-  .titulo-pagina {
-    font-size: 2.4rem;
-    color: #34d399;
-    margin: 0;
-    padding: 1rem 0;
-  }
+.titulo-pagina {
+  margin: 0;
+  font-size: 2.4rem;
+  color: var(--primary-color);
 }
 
 .filter-bar {
-  margin: 0 2rem;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
   gap: 1rem;
+  margin-bottom: 1.5rem;
+
+  .search-group {
+    flex: 0 0 300px;
+    max-width: 100%;
+  }
+
+  .buttons-group {
+    margin-left: auto;
+    display: flex;
+    gap: 0.5rem;
+  }
 }
 
 .search-group {
   flex: 0 0 300px;
-
-  .p-input-icon-left {
-    position: relative;
-    width: 100%;
-
-    i {
-      position: absolute;
-      left: 0.5rem;
-      top: 50%;
-      transform: translateY(-50%);
-      margin-right: 0.8rem;
-    }
-
-    input {
-      width: 100%;
-      padding-left: 2.5rem;
-      border-radius: 4px;
-    }
-  }
-}
-
-.buttons-group {
-  display: flex;
-  gap: 0.5rem;
-}
-
-p-tabs {
-  margin: 0 2rem;
-  width: auto;
-  background: transparent;
-
-  .p-tablist {
-    justify-content: flex-start;
-  }
-
-  .p-tabpanels {
-    margin: 0;
-    padding: 0;
-  }
-  p-tab {
-    padding: 1rem;
-  }
-}
-
-p-table {
   width: 100%;
-  background-color: #1f1f1f;
+}
+
+.search-group .p-input-icon-left {
+  width: 100%;
+  position: relative;
+}
+
+.search-group .p-input-icon-left i {
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.7;
+}
+
+.search-group .p-input-icon-left input {
+  width: 100%;
+  padding-left: 2.5rem;
+  border-radius: 4px;
+}
+
+.table-wrapper {
+  width: 100%;
+}
+
+p-table.table-dark {
+  width: 100%;
+  background: var(--surface-card);
   border-radius: 4px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  color: #e0e0e0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  color: var(--text-color);
+}
 
-  .p-datatable-thead > tr > th {
-    background-color: #2a2a2a;
-    text-align: center;
-    padding: 1rem;
-    white-space: nowrap;
-  }
+p-table.table-dark ::ng-deep .p-datatable-thead > tr > th,
+p-table.table-dark ::ng-deep .p-datatable-tbody > tr > td {
+  border: 1px solid var(--surface-300, #3a3a3a);
+}
 
-  .p-datatable-tbody > tr > td {
-    text-align: center;
-    padding: 0.75rem;
-    vertical-align: middle;
-  }
+p-table.table-dark ::ng-deep .p-datatable-thead > tr > th {
+  background: var(--surface-200, #2a2a2a);
+  text-align: center;
+  padding: 1rem;
+  white-space: nowrap;
+}
 
-  .p-sortIcon {
-    margin-left: 0.3rem;
-  }
+p-table.table-dark ::ng-deep .p-datatable-tbody > tr > td {
+  text-align: center;
+  padding: 0.75rem;
+  vertical-align: middle;
+}
+
+p-table.table-dark ::ng-deep .p-sortIcon {
+  margin-left: 0.3rem;
 }
 
 @media (max-width: 768px) {
-  .filter-bar {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
   .search-group {
-    flex: 0 0 auto;
-    width: 100%;
-    margin-bottom: 0.5rem;
-  }
-
-  .buttons-group {
-    justify-content: center;
-  }
-
-  p-tabs {
-    margin: 0 1rem;
+    flex: 0 0 100%;
   }
 }

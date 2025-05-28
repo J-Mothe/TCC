@@ -1,5 +1,20 @@
 <div class="graficos">
-  <h2>Gráficos</h2>
+  <div class="header-graficos">
+    <h2 class="titulo-pagina">Gráficos Dinâmicos</h2>
+  </div>
+
+  <div class="filter-bar">
+    <div class="placeholder-300"></div>
+    <div class="buttons-group">
+      <button
+        pButton
+        icon="pi pi-home"
+        label="Voltar para Home"
+        class="p-button-outlined"
+        [routerLink]="['/']"
+      ></button>
+    </div>
+  </div>
 
   <div class="charts-wrapper">
     <div class="chart-card">
@@ -7,6 +22,7 @@
         <ng-template pTemplate="header">
           <h3 class="chart-title">Distribuição de Categorias</h3>
         </ng-template>
+
         <div class="chart-container">
           <canvas #pieChart></canvas>
         </div>
@@ -18,14 +34,17 @@
         <ng-template pTemplate="header">
           <h3 class="chart-title">Sentimentos por Categoria</h3>
         </ng-template>
+
         <div class="chart-container">
           <p-select
+            class="w-full mb-3"
             [options]="categorias"
             [(ngModel)]="categoriaSelecionada"
             (onChange)="atualizarGraficoSentimentosCategoria()"
             placeholder="Selecione uma categoria"
-            class="w-full mb-3"
-          ></p-select>
+          >
+          </p-select>
+
           <canvas #barChart></canvas>
         </div>
       </p-card>
@@ -36,14 +55,17 @@
         <ng-template pTemplate="header">
           <h3 class="chart-title">Volume Mensal de Tweets</h3>
         </ng-template>
+
         <div class="chart-container">
           <p-select
+            class="w-full mb-3"
             [options]="anosDisponiveis"
             [(ngModel)]="anoSelecionado"
             (onChange)="atualizarGraficoMensalPorAno()"
             placeholder="Selecione um ano"
-            class="w-full mb-3"
-          ></p-select>
+          >
+          </p-select>
+
           <canvas #lineChart></canvas>
         </div>
       </p-card>

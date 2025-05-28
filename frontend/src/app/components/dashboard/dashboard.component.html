@@ -10,117 +10,98 @@
         <input
           pInputText
           type="text"
-          placeholder="Pesquisar..."
+          placeholder="Pesquisar…"
           [(ngModel)]="filtroGlobal"
-          (input)="aplicarFiltro()"
+          (input)="aplicarFiltro(dt)"
         />
       </span>
     </div>
 
     <div class="buttons-group">
       <button
-        type="button"
         pButton
-        icon="pi pi-file-excel"
-        class="p-button-success"
-        pTooltip="Exportar XLS"
-        tooltipPosition="top"
-        (click)="exportarXLS()"
-      ></button>
-      <button
-        type="button"
-        pButton
-        icon="pi pi-file-pdf"
-        class="p-button-danger"
-        pTooltip="Exportar PDF"
-        tooltipPosition="top"
-        (click)="exportarPDF()"
+        icon="pi pi-home"
+        label="Voltar para Home"
+        class="p-button-outlined"
+        [routerLink]="['/']"
       ></button>
     </div>
   </div>
 
-  <p-tabs [(value)]="selectedTab" class="tab-view">
-    <p-tablist>
-      <p-tab [value]="0">Tweets</p-tab>
-    </p-tablist>
+  <div class="table-wrapper">
+    <p-table
+      #dt
+      [value]="dataRecords"
+      [paginator]="true"
+      [rows]="10"
+      [rowsPerPageOptions]="[10, 20, 50]"
+      [globalFilterFields]="[
+        'tweetId',
+        'timestamp',
+        'content',
+        'likes',
+        'retweets',
+        'analytics',
+        'categoria',
+        'sentimento'
+      ]"
+      responsiveLayout="scroll"
+      currentPageReportTemplate="Mostrando {first} de {last} de {totalRecords}"
+      sortField="timestamp"
+      [sortOrder]="-1"
+      styleClass="p-datatable-gridlines table-dark"
+    >
+      <ng-template pTemplate="header">
+        <tr>
+          <th pSortableColumn="tweetId">
+            ID <p-sortIcon field="tweetId"></p-sortIcon>
+          </th>
+          <th pSortableColumn="timestamp">
+            Data <p-sortIcon field="timestamp"></p-sortIcon>
+          </th>
+          <th pSortableColumn="content">
+            Conteúdo <p-sortIcon field="content"></p-sortIcon>
+          </th>
+          <th pSortableColumn="likes">
+            Likes <p-sortIcon field="likes"></p-sortIcon>
+          </th>
+          <th pSortableColumn="retweets">
+            Retweets <p-sortIcon field="retweets"></p-sortIcon>
+          </th>
+          <th pSortableColumn="analytics">
+            Analytics <p-sortIcon field="analytics"></p-sortIcon>
+          </th>
+          <th pSortableColumn="categoria">
+            Categoria <p-sortIcon field="categoria"></p-sortIcon>
+          </th>
+          <th pSortableColumn="sentimento">
+            Sentimento <p-sortIcon field="sentimento"></p-sortIcon>
+          </th>
+        </tr>
+      </ng-template>
 
-    <p-tabpanels>
-      <p-tabpanel [value]="0">
-        <p-table
-          [value]="dataRecords"
-          [paginator]="true"
-          [rows]="10"
-          [globalFilterFields]="[
-            'tweetId',
-            'timestamp',
-            'content',
-            'likes',
-            'retweets',
-            'analytics',
-            'categoria',
-            'sentimento'
-          ]"
-          responsiveLayout="scroll"
-          currentPageReportTemplate="Mostrando {first} de {last} de {totalRecords}"
-          [rowsPerPageOptions]="[10, 20, 50]"
-          styleClass="p-datatable-gridlines"
-          sortField="timestamp"
-          [sortOrder]="-1"
-        >
-          <ng-template pTemplate="header">
-            <tr>
-              <th pSortableColumn="tweetId">
-                ID <p-sortIcon field="tweetId"></p-sortIcon>
-              </th>
-              <th pSortableColumn="timestamp">
-                Data <p-sortIcon field="timestamp"></p-sortIcon>
-              </th>
-              <th pSortableColumn="content">
-                Conteúdo <p-sortIcon field="content"></p-sortIcon>
-              </th>
-              <th pSortableColumn="likes">
-                Likes <p-sortIcon field="likes"></p-sortIcon>
-              </th>
-              <th pSortableColumn="retweets">
-                Retweets <p-sortIcon field="retweets"></p-sortIcon>
-              </th>
-              <th pSortableColumn="analytics">
-                Analytics <p-sortIcon field="analytics"></p-sortIcon>
-              </th>
-              <th pSortableColumn="categoria">
-                Categoria <p-sortIcon field="categoria"></p-sortIcon>
-              </th>
-              <th pSortableColumn="sentimento">
-                Sentimento <p-sortIcon field="sentimento"></p-sortIcon>
-              </th>
-            </tr>
-          </ng-template>
+      <ng-template pTemplate="body" let-record>
+        <tr>
+          <td class="text-center">{{ record.tweetId }}</td>
+          <td class="text-center">
+            {{ record.timestamp | date : "dd/MM/yyyy" }}
+          </td>
+          <td>{{ record.content }}</td>
+          <td class="text-center">{{ record.likes }}</td>
+          <td class="text-center">{{ record.retweets }}</td>
+          <td class="text-center">{{ record.analytics }}</td>
+          <td class="text-center">{{ record.categoria }}</td>
+          <td class="text-center">{{ record.sentimento }}</td>
+        </tr>
+      </ng-template>
 
-          <ng-template pTemplate="body" let-record>
-            <tr>
-              <td class="text-center">{{ record.tweetId }}</td>
-              <td class="text-center">
-                {{ record.timestamp | date : "dd/MM/yyyy" }}
-              </td>
-              <td>{{ record.content }}</td>
-              <td class="text-center">{{ record.likes }}</td>
-              <td class="text-center">{{ record.retweets }}</td>
-              <td class="text-center">{{ record.analytics }}</td>
-              <td class="text-center">{{ record.categoria }}</td>
-              <td class="text-center">{{ record.sentimento }}</td>
-            </tr>
-          </ng-template>
+      <ng-template pTemplate="emptymessage">
+        <tr>
+          <td colspan="8" class="text-center">Nenhum registro encontrado.</td>
+        </tr>
+      </ng-template>
+    </p-table>
 
-          <ng-template pTemplate="emptymessage">
-            <tr>
-              <td colspan="7" class="text-center">
-                Nenhum registro encontrado.
-              </td>
-            </tr>
-          </ng-template>
-        </p-table>
-        <p-confirmPopup></p-confirmPopup>
-      </p-tabpanel>
-    </p-tabpanels>
-  </p-tabs>
+    <p-confirmPopup></p-confirmPopup>
+  </div>
 </div>

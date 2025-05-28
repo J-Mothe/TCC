@@ -18,7 +18,7 @@
         "analytics": {
             "$numberInt": "7"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -40,7 +40,7 @@
         "analytics": {
             "$numberInt": "184"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -62,7 +62,7 @@
         "analytics": {
             "$numberInt": "27"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -84,7 +84,7 @@
         "analytics": {
             "$numberInt": "202"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -106,7 +106,7 @@
         "analytics": {
             "$numberInt": "1000"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -128,7 +128,7 @@
         "analytics": {
             "$numberInt": "140"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -150,7 +150,7 @@
         "analytics": {
             "$numberInt": "7"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -172,7 +172,7 @@
         "analytics": {
             "$numberInt": "81"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -194,7 +194,7 @@
         "analytics": {
             "$numberInt": "42"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -216,7 +216,7 @@
         "analytics": {
             "$numberInt": "1200"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -238,7 +238,7 @@
         "analytics": {
             "$numberInt": "73"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -260,7 +260,7 @@
         "analytics": {
             "$numberInt": "61000"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -282,7 +282,7 @@
         "analytics": {
             "$numberInt": "47"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -304,7 +304,7 @@
         "analytics": {
             "$numberInt": "38"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -326,7 +326,7 @@
         "analytics": {
             "$numberInt": "81"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -348,7 +348,7 @@
         "analytics": {
             "$numberInt": "105"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -370,7 +370,7 @@
         "analytics": {
             "$numberInt": "54"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -392,7 +392,7 @@
         "analytics": {
             "$numberInt": "38"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -414,7 +414,7 @@
         "analytics": {
             "$numberInt": "29"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -436,7 +436,7 @@
         "analytics": {
             "$numberInt": "21"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -458,7 +458,7 @@
         "analytics": {
             "$numberInt": "30"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -480,7 +480,7 @@
         "analytics": {
             "$numberInt": "50"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -502,7 +502,7 @@
         "analytics": {
             "$numberInt": "6"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -524,7 +524,7 @@
         "analytics": {
             "$numberInt": "60"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -546,7 +546,7 @@
         "analytics": {
             "$numberInt": "562"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -568,7 +568,7 @@
         "analytics": {
             "$numberInt": "51"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -590,7 +590,7 @@
         "analytics": {
             "$numberInt": "1800"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -612,7 +612,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -634,7 +634,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -656,7 +656,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -678,7 +678,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -700,7 +700,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -722,7 +722,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -744,7 +744,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -766,7 +766,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -788,7 +788,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -810,7 +810,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -832,7 +832,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -854,7 +854,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -876,7 +876,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -898,7 +898,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -920,7 +920,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -942,7 +942,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -964,7 +964,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -986,7 +986,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1008,7 +1008,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1030,7 +1030,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1052,7 +1052,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1074,7 +1074,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1096,7 +1096,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1118,7 +1118,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1140,7 +1140,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1162,7 +1162,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1184,7 +1184,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1206,7 +1206,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1228,7 +1228,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1250,7 +1250,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1272,7 +1272,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1294,7 +1294,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1316,7 +1316,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1338,7 +1338,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1360,7 +1360,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1382,7 +1382,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1404,7 +1404,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1426,7 +1426,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1448,7 +1448,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1470,7 +1470,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1492,7 +1492,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1514,7 +1514,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1536,7 +1536,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1558,7 +1558,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1580,7 +1580,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1602,7 +1602,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1624,7 +1624,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1646,7 +1646,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1668,7 +1668,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1690,7 +1690,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1712,7 +1712,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1734,7 +1734,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1756,7 +1756,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1778,7 +1778,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1800,7 +1800,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1822,7 +1822,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1844,7 +1844,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1866,7 +1866,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1888,7 +1888,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1910,7 +1910,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -1932,7 +1932,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -1954,7 +1954,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1976,7 +1976,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -1998,7 +1998,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -2020,7 +2020,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2042,7 +2042,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2064,7 +2064,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2086,7 +2086,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -2108,7 +2108,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2130,7 +2130,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2152,7 +2152,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2174,7 +2174,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2196,7 +2196,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -2218,7 +2218,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2240,7 +2240,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2262,7 +2262,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2284,7 +2284,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2306,7 +2306,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2328,7 +2328,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "negativo"
     },
     {
@@ -2350,7 +2350,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "positivo"
     },
     {
@@ -2372,7 +2372,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     },
     {
@@ -2394,7 +2394,7 @@
         "analytics": {
             "$numberInt": "0"
         },
-        "categoria": "transporte",
+        "categoria": "infraestrutura",
         "sentimento": "neutro"
     }
 ]

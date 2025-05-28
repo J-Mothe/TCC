@@ -11,9 +11,10 @@
   margin-bottom: 2rem;
 
   .hero-card {
-    background: #1f1f1f;
-    color: #e0e0e0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    background: var(--surface-card);
+    color: var(--text-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    text-align: center;
   }
 }
 
@@ -27,10 +28,11 @@
 
   .card {
     width: 250px;
-    background: #1f1f1f;
-    color: #e0e0e0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    background: var(--surface-card);
+    color: var(--text-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
     border-radius: 8px;
+    text-align: center;
   }
 }
 
@@ -43,15 +45,16 @@
 
   p-card {
     width: 100%;
-    background: #1f1f1f;
-    color: #e0e0e0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    background: var(--surface-card);
+    color: var(--text-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    text-align: center;
   }
 }
 
 .titulo-pagina {
   font-size: 2rem;
   text-align: center;
-  color: #34d399;
+  color: var(--primary-color);
   margin-bottom: 1rem;
 }

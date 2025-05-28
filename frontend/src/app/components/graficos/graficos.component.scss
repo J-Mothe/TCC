@@ -1,14 +1,43 @@
 .graficos {
   padding: 2rem;
-  background-color: #121212;
-  color: #e0e0e0;
+  background: var(--surface-ground);
+  color: var(--text-color);
+}
 
-  h2 {
-    text-align: center;
-    margin-bottom: 2rem;
-    color: #34d399;
-    font-size: 2rem;
-  }
+.header-graficos {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.titulo-pagina {
+  margin: 0;
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+.filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.placeholder-300 {
+  flex: 0 0 300px;
+}
+
+.buttons-group {
+  flex: 0 0 auto;
+  margin-left: auto;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.buttons-group .p-button {
+  flex: 0 0 auto;
+  min-width: 140px;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
 }
 
 .charts-wrapper {
@@ -19,29 +48,67 @@
 }
 
 .chart-card {
-  flex: 1 1 300px;
+  flex: 1 1 350px;
   max-width: 400px;
 }
 
-.chart-container {
-  position: relative;
-  height: 300px;
-}
-
 :host ::ng-deep .chart-card-content {
-  background-color: #1f1f1f !important;
+  background: var(--surface-card);
   border: none;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  padding-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  padding: 1rem 1rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 .chart-title {
   text-align: center;
-  margin: 1rem 0 0.5rem 0;
-  color: #34d399;
-  font-weight: 500;
+  margin: 0 0 0.5rem;
+  color: var(--primary-color);
   font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.chart-container {
+  position: relative;
+  width: 100%;
+  min-height: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+.chart-container canvas {
+  width: 100% !important;
+  max-height: 300px;
+}
+
+.chart-container .chartjs-legend {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+  font-size: 0.9rem;
+  color: var(--text-color);
+  list-style: none;
+  padding: 0;
+}
+
+.chart-container .chartjs-legend li {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.chart-container .chartjs-legend li span {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  display: inline-block;
 }
 
 @media (max-width: 768px) {
@@ -49,8 +116,20 @@
     flex-direction: column;
     align-items: center;
   }
-
   .chart-card {
     max-width: 90%;
+  }
+
+  .filter-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .placeholder-300 {
+    display: none;
+  }
+  .buttons-group {
+    margin-left: 0;
+    justify-content: flex-end;
   }
 }

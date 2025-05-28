@@ -23,5 +23,6 @@ export class SidebarComponent {
       routerLink: ['/dashboard'],
     },
     { label: 'Gráficos', icon: 'pi pi-chart-bar', routerLink: ['/graficos'] },
+    { label: 'Insights', icon: 'pi pi-lightbulb', routerLink: ['/insights'] },
   ];
 }

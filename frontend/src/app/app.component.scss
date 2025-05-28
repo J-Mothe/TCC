@@ -11,8 +11,10 @@ app-sidebar {
   flex: 1;
   margin-left: 0;
   padding: 1rem;
-  background-color: #121212;
-  color: #e0e0e0;
+
+  background: var(--surface-ground);
+  color: var(--text-color);
+
   overflow: auto;
 }
 

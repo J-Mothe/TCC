@@ -3,30 +3,41 @@
 @import "../node_modules/quill/dist/quill.core.css";
 @import "../node_modules/quill/dist/quill.snow.css";
 
+:root,
+.p-component {
+  --surface-ground: #121212;
+  --surface-card: #1f1f1f;
+  --text-color: #e0e0e0;
+  --text-color-secondary: #9e9e9e;
+
+  --primary-color: #34d399;
+  --primary-color-text: #121212;
+}
+
 html {
-  --scrollbarBG: #cfd8dc;
-  --thumbBG: #90a4ae;
-  background-color: #121212;
-  color: #e0e0e0;
+  color-scheme: dark;
+  background: var(--surface-ground);
 }
 
 body {
   margin: 0;
   padding: 0;
+  background: var(--surface-ground);
+  color: var(--text-color);
+
+  --scrollbarBG: #292929;
+  --thumbBG: #505050;
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
-
 body::-webkit-scrollbar {
   width: 0.8em;
 }
-
 body::-webkit-scrollbar-track {
   background: var(--scrollbarBG);
 }
-
 body::-webkit-scrollbar-thumb {
-  background-color: var(--thumbBG);
+  background: var(--thumbBG);
   border-radius: 6px;
   border: 3px solid var(--scrollbarBG);
 }

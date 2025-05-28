@@ -17,6 +17,7 @@ import { SelectModule } from 'primeng/select';
 import { ConfirmationService, MessageService } from 'primeng/api';
 import { Chart } from 'chart.js/auto';
 import { ApiService } from '../../services/api.service';
+import { ButtonModule } from 'primeng/button';
 
 type Sentimento = 'positivo' | 'neutro' | 'negativo';
 
@@ -50,16 +51,15 @@ interface Tweet {
     FormsModule,
     ConfirmPopupModule,
     SelectModule,
+    ButtonModule,
   ],
   providers: [ConfirmationService, MessageService],
 })
 export class GraficosComponent implements OnInit, AfterViewInit {
-  /* refs de canvas */
   @ViewChild('pieChart') pieChart!: ElementRef<HTMLCanvasElement>;
   @ViewChild('barChart') barChart!: ElementRef<HTMLCanvasElement>;
   @ViewChild('lineChart') lineChart!: ElementRef<HTMLCanvasElement>;
 
-  /* Chart.js instances */
   pieChartInstance!: Chart;
   barChartInstance!: Chart;
   lineChartInstance!: Chart;
@@ -78,7 +78,7 @@ export class GraficosComponent implements OnInit, AfterViewInit {
   ];
   anosDisponiveis: { label: string; value: number }[] = [];
 
-  categoriaSelecionada = 'educação'; // ← igual ao JSON
+  categoriaSelecionada = 'educação';
   anoSelecionado = new Date().getFullYear();
 
   constructor(
@@ -88,7 +88,6 @@ export class GraficosComponent implements OnInit, AfterViewInit {
     this.isBrowser = isPlatformBrowser(platformId);
   }
 
-  /* ---------- ciclo de vida ---------- */
   ngOnInit(): void {
     this.apiService.getData().subscribe({
       next: (tweets) => {
@@ -104,7 +103,6 @@ export class GraficosComponent implements OnInit, AfterViewInit {
     if (this.data.length && this.isBrowser) this.initGraficos();
   }
 
-  /* ---------- preparação geral ---------- */
   private initGraficos(): void {
     const catCount: Record<string, number> = {};
     const anosSet = new Set<number>();
@@ -123,9 +121,8 @@ export class GraficosComponent implements OnInit, AfterViewInit {
     this.atualizarGraficoMensalPorAno();
   }
 
-  /* ---------- gráfico 1 ---------- */
   private gerarGraficoCategorias(cont: Record<string, number>): void {
-    if (!this.isBrowser) return; // evita SSR
+    if (!this.isBrowser) return;
     const labels = Object.keys(cont);
     const valores = Object.values(cont);
     const cores = [
@@ -158,7 +155,6 @@ export class GraficosComponent implements OnInit, AfterViewInit {
     });
   }
 
-  /* ---------- gráfico 2 ---------- */
   atualizarGraficoSentimentosCategoria(): void {
     if (!this.isBrowser) return;
     const tot: Record<Sentimento, number> = {
@@ -192,7 +188,6 @@ export class GraficosComponent implements OnInit, AfterViewInit {
     });
   }
 
-  /* ---------- gráfico 3 ---------- */
   atualizarGraficoMensalPorAno(): void {
     if (!this.isBrowser) return;
     const mensais = new Array<number>(12).fill(0);
